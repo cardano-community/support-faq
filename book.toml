@@ -6,7 +6,7 @@ src = "docs"
 title = "Cardano Community managed support documentations"
 
 [output.html]
-default-theme = "Coal"
+default-theme = "Rust"
 theme = "docs/.theme"
 git-repository-url = "https://github.com/cardano-community/support-faq"
 git-repository-icon = "fa-github"
