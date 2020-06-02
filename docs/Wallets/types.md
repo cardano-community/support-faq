@@ -1,9 +1,11 @@
-# Types of Wallets
+## Types of Wallets
 
 - [Hardware Wallets](#hardware-wallets)
 - [Software Wallets](#software-wallets)
+  - [Full-Node Wallets](#full-node-wallet)
+  - [Light Wallets](#light-wallet)
 
-To summarise from end user's point of view, there are two types of wallet:
+To summarise from end user's point of view, there are primarily two types of wallet:
 
 ### Hardware Wallets:
 

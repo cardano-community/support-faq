@@ -1,32 +1,19 @@
-# List of Wallets
+## List of Wallets
 
 ### Official Wallets
 
-The following official wallets are developed and supported by IOHK and EMURGO respectively. Both wallets have support teams to assist end users with issues / queries. Additionally, admins in the [@CardanoCommunityTechSupport](https://t.me/CardanoCommunityTechSupport) Telegram channel are generally familiar with both wallets.
-  
-##### Daedalus  
-- Full node  
-- Desktop OS (Windows, MacOS, Linux)  
-- Installed as an application 
-- No support for hardware wallets
+The following official wallets are developed and supported by IOHK and EMURGO respectively. Both wallets have support teams to assist end users with issues / queries. Additionally, admins in the [Cardano Community Tech Support](https://t.me/CardanoCommunityTechSupport) Telegram channel are generally familiar with queries for both wallets.
 
-Web: https://daedaluswallet.io  
-Telegram: https://t.me/Cardano  
-  
-##### Yoroi  
-- Light client 
-- Desktop and mobile OS support (Android, iOS)  
-- Installed as a desktop web browser extension or native mobile app  
-- Supports hardware wallets
+|Wallet Name|Developed by|Type|Hardware Wallet support|Open Source|Platform|Staking Support|
+|---|---|---|---|---|---|---|
+|[Daedalus](./daedalus.md)|[IOHK](https://iohk.io) |Full Node|No, soon|[Yes](https://github.com/input-output-hk/daedalus)|Windows, MacOS, Linux| Yes|
+|[Yoroi](./yoroi.md)|[Emurgo](https://emurgo.io)|Light|Yes (Ledger Nano S/X), Trezor Model T|[Yes](https://github.com/emurgo/yoroi-frontend)| Chrome Extension, Firefox Add-on, Android, IPhone|Yes|
 
-Web: https://yoroi-wallet.com  
-Telegram: https://t.me/Cardano  
-  
-   
 ### 3rd Party Wallets  
 
-The following unofficial wallets are developed and supported by external organisations. Admins in the [@CardanoCommunityTechSupport](https://t.me/CardanoCommunityTechSupport) Telegram channel may not be familiar with these wallets.  
-  
+The following wallets are developed and supported by third party and any issues with these will need support from the corresponding teams, asking for support in official Cardano groups may not help for such issues.
+
+
 #### Mobile:  
   
 ##### Atomic  
