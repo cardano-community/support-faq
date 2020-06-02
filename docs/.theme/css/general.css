@@ -89,7 +89,7 @@ h4 a.header:target {
 .content ul { line-height: 1.45em; }
 .content a { text-decoration: none; }
 .content a:hover { text-decoration: underline; }
-.content img { max-width: 100%; }
+.content img { max-width: 100%; text-align: center;}
 .content .header:link,
 .content .header:visited {
     color: var(--fg);

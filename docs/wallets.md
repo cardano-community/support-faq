@@ -1,4 +1,4 @@
-# Wallets
+## Wallets
 
 - [What is a Wallet?](#what-is-a-wallet)
 - [Private keys](#basics-about-private-keys)
