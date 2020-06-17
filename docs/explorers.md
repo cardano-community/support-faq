@@ -21,11 +21,17 @@ Some explorers provide additional tools and information, such as API support, a 
 
 ### List of Explorers
 
-|Name|Official|Stakepool info|API Support|Direct URLs|Rich List|
+|Name|Official|Stakepool info**|API Support|Direct URLs|Rich List|
 |---|---|---|---|---|---|
 |[Cardano Explorer](https://explorer.cardano.org)|Yes ([IOHK](https://iohk.io))|Soon|No|Yes|No|
 |[Seiza](https://seiza.com)|Yes ([Emurgo](https://emurgo.io))|Soon|No|Yes|No|
 |[ADAScan](http://adascan.net/)|No|No|No|Yes|Yes|
-|[ADAEx](https://adaex.org/)|No|No||No|Yes|Yes|
-|[ADAStat](https://adastat.net)|No|No|No|Soon|Yes|Yes
-
+|[ADAEx](https://adaex.org/)|No|Soon|No|Yes|Yes|
+|[ADAStat*](https://adastat.net)|No|Soon|Soon|Yes|Yes|
+|[Clio.One](https://clio.one/)|No|No|No|Yes|No|
+|[BlockChair](https://blockchair.com/cardano)|No|No|No|Yes|No|
+  
+  
+  
+_*Currently on ITN, soon on Mainnet_  
+_**Staking on mainnet will only be available after 3rd August_
