@@ -11,6 +11,7 @@
       - [Transfer Daedalus Wallet to Yoroi](./Wallets/Yoroi/transfer.md)
       - [Restore an existing Wallet](./Wallets/Yoroi/restore.md)
   - [List of Explorers](./explorers.md)
+  - [Selecting Pool for delegation](./select-pool-to-delegate.md)
   - [Safety against common Scams](./no-to-scam.md)
 - [Not Started yet](./index.md)
   - [Wallets](./wallets.md)
