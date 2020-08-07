@@ -1,5 +1,3 @@
-## How to identify a SCAM
-
 We commonly come across users losing their moneys to various giveaways or impersonators. Being in a decentralised cryptocurrency means you as an individual are your own bank, and only you are responsible for protecting your funds.
 If you fall for any of these and you giveaway funds or share your private keys, **nobody** can recover your funds. Do your due diligence when operating your crypto, just as you would when operating fiat currency notes.
 Also, if you come across such a scam, please forward the messages or group information to [Cardano Report To Admin](https://t.me/CardanoReportToAdmin) group on telegram.
@@ -7,8 +5,7 @@ Note to telegram users, we cannot do much if you forward a screenshot, please en
 
 Below is a list of common Gotchas to be aware of for common scam practices and ways to be safe:
 
-<details>
-<Summary>Free Giveaways/Promotion</Summary>
+##### Free Giveaways/Promotion
 
 *"If it is looks too good to be true, it probably is"*
 
@@ -20,10 +17,7 @@ Checkout a typical giveaway scam and fake user responses below:
 
 ![Giveaway Scams](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/giveaway-scam1.jpg)![Fake bots confirming scams](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/giveaway-scam2.jpg)
 
-</details>
-
-<details>
-<Summary>Receiving DM from someone impersonating admins/ambassadors</Summary>
+##### Receiving DM from someone impersonating admins/ambassadors
 
 One other common scamming practice you often see on telegram is accounts trying to impersonate official accounts or personnels (admins/ambassadors).
 
@@ -35,10 +29,7 @@ These types of scams are pretty easy to identify yourself if you pay attention t
 - They may mask the usernames to be similar (eg: `rd1rt` instead of `rdlrt`) or they may hide Username and add `@rdlrt` text to Bio instead. Please be on the lookout for such methods and verify Username *as well as* Bio when chatting with anyone in DMs.  
 ![Check Username and Bio](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-impersonator-check-2.jpg)
 
-</details>
-
-<details>
-<Summary>Being added to a random group/channel(s)</Summary>
+##### Being added to a random group/channel(s)
 
 Very often telegram users are added to a scam group that looks legit (see screenshot below). The content of the group may be promotional as above or try to push in a scam link within group of correct ones. If you're not sure if you jo
 ined that group, please cross-check the list of [community groups on telegram](https://t.me/Cardano/271989).
@@ -51,14 +42,9 @@ To prevent getting added to such groups, please ensure your user settings in tel
 ![Telegram Privacy Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-2.jpg)
 ![Telegram Allow adding to groups Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-3.jpg)
 
-</details>
-
-<details>
-<Summary>Receiving DM from unknown users</Summary>
+##### Receiving DM from unknown users
 
 One of the more common and amateur scam attempts would be scammers with fake user profiles (often using a model or an investor's photo in profile) will message you directly, and after a friendly conversation ask you either for assistance with stuck funds (asking you to share some funds to unlock theirs) or giving investment expert recommendations (often to a scam exchange/website). Simply forward the message to the admin group mentioned earlier, and report such users to telegram as spam. Few examples of such scam conversations below:
 
 ![Telegram Random DMs](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-random-dm-1.jpg)
 ![Telegram Random DMs](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-random-dm-2.jpg)
-
-</details>

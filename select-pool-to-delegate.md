@@ -1,4 +1,3 @@
-### Selecting a Stake Pool to delegate with
 
 There is no 1-for-all pool that you can delegate with, otherwise - every one would be delegating to same pool and there wouldnt be a point of decentralisation :) . While many users are attracted to the pool with lowest fee margins, it is usually the least important factor to distinguish between stake pools. Below are a few factors that might be important to take into consideration.
 
@@ -31,7 +30,7 @@ Most of these sites will allow you to filter using various parameters to help yo
 
 #### Fees
 
-There are a few fee parameters that you see associated with a pool that people like to take into consideration:
+While standing a basic stakepool isnt really difficult, managing a pool operator with good security, availability, maintainance, and visibility requires incurs time as well as financial expenses. The protocol , thus, allows pool to specify their fees and allows it to do so based on a number of parameters. As a delegator, below is a gist of things to know about when looking at pool fees:
 
 ##### Pool Pledge
   Pledge is basically the promise from the owners of a pool to maintain in their owner keys of the pool (thus , their own "skin-in-the-game"). Higher amount of pledge is rewarded by higher amount of rewards. However, note that at the current protocol parameters, the overall difference for rewards is not hugely affected by a pool pledging 100K vs pool pledging 1M (eg: for base assumptions, delegating 100K towards 100K pledged pool might earn you 5159 v/s 1M pledged pool might earn you 5161 ADA annually. However, delegating with 10M pledged pool for same assumptions might earn you 5223 ADA for the same scenario over a year. You can play with pledge parameter and their effects using the IOHK staking calculator [here](https://testnets.cardano.org/en/cardano/tools/staking-calculator/)

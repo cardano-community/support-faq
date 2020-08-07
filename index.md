@@ -1,4 +1,3 @@
-# Welcome !!
 
 This is a community served documentation of various Frequently asked usage/issue queries alongwith some how-to guides for use within Cardano ecosystem.
 Note that we try to intentionally keep stake pool operator or testnet related queries seperate due to the volume and lifetime of the queries. The best place to ask for assistance for operating stake pool would be [Cardano Shelley workgroup](https://t.me/CardanoStakePoolWorkgroup) on telegram, while you might find handy tools to operate your stakepool in [guild](https://cardano-community.github.io/guild-operators) documentations.
