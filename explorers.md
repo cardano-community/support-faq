@@ -1,6 +1,4 @@
-## List of Explorers
-
-### What is an Explorer?
+##### What is an Explorer?
 
 An explorer is a web based graphical tool, used to search for and view information stored on the blockchain ledger.  
 
@@ -19,7 +17,7 @@ Block producing node identifier
 
 Some explorers provide additional tools and information, such as API support, a list of the largest addresses by ada balance, and graphical visualisations of the blockchain's network activity.
 
-### List of Explorers
+##### List of Explorers
 
 |Name|Official|Stakepool info**|API Support|Direct URLs|Rich List|
 |---|---|---|---|---|---|
