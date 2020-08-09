@@ -8,6 +8,7 @@ In this section we will discuss the different aspects that users should consider
 - [ADAPools](https://adapools.org)
 - [Pegasus](https://pegasuspool.info/explorer)
 - [CardanoScan](http://cardanoscan.io)
+
 Most of these sites will allow you to filter using various parameters to help you with the decision making. Furthermore, note the points below:
 
 #### Saturation Point

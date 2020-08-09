@@ -4,32 +4,32 @@ An explorer is a web based graphical tool, used to search for and view informati
 
 When users interact with the Cardano network, whether that is by sending and receiving ada or delegating to a stake pool, these interactions are broadcast to the network in the form of transactions. A block producing node takes a number of these transactions, verifies their validity and then adds them to the tip of the chain in a new block.  
 
-Blockchain explorers allow users to view these blocks and the included transactions, in addition to supplementary metadata. They present this data in a format that is human readable and accessible using a web browser.  
+Blockchain explorers allow users to query based on various aspects - blocks, transactions, addresses , and with the transition to shelley era - stake pool information. They present this data in a format that is human readable and accessible using a web browser.  
 
-Cardano explorers commonly provide the following information:  
-Epoch number  
-Slot number  
-Block number  
-Transaction hashes  
-Input and output values  
-Timestamp  
-Block producing node identifier  
+Some explorers provide additional tools and information, such as API support, a list of the largest addresses by ADA balance, graphical visualisations of the blockchain's network activity, stakepool distributions, etc.
 
-Some explorers provide additional tools and information, such as API support, a list of the largest addresses by ada balance, and graphical visualisations of the blockchain's network activity.
+##### List of Explorers :id=list
 
-##### List of Explorers
+Below we can find a list of known Blockchain/Pool explorers:
 
-|Name|Official|Stakepool info**|API Support|Direct URLs|Rich List|
-|---|---|---|---|---|---|
-|[Cardano Explorer](https://explorer.cardano.org)|Yes ([IOHK](https://iohk.io))|Soon|No|Yes|No|
-|[Seiza](https://seiza.com)|Yes ([Emurgo](https://emurgo.io))|Soon|No|Yes|No|
-|[ADAScan](http://adascan.net/)|No|No|No|Yes|Yes|
-|[ADAEx](https://adaex.org/)|No|Soon|No|Yes|Yes|
-|[ADAStat*](https://adastat.net)|No|Soon|Soon|Yes|Yes|
-|[Clio.One](https://clio.one/)|No|No|No|Yes|No|
-|[BlockChair](https://blockchair.com/cardano)|No|No|No|Yes|No|
-  
-  
-  
-_*Currently on ITN, soon on Mainnet_  
-_**Staking on mainnet will only be available after 3rd August_
+|Name              |Shelley-Ready|Blockchain Info|Stakepool info|API Support|Rich List |Official|
+|------------------|-------------|---------------|--------------|-----------|----------|--------|
+|[Cardano Explorer]|Paritally    |Yes            |Soon          |Yes        |No        |[IOHK](https://iohk.io)|
+|[Seiza]           |Soon         |Yes            |Soon          |Soon       |No        |[Emurgo](https://emurgo.io)|
+|[ADAScan]         |Soon         |Yes            |Soon          |No         |Yes       |No|
+|[ADAEx]           |Yes          |Yes            |Yes           |Yes        |Yes       |No|
+|[CardanoScan]     |Yes          |Yes            |Yes           |No         |No        |No|
+|[Pooltool]        |Yes          |No             |Yes           |Yes        |No        |No|
+|[Pegasus]         |Yes          |Yes            |Yes           |No         |No        |No|
+|[ADAStat]         |Soon         |Soon           |Soon          |Soon       |Soon      |No|
+|[BlockChair]      |No           |Yes            |No            |Yes        |No        |No|
+
+[Cardano Explorer]: https://explorer.cardano.org
+[Seiza]: https://seiza.com
+[ADAScan]: https://adascan.net
+[ADAEx]: https://adaex.org
+[CardanoScan]: https://cardanoscan.io
+[Pooltool]: https://pooltool.io
+[Pegasus]: https://pegasuspool.info/explorer
+[ADAStat]: https://adastat.net
+[BlockChair]: https://blockchair.com/cardano
