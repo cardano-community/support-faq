@@ -1,9 +1,9 @@
 
 Now that you have familiarised with what wallet is, lets explore the types of wallets you can use. Please navigate as per below to explore specific type of wallet.
 
-To summarise from end user's point of view, there are primarily two types of wallet:
+To summarise from end user's point of view, there are primarily two types of wallet interfaces:
 
-### Software Wallets
+### Software (Hot) Wallets
 
 A software wallet is a digital wallet interface where the cryptographic keys (encrypted) will be stored on the device you're using. Within software wallets, there are mainly two types of wallets as noted below.
 
@@ -39,6 +39,12 @@ For official links about the comparison, kindly visit [this support article](htt
 
 <!-- tabs:end -->
 
-### Hardware Wallets
+### Paper (Cold) Wallets
+
+Paper wallets are essentially wallets created by software interfaces, but done in such a way that the keys for those paper wallets were never online. These usually provide seeds in two parts - a part printed on paper, and other part with words (in case of Daedalus) or password (in case of Yoroi) that guarantees that even if someone has access to the paper, they wont be able to access your keys. Points to remember:
+- The Software creating paper wallet will not have transferred funds to a generated wallet, it has to be a manual action.
+- If for whatever reason you decide to restore your paper wallet, your wallet will have been restored on a digital device which is online and would no longer be a "cold" wallet. Thus, it would be best in that case to create a new paper wallet from security point of view.
+
+### Hardware (Cold) Wallets
 
 Visit [this](https://emurgo.io/en/blog/hardware-wallet-explanation-yoroi-keep-ada-safe) blog from Emurgo for a brief summary of how Hardware Wallets work with Yoroi

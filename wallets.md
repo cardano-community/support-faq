@@ -10,9 +10,24 @@ The best practices for securing your private key depend on individual's usage of
 
 #### Heirarchical Deterministic (HD) Wallets
 
-Hierarchical Deterministic (HD) wallets allow users to derive keys (private and public) from a common seed (mnemonics) that are easier to backup and allow better wallet features and privacy of history. This means you may receive a combination of words (12, 15, 24, 25 or 27 - dependening on type of wallet software you elect) and the hash of these words actually result in your unique private key, making it easier for access and security. One of the features of a HD wallet is that a single wallet can hold up to 2147483647 accounts with 2147483647 addresses, all associated to a single wallet - and each with its own unique history of transaction records.
+Hierarchical Deterministic (HD) wallets allow users to derive keys (private and public) from a common seed (built using BIP39 mnemonics) that are easier to backup and allow better wallet features and privacy of history. This means you may receive a combination of words (12, 15, 24, 25 or 27 - dependening on type of wallet software you elect) and the hash of these words actually result in your unique private key, making it easier for access and security. One of the features of a HD wallet is that a single wallet can hold up to 2147483647 accounts with 2147483647 addresses, all associated to a single wallet - and each with its own unique history of transaction records.
 
-You can visit [this wiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) for detailed information about HD Wallets and how address derivation works between HD Random (Legacy Byron Daedalus wallets - where addresses start with Ddz..) and HD Sequential (Yoroi Wallets - where Addresses start with Ae2..) on current mainnet.
+You can visit [this wiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) for detailed information about HD Wallets and how address derivation works between:
+- HD Random (Legacy Byron Daedalus wallets - where addresses start with `Ddz..`
+- Legacy Byron Icarus-style HD Sequntial wallets - where addresses start with `Ae2..`
+- Shelley wallets (still based on HD Sequential , but using bech32 - typical address starting with `addr...`).
+
+You might see that there are number of different combination of number of words for mnemonics supported in different wallets. Just to give a brief summary of which wallet type supports how many seeds:
+
+|Wallet            |Era      |Type      |Number of words                |
+|------------------|---------|----------|-------------------------------|
+|Daedalus          |Byron    |Hot/Online|12                             |
+|Daedalus          |Byron    |Paper     |27 (18 on paper + 9 digital)   |
+|Daedalus Rewards  |ITN      |Hot/Online|15                             |
+|Yoroi             |Byron/ITN|Hot/Online|15                             |
+|Yoroi             |Byron/ITN|Paper     |21 on paper + Spending password|
+|Daedalus          |Shelley  |Hot/Online|24                             |
+|Yoroi             |Shelley  |Hot/Online|24                             |
 
 #### Funds in a wallet versus address
 
@@ -28,4 +43,3 @@ When querying funds, if you're looking at value of an address - you may not see 
 Thus, best way to query your funds is using your wallet software , which had access to your keys. While to look at whether funds have reached to address B, explorer comes in handy.
 
 For further details, you can read the excellent [blog from Emurgo](https://emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained) which goes into moredetails about UTXO model.
-
