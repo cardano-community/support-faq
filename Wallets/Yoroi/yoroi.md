@@ -1,13 +1,4 @@
-!> We're currently waiting for Shelley features to be live for Yoroi Wallet, before revisiting this page
-
 Yoroi is one of the official light wallets for Cardano developed by Emurgo , original based on Project Icarus developed by IOG (formerly known as IOHK). The wallet is available officially as a chromium extension (thus, usable in Chrome, Microsoft Edge, Brave, Yandex) or as mobile apps on Android and iOS.
-
-#### How to Install/Uninstall Yoroi :id=install {docsify-ignore}
-
-* [Official Website to download Yoroi](#official-website)
-* [Installing Yoroi as chrome extension](#installing-yoroi-as-chrome-extension)
-* [Does Yoroi need an upgrade?](#does-yoroi-need-an-upgrade)
-* [Uninstall Yoroi](#uninstall-yoroi)
 
 ##### Official Website to download Yoroi
 
