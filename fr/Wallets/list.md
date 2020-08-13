@@ -1,5 +1,5 @@
 
-Voici une liste de portefeuilles bien connus pour soutenir Cardano.
+Voici une liste de portefeuilles connus pour prendre en charge Cardano.
 
 Notez qu'en cas de problème, seules les questions relatives aux portefeuilles officiels peuvent généralement trouver une réponse dans les groupes Cardano par Telegram/forum. Vous devrez peut-être consulter des équipes de soutien aux portefeuilles spécifiques pour les portefeuilles tiers.
 
