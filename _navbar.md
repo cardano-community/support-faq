@@ -1,3 +1,4 @@
-<nav>
-  <a href="#/">EN</a>
-</nav>
+<!-- _navbar.md -->
+
+* [EN](/)
+  * [FR](/fr/)
