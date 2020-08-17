@@ -1,23 +1,23 @@
-#### What is a Wallet? {docsify-ignore}
+#### ウォレットとは? {docsify-ignore}
 
-A wallet is a software program that creates, stores and manages access to the private and public key pairs that control funds on a blockchain.  You can use different wallets but, as long as you're using same private key, you would have access to the same funds on chain.  Wallets in the Cardano ecosystem are `Hierarchical Deterministic (HD)` and based on the `UTXO` model - and for good reasons. Before diving into these terms, lets review the basics regarding keys.
+ウォレットは、ブロックチェーン上の資金を制御する秘密鍵と公開鍵のペアへのアクセスを作成、保存、管理するソフトウェアプログラムです。 同じ秘密鍵を使用している限り、異なるウォレットであってもチェーン上の同じ資金にアクセスできます。 Cardanoのウォレットは「階層的決定論的（HD）」であり、相当な理由により「UTXO」モデルに基づいています。 これらの用語解説に入る前に、鍵に関する基本を確認してみましょう。
 
-#### Basics about Private keys {docsify-ignore}
+#### 秘密鍵の基本 {docsify-ignore}
 
-A private key is a randomly generated string of characters that can generate a public key, which can go through hashing to form addresses. The introduction of Cryptocurrency initiated with users being in complete control without relying on an external entity (being your bank). This automatically means user is responsible for his own funds, and it is an individual's responsibility to keep this private key(s) safe and secure. If you lose your private keys, you essentially lose your access to digital funds on blockchain, and no one (not even developers) can get your access back.
+秘密鍵は、ランダムに生成された文字列であり、公開鍵を生成できます。公開鍵は、ハッシュを使ってアドレスを形成できます。暗号通貨の利用は、ユーザーが（銀行などの）外部の何かに依存することなく完全に制御できます。これは自動的にユーザーが自分の資金に対して責任を負うことを意味し、この秘密鍵を安全に保つことは個人の責任です。秘密鍵を紛失すると、基本的にブロックチェーン上のデジタルファンドへのアクセスが失われ、誰も（開発者でさえも）アクセスを取り戻すことはできません。
 
-The best practices for securing your private key depend on individual's usage of his device. There isnt a golden rule that applies to all. In the current age, having keys online is often susceptible to vulnerabilities - be it security of your online device, or access to physical servers. Thus, a common good practice is having your private keys offline from a digitial media. You dont want any form of unencrypted or easily brute forcable format of private key on your online device.
+秘密鍵を保護するためのベストプラクティスは、個人のデバイスの使用状況によって異なります。すべてに適用される黄金律はありません。現代では、キーをオンラインにすると、オンラインデバイスのセキュリティや物理サーバーへのアクセスなど、脆弱性の影響を受けやすくなります。したがって、一般的な良い方法は、デジタルメディアからプライベートキーをオフラインの状態にすることです。オンラインデバイスで、暗号化されていない、または簡単に総当たり攻撃できるように秘密鍵をしておきたくないと思うでしょう。
 
-#### Heirarchical Deterministic (HD) Wallets {docsify-ignore}
+#### 階層的決定論的（HD） {docsify-ignore}
 
-Hierarchical Deterministic (HD) wallets allow users to derive keys (private and public) from a common seed (built using BIP39 mnemonics) that are easier to backup and allow better wallet features and privacy of history. This means you may receive a combination of words (12, 15, 24, 25 or 27 - dependening on type of wallet software you elect) and the hash of these words actually result in your unique private key, making it easier for access and security. One of the features of a HD wallet is that a single wallet can hold up to 2147483647 accounts with 2147483647 addresses, all associated to a single wallet - and each with its own unique history of transaction records.
+階層的決定論的（HD）ウォレットにより、ユーザーは共通の単語（BIP39ニーモニックを使用して構築）から鍵（秘密鍵および公開鍵）を導出でき、バックアップが容易になり、ウォレットの機能と履歴のプライバシーが向上します。これは、単語の組み合わせ（12、15、24、25または27-選択したウォレットソフトウェアのタイプによって異なる）となる場合、これらの単語のハッシュは実際に一意の秘密鍵となり、アクセスとセキュリティを容易にします。 HDウォレットの機能の1つは、1つのウォレットが、2147483647のアドレスを持つ2147483647までのアカウントを保持できることです。これらのアカウントはすべて1つのウォレットに関連付けられており、それぞれにトランザクションレコードの固有の履歴があります。
 
-You can visit [this wiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) for detailed information about HD Wallets and how address derivation works between:
-- HD Random (Legacy Byron Daedalus wallets - where addresses start with `Ddz..`
-- Legacy Byron Icarus-style HD Sequntial wallets - where addresses start with `Ae2..`
-- Shelley wallets (still based on HD Sequential , but using bech32 - typical address starting with `addr...`).
+ [このwiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) にアクセスすると、HDウォレットの詳細と、アドレスの導出方法について説明されています。
+-HD Random（レガシーバイロンダイダロスウォレット-アドレスが「Ddz ..」で開始
+-レガシーバイロンイカルススタイルのHDシーケンシャルウォレット-アドレスが「Ae2 ..」で開始
+-Shelleyウォレット（まだHD Sequentialに基づいていますが、`addr ...`で開始するbech32を使用）。
 
-You might see that there are number of different combination of number of words for mnemonics supported in different wallets. Just to give a brief summary of which wallet type supports how many seeds:
+さまざまなウォレットでサポートされているニーモニックの単語数の組み合わせがいくつかあることに気付くでしょう。どのウォレットタイプがいくつのシードをサポートしているかの簡単な要約：
 
 |Wallet            |Era      |Type      |Number of words                |
 |------------------|---------|----------|-------------------------------|
@@ -29,17 +29,18 @@ You might see that there are number of different combination of number of words 
 |Daedalus          |Shelley  |Hot/Online|24                             |
 |Yoroi             |Shelley  |Hot/Online|24                             |
 
-#### Funds in a wallet versus address {docsify-ignore}
+#### ウォレットの資金とアドレス {docsify-ignore}
 
-One of the common confusions users encounter is reading balance of a HD Wallet, and conflicting funds in an address versus funds in a wallet. This is because of the way UTXO (Unspent Transaction Output) HD Wallets operate. Every new transaction within a wallet automatically selects a set of addresses that form a minimum balance to make the transfer, and then adds a *new* output address (referred to as UTXO above) - which is a "change address".
-The concept is best explained by using an analogy with currency notes - as used in current financial system.
+ユーザーが遭遇する一般的な混乱の1つは、HDウォレットの残高の読み取りと、アドレスとウォレットの資金の部分です。これは、UTXO（未使用トランザクション出力）HDウォレットの動作方法がそうであるためです。ウォレット内のすべての新しいトランザクションは、転送を行うための最小残高を形成する一連のアドレスを自動的に選択し、次に「新しい」出力アドレス（上記のUTXOと呼ばれる）を追加します。（アドレスの変更）
+この概念は、現在の金融システムで使用されている、紙幣を使うと理解しやすいです。
 
-Let us consider Alice has 3 notes of 10 dollars each in her purse, and wants to buy 50 apples from Bob at a cost of 18 dollars.
-Alice pays using both 10 dollar notes to Bob , and receives a change of 2 dollars (which she did not have before) as a new unspent output of this transaction.
-Thus, Alice, now ends up with a 10 dollar note and a 2 dollar change - added to her purse. Checking her purse for old notes, will result in a 10 dollar note - but overall funds in her purse will also include that additional 2 dollar change.
+アリスが財布にそれぞれ10ドルのノートを3つ持っていて、ボブからリンゴを50個を18ドルで購入したいとします。
+アリスは10ドル紙幣を2つ払い、このトランザクションのUTXO（新しい未使用の結果として）2ドルの小銭を受け取ります。
+結果、アリスには10ドル紙幣と2ドルの小銭を持っています。これが財布の状態です。
+すなわち、アリスには古い紙幣の１０ドルと新しい小銭の2ドルが財布のなかにあります。
 
-Similarly, when you make a transaction from a wallet - the inputs selected will often exceed the output and a change will have to be created.
-When querying funds, if you're looking at value of an address - you may not see the complete picture, because wallet is made up of many addresses, and users may not know which address has how much funds after making transactions.
-Thus, best way to query your funds is using your wallet software , which had access to your keys. While to look at whether funds have reached to address B, explorer comes in handy.
+同様に、ウォレットからトランザクションを行う場合、選択された入力はしばしば出力を超え、変更されたアドレスを作成する必要があります。
+資金残高を確認したいときに、アドレスの値で探そうとすると-ウォレットは多数のアドレスで構成されているため、完全な残高が表示されない場合があり、ユーザーはトランザクション後にどのアドレスにどのくらいの資金があるかわからない場合があります。
+したがって、資金残高を確認する最良の方法は、キーにアクセスできるウォレットソフトウェアを使用することです。 資金がアドレスBに達したかどうかを見るために、エクスプローラは役に立ちます。
 
-For further details, you can read the excellent [blog from Emurgo](https://emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained) which goes into moredetails about UTXO model.
+詳細については、優れた [Emurgoの記事](https://emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained) がUTXOモデルの詳細について説明します。
