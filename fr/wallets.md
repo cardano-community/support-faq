@@ -1,23 +1,25 @@
 #### Qu'est-ce qu'un Wallet?
 
-Un portefeuille ou "wallet" est essentiellement un logiciel qui permet à l'utilisateur d'accéder aux fonds sur la blockchain en utilisant ses clés privées. Vous pouvez utiliser différents portefeuilles, mais tant que vous utilisez la même clé privée, vous aurez accès aux mêmes fonds sur la blockchain. Dans l'écosystème Cardano, les portefeuilles sont de type `hiérarchique déterministe (HD)` et basés sur "UTXO" - et pour de bonnes raisons. Avant de plonger dans ces termes, assurons-nous de clarifier les bases concernant les clés privées et leur sécurité.
+Un portefeuille ou "wallet" est essentiellement un logiciel qui permet à l'utilisateur d'accéder à ses fonds sur la blockchain en utilisant ses clés privées. Vous pouvez utiliser différents portefeuilles, mais tant que vous utilisez la même clé privée, vous aurez accès aux mêmes fonds sur la blockchain. Dans l'écosystème Cardano, les portefeuilles sont de type `hiérarchique déterministe (HD)` et basés sur les "UTXO" - et ce pour de bonnes raisons. Avant de plonger dans ces termes, assurons-nous de clarifier les bases concernant les clés privées et leur sécurité.
 
-#### Les bases à propos des clés privées
+#### Quelques bases à propos des clés privées
 
-Une clé privée est essentiellement une chaîne de caractères numériques qui peut générer une clé publique, qui elle-même peut être "hashée" pour former des adresses. L'introduction des Cryptomonnaies a été initiée par les utilisateurs qui en ont le contrôle total sans dépendre d'une entité externe (être votre banque). Cela signifie automatiquement que l'utilisateur est responsable de ses propres fonds, et qu'il incombe à l'individu de conserver cette ou ces clés privées en toute sécurité. Si vous perdez vos clés privées, vous perdez essentiellement votre accès aux fonds numériques sur la blockchain, et personne (pas même les développeurs) ne peut en récupérer l'accès.
+Une clé privée est essentiellement une chaîne de caractères numériques pouvant générer une clé publique, qui elle-même peut être "hashée" pour former des adresses. L'introduction des cryptomonnaies a été initiée par des utilisateurs souhaitant avoir un contrôle total, sans dépendre d'une entité externe (être sa propre banque). Cela signifie automatiquement que l'utilisateur est responsable de ses propres fonds, et qu'il lui incombe de conserver cette ou ces clés privées en toute sécurité. Si vous perdez vos clés privées, vous perdez essentiellement votre accès aux fonds numériques sur la blockchain, et personne (pas même les développeurs) ne pourra en récupérer l'accès.
 
-Les meilleures pratiques pour sécuriser votre clé privée dépendent de l'utilisation que chacun fait de son appareil. Il n'y a pas de règle d'or qui s'applique à tous. À l'heure actuelle, le fait d'avoir des clés en ligne est souvent source de vulnérabilités, qu'il s'agisse de la sécurité de votre appareil en ligne ou de l'accès à des serveurs physiques. Ainsi, une bonne pratique courante consiste à avoir vos clés privées hors ligne à partir d'un support numérique. Vous ne voulez pas de clé privée non chiffrée ou dans format facilement découvrable sur votre appareil en ligne.
+Les meilleures pratiques pour sécuriser une clé privée dépendent de l'utilisation que chacun fait de son appareil. Il n'y a pas de règle d'or qui s'applique à tous. À l'heure actuelle, le fait d'avoir des clés en ligne est souvent source de vulnérabilités, qu'il s'agisse de la sécurité de votre appareil en ligne ou de l'accès à des serveurs physiques. Ainsi, une bonne pratique courante consiste à avoir vos clés privées hors ligne sur un support numérique. Vous ne voulez pas de clé privée non chiffrée ou sous un format facilement accessible sur votre appareil en ligne.
 
 #### Portefeuilles Hiérarchiques Déterministes (HD)
 
-Les portefeuilles  hiérarchiques déterministes (HD) permettent aux utilisateurs de dériver des clés (privées et publiques) à partir d'une information commune (construite à l'aide de la phrase mnémonique BIP39) qui sont plus faciles à sauvegarder et donnent de meilleures caractéristiques au portefeuille et à la confidentialité de l'historique. Cela signifie que vous pouvez recevoir une combinaison de mots (12, 15, 24, 25 ou 27 - selon le type de logiciel de portefeuille que vous choisissez) et le hachage de ces mots donne en fait votre clé privée unique, ce qui facilite l'accès et la sécurité. L'une des caractéristiques d'un portefeuille HD est qu'un seul portefeuille peut contenir jusqu'à 2147483647 comptes avec 2147483647 adresses, tous associés à un seul portefeuille - et chacun avec son propre historique unique de relevés de transactions.
+Les portefeuilles  hiérarchiques déterministes (HD) permettent aux utilisateurs de dériver des clés (privées et publiques) à partir d'une information commune : la phrase mnémonique (Standard BIP39). Ces mots sont plus faciles à conserver et donnent de meilleures caractéristiques au portefeuille et à la confidentialité de l'historique. Cela signifie que vous pouvez recevoir une combinaison de mots (12, 15, 24, 25 ou 27 - selon le type de logiciel de portefeuille que vous choisissez) et le hachage de ces mots donne votre clé privée unique, ce qui en facilite l'accès et la sécurité. L'une des caractéristiques d'un portefeuille HD est qu'un seul ce des portefeuilles peut contenir jusqu'à 2147483647 comptes avec chacun 2147483647 adresses, le tout associé à un seul portefeuille - et chacun avec son propre historique unique de relevés de transactions.
 
-Vous pouvez visiter [this wiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) pour plus d'informations sur les portefeuilles HD et comment la dérivation d'adresses fonctionne entre :
+Vous pouvez visiter [ce wiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) pour plus d'informations sur les portefeuilles HD et comment la dérivation d'adresses fonctionne entre :
+
 - HD Random / Legacy Byron Daedalus wallets - les adresses commencent par `Ddz..`
 - Legacy Byron Icarus-style portfeuilles HD séquentiels - les adresses commencent par `Ae2..`
 - Shelley wallets - toujours basé sur portfeuilles HD séquentiels, mais utilisant bech32 - les adresses commencent classiquement par `addr...`.
 
 Vous constaterez peut-être qu'il existe différentes combinaisons de nombre de mots pour les mnémoniques prises en charge dans différents portefeuilles. Juste pour donner un bref résumé de quel type de portefeuille supporte combien de mots :
+
 |Wallet            |Era      |Type      |Nombre de mots                 |
 |------------------|---------|----------|-------------------------------|
 |Daedalus          |Byron    |Hot/Online|12                             |
@@ -28,9 +30,9 @@ Vous constaterez peut-être qu'il existe différentes combinaisons de nombre de 
 |Daedalus          |Shelley  |Hot/Online|24                             |
 |Yoroi             |Shelley  |Hot/Online|24                             |
 
-#### Fonds dans un portfeuille et fonds dans une adresse
+#### Fonds dans un portefeuille et fonds dans une adresse
 
-L'une des confusions les plus courantes que les utilisateurs rencontrent est la lecture du solde d'un portefeuille HD, et les fonds contradictoires dans une adresse par rapport aux fonds dans un portefeuille. Ceci est dû à la façon dont les porte-monnaie HD UTXO (Unspent Transaction Output) fonctionnent. Chaque nouvelle transaction dans un portefeuille sélectionne automatiquement un ensemble d'adresses qui forment un solde minimum pour effectuer le transfert, puis ajoute une *nouvelle* adresse de sortie (appelée UTXO ci-dessus) - qui est une "adresse de change".
+L'une des confusions les plus courantes que les utilisateurs rencontrent est la lecture du solde d'un portefeuille HD, et les soldes contradictoires entre une adresse et un un portefeuille. Ceci est dû à la façon dont les porte-monnaie HD UTXO (Unspent Transaction Output) fonctionnent. Chaque nouvelle transaction dans un portefeuille sélectionne automatiquement un ensemble d'adresses qui forment un solde minimum pour effectuer le transfert, puis ajoute une *nouvelle* adresse de sortie (appelée UTXO) - qui elle, est une "adresse de change".
 Le concept s'explique mieux en utilisant une analogie avec les billets de banque - tels qu'ils sont utilisés dans le système financier actuel.
 
 Considérons qu'Alice a 3 billets de 10 euros chacun dans son sac à main, et qu'elle veut acheter 50 pommes à Bob au prix de 18 euros.
