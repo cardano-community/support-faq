@@ -23,10 +23,10 @@ Vous constaterez peut-être qu'il existe différentes combinaisons de nombre de 
 |Wallet            |Era      |Type      |Nombre de mots                 |
 |------------------|---------|----------|-------------------------------|
 |Daedalus          |Byron    |Hot/Online|12                             |
-|Daedalus          |Byron    |Paper     |27 (18 on paper + 9 digital)   |
+|Daedalus          |Byron    |Paper     |27 (18 sur papier + 9 digitaux)|
 |Daedalus Rewards  |ITN      |Hot/Online|15                             |
 |Yoroi             |Byron/ITN|Hot/Online|15                             |
-|Yoroi             |Byron/ITN|Paper     |21 on paper + Spending password|
+|Yoroi             |Byron/ITN|Paper     |21 sur papier + Mot de passe   |
 |Daedalus          |Shelley  |Hot/Online|24                             |
 |Yoroi             |Shelley  |Hot/Online|24                             |
 
