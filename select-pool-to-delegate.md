@@ -33,16 +33,16 @@ Most of these sites will allow you to filter using various parameters to help yo
 
 While standing a basic stakepool isnt really difficult, managing a pool operator with good security, availability, maintainance, and visibility requires incurs time as well as financial expenses. The protocol , thus, allows pool to specify their fees and allows it to do so based on a number of parameters. As a delegator, below is a gist of things to know about when looking at pool fees:
 
-##### Pool Pledge
+#### Pool Pledge
   Pledge is basically the promise from the owners of a pool to maintain in their owner keys of the pool (thus , their own "skin-in-the-game"). Higher amount of pledge is rewarded by higher amount of rewards. However, note that at the current protocol parameters, the overall difference for rewards is not hugely affected by a pool pledging 100K vs pool pledging 1M (eg: for base assumptions, delegating 100K towards 100K pledged pool might earn you 5159 v/s 1M pledged pool might earn you 5161 ADA annually. However, delegating with 10M pledged pool for same assumptions might earn you 5223 ADA for the same scenario over a year. You can play with pledge parameter and their effects using the IOHK staking calculator [here](https://testnets.cardano.org/en/cardano/tools/staking-calculator/)
 
-##### Pool Fixed costs
+#### Pool Fixed costs
   This is the minimum rewards a pool will earn before rewards against blocks made by a specific pool is distributed to its delegators by the protocol. Current protocol parameters dictate a minimum of 340 ADA as a fixed minimum cost. The fee is enforced to prevent a race to 0 fee pools that are not really sustainable for protocol in future. Note that this the fixed cost from entire reward pot against all delegators delegating to pool.
   
-##### Pool Margin (%)
+#### Pool Margin (%)
   This is the percentage of rewards that a pool will be able to make from the total rewards pot. As compared to the reward pot that a pool generates (eg: 10000 ADA), the delegator's margin (eg: 2.5% of total rewards from pool) is not hugely affected by the Pool's margin being 1% (i.e. 230.9 ADA) v/s 4% (224.9 ADA) does not really affect delegator's rewards by a very big margin, unless that delegator forms a substantial amount of stake for that pool. The rewards are affected by lottery of slot allotment and pool's performance a lot more than the difference of margin.
   
-##### Performance  
+#### Performance  
   This is an estimate of pool's performance based on how much stake protocol *thinks* a pool would have made versus how much pool actually did. Every block is rewarded by protocol (until saturation point), thus a delegator would want to stick with a pool that has greater than 80-85% of performance. Note that we cannot conclusively say 100% here because the actual blocks made by pools will also depend on how much blocks were actually assigned to a pool. There is a bit of randomness involved here for blocks to be assigned, which is proportional (like a roulette reserving higher number of slots corresponding) to stake.
   
 Hope the above helps you pick up a pool of your choice. If you would like to see any additions to this list, please raise an issue/PR against this repo using the icon on top right corner of the page.
