@@ -1,4 +1,4 @@
-- [A propos](index.md)
+- [Avant propos](index.md)
 - [Portefeuilles - Les bases](wallets.md)
   - [Types de portefeuilles](Wallets/types.md)
   - [List de portefeuilles](Wallets/list.md)
