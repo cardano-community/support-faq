@@ -1,4 +1,4 @@
-#### Qu'est-ce qu'un Wallet?
+#### Qu'est-ce qu'un Wallet ?
 
 Un portefeuille ou "wallet" est essentiellement un logiciel qui permet à l'utilisateur d'accéder à ses fonds sur la blockchain en utilisant ses clés privées. Vous pouvez utiliser différents portefeuilles, mais tant que vous utilisez la même clé privée, vous aurez accès aux mêmes fonds sur la blockchain. Dans l'écosystème Cardano, les portefeuilles sont de type `hiérarchique déterministe (HD)` et basés sur les "UTXO" - et ce pour de bonnes raisons. Avant de plonger dans ces termes, assurons-nous de clarifier les bases concernant les clés privées et leur sécurité.
 
@@ -14,8 +14,8 @@ Les portefeuilles  hiérarchiques déterministes (HD) permettent aux utilisateur
 
 Vous pouvez visiter [ce wiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) pour plus d'informations sur les portefeuilles HD et comment la dérivation d'adresses fonctionne entre :
 
-- HD Random / Legacy Byron Daedalus wallets - les adresses commencent par `Ddz..`
-- Legacy Byron Icarus-style portfeuilles HD séquentiels - les adresses commencent par `Ae2..`
+- HD Random / Byron Daedalus - les adresses commencent par `Ddz..`
+- Byron / Icarus-style portfeuilles HD séquentiels - les adresses commencent par `Ae2..`
 - Shelley wallets - toujours basé sur portfeuilles HD séquentiels, mais utilisant bech32 - les adresses commencent classiquement par `addr...`.
 
 Vous constaterez peut-être qu'il existe différentes combinaisons de nombre de mots pour les mnémoniques prises en charge dans différents portefeuilles. Juste pour donner un bref résumé de quel type de portefeuille supporte combien de mots :
