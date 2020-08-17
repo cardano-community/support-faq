@@ -18,13 +18,14 @@ Vous pouvez visiter [this wiki](https://github.com/input-output-hk/cardano-walle
 - Shelley wallets - toujours basé sur portfeuilles HD séquentiels, mais utilisant bech32 - les adresses commencent classiquement par `addr...`.
 
 Vous constaterez peut-être qu'il existe différentes combinaisons de nombre de mots pour les mnémoniques prises en charge dans différents portefeuilles. Juste pour donner un bref résumé de quel type de portefeuille supporte combien de mots :
+
 |Wallet            |Era      |Type      |Nombre de mots                 |
 |------------------|---------|----------|-------------------------------|
 |Daedalus          |Byron    |Hot/Online|12                             |
-|Daedalus          |Byron    |Paper     |27 (18 on paper + 9 digital)   |
+|Daedalus          |Byron    |Paper     |27 (18 sur papier + 9 digitaux)|
 |Daedalus Rewards  |ITN      |Hot/Online|15                             |
 |Yoroi             |Byron/ITN|Hot/Online|15                             |
-|Yoroi             |Byron/ITN|Paper     |21 on paper + Spending password|
+|Yoroi             |Byron/ITN|Paper     |21 sur papier + Mot de passe   |
 |Daedalus          |Shelley  |Hot/Online|24                             |
 |Yoroi             |Shelley  |Hot/Online|24                             |
 
