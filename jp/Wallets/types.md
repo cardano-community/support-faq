@@ -1,50 +1,52 @@
 
-Now that you have familiarised with what wallet is, lets explore the types of wallets you can use. Please navigate as per below to explore specific type of wallet.
+ウォレットとは何かを理解したところで、使用できるウォレットのタイプを見てみましょう。特定のタイプのウォレットを探すには、以下のように進んでください。
 
-To summarise from end user's point of view, there are primarily two types of wallet interfaces:
+エンドユーザーの観点から要約すると、主に2種類のウォレットインターフェイスがあります。:
 
-### Software (Hot) Wallets
+### ソフトウェア（ホット）ウォレット
 
-A software wallet is a digital wallet interface where the cryptographic keys (encrypted) will be stored on the device you're using. Within software wallets, there are mainly two types of wallets as noted below.
+ソフトウェアウォレットは、使用するデバイスに暗号化キー（暗号化）が保存されるデジタルウォレットインターフェイスです。ソフトウェアウォレットには、主に次の2種類のウォレットがあります。
 
 <!-- tabs:start -->
 
-#### ** Full node wallet **
+#### ** フルノードウォレット **
 
-Example: Daedalus
+例: Daedalus
 
-A full node wallet runs a complete independent blockchain node and provides capability to operate your wallet by querying the node. An example of such a wallet is Daedalus. There are a few advantages of running such a node:
- - The entire blockchain history is available locally to your node, to be able to query as per your needs.
- - Your node will validate all blocks as they're created and synchronised to your device, thereby - reducing the trust required to operate on wallet.
- - Running a full node - also enhances availability of the blockchain in your geograpical region, providing better latency for block making nodes.
- - If there is a feature supported by node, but not yet by a wallet UI - you can directly connect to the node and access the feature.
+フルノードウォレットは完全に独立したブロックチェーンノードを実行し、ウォレットを操作する機能を提供します。そのようなウォレットの例はダイダロスです。このようなノードを実行する利点はいくつかあります。
+ -必要に応じて要求を実行できるように、ブロックチェーン履歴全体がノードでローカルに利用できます。
+ -ノードは、ブロックが作成されてデバイスに同期されるときにすべてのブロックを検証します。これにより、ウォレットでの操作に必要な信頼性が低下します。
+ -完全なノードを実行する-また、その地域でのブロックチェーンの可用性を高め、ブロック作成ノードのレイテンシを改善します。
+ -ノードレベルでサポートされているがウォレットUIではまだサポートされていない機能がある場合-ノードに直接接続して機能にアクセスできます。
 
-Alongwith those advantages, running a node automatically means a few responsibilities - which may be seen as a discomfor from end user's perspective - especially if your only usage is making transactions:
- - Synching entire blockchain on your device needs time when setting up initially, which could be hours depending on network and disk throughput of the device.
- - There are storage, memory and network commitments required to run a wallet connected to full node.
- - Full node wallets may not be considered ideal for portable/handheld devices.
+これらの利点に加えて、ノードを実行すると、自動的にいくつかの責任が発生します。これは、エンドユーザーの観点からは快適でない可能性があります。
+ -デバイスのブロックチェーン全体を同期するには、最初のセットアップ時に時間が必要です。これは、デバイスのネットワークとディスクのスループットによっては数時間かかる場合があります。
+ -フルノードに接続されたウォレットを実行するために必要なストレージ、メモリ、およびネットワークの制約があります。
+ -フルノードウォレットは、携帯可能なデバイスには理想的とは見なされない場合があります。
  
-#### ** Light wallet **
+#### ** ライトウォレット **
 
 Example: Yoroi, ADALite
 
-A light wallet uses an interface that connects to a remote node for operations - thus, relieving you of the responsibility to operate a full blockchain node. They may be available as browser plugins/extensions, websites or mobile apps. Advantages of using light wallet:
-- You do not need to wait for entire blockchain to be synched on your device to start performing operations, as you connect to an already running up-to-date node via your wallet.
-- You remain in control of your keys. A common misperception with light wallets is that it is unsafe because your keys are sent over network. Most professional light wallets will ensure that your keys never leave your device, and are always in encrypted state even on your device. To this point, this shouldnt really be a differentiator for you to select between a full node wallet v/s light wallet, they're _both as safe as your device._
-- You do not need to worry about performing blockchain node upgrades, as this can be done on the server end.
-- Light wallets can be integrated easily on portable/handle devices.
-- They're typically very lightweight, and do not have high storage/memory or stable network requirements.
+ライトウォレットは、操作のためにリモートノードに接続するインターフェースを使用します-したがって、完全なブロックチェーンノードを操作する責任から解放されます。ブラウザプラグイン/拡張機能、ウェブサイト、またはモバイルアプリとして利用できる場合があります。
+ライトウォレットを使用する利点：
+-ウォレットを介してすでに実行中の最新のノードに接続するため、ブロックチェーン全体がデバイスで同期されて操作の実行を開始するのを待つ必要はありません。
+-あなたは自分のキーの制御を維持します。軽い財布の一般的な誤解は、キーがネットワーク経由で送信されるため安全ではないということです。ほとんどのプロフェッショナルライトウォレットでは、キーがデバイスから出ることはなく、デバイス上でも常に暗号化された状態になります。これまでのところ、これは完全なノードウォレットとライトウォレットのどちらを選択するかを区別するものではなく、どちらもデバイスと同じくらい安全です。
+-サーバー側でブロックチェーンノードのアップグレードを実行できるため、ブロックチェーンノードのアップグレードについて心配する必要はありません。
+-軽い財布は、ポータブル/ハンドルデバイスに簡単に統合できます。
+-通常、非常に軽量で、高いストレージ/メモリや安定したネットワーク要件はありません。
 
-For official links about the comparison, kindly visit [this support article](https://iohk.zendesk.com/hc/en-us/articles/360026058573-Daedalus-wallet-compared-to-Yoroi-wallet) from IOHK.
+比較に関する公式リンクについては、IOHKの[このサポート記事]（https://iohk.zendesk.com/hc/en-us/articles/360026058573-Daedalus-wallet-compared-to-Yoroi-wallet）にアクセスしてください。
 
 <!-- tabs:end -->
 
-### Paper (Cold) Wallets
+### ペーパー（コールド）ウォレット
 
-Paper wallets are essentially wallets created by software interfaces, but done in such a way that the keys for those paper wallets were never online. These usually provide seeds in two parts - a part printed on paper, and other part with words (in case of Daedalus) or password (in case of Yoroi) that guarantees that even if someone has access to the paper, they wont be able to access your keys. Points to remember:
-- The Software creating paper wallet will not have transferred funds to a generated wallet, it has to be a manual action.
-- If for whatever reason you decide to restore your paper wallet, your wallet will have been restored on a digital device which is online and would no longer be a "cold" wallet. Thus, it would be best in that case to create a new paper wallet from security point of view.
+ペーパーウォレットは基本的にソフトウェアインターフェースによって作成されるウォレットですが、それらのペーパーウォレットのキーがオンラインになることはありません。 これらは通常、2つの部分でシードを提供します-紙に印刷された部分と、他の部分には単語（ダイダロスの場合）またはパスワード（ヨロイの場合）です。これで誰かがペーパーにアクセスしたとしても、 あなたのキーにアクセスできません。 
+覚えておくべきポイント：
+-ペーパーウォレットを作成するソフトウェアは、生成されたウォレットに資金を送金しません。手動で行う必要があります。
+-なんらかの理由で紙のウォレットを復元することにした場合、そのウォレットはオンラインのデジタルデバイスに復元されているため、「コールド」ウォレットではなくなります。 したがって、その場合は、セキュリティの観点から新しいペーパーウォレットを作成するのが最善です。
 
-### Hardware (Cold) Wallets
+### ハードウェア（コールド）ウォレット
 
-Visit [this](https://emurgo.io/en/blog/hardware-wallet-explanation-yoroi-keep-ada-safe) blog from Emurgo for a brief summary of how Hardware Wallets work with Yoroi
+ハードウェアウォレットとヨロイの連携の概要については、Emurgoの[この]（https://emurgo.io/en/blog/hardware-wallet-explanation-yoroi-keep-ada-safe）ブログをご覧ください。
