@@ -1,3 +1,7 @@
+#### Qu'est-ce qu'un Wallet?
+
+Un portefeuille ou "wallet" est essentiellement un logiciel qui permet à l'utilisateur d'accéder aux fonds sur la blockchain en utilisant ses clés privées. Vous pouvez utiliser différents portefeuilles, mais tant que vous utilisez la même clé privée, vous aurez accès aux mêmes fonds sur la blockchain. Dans l'écosystème Cardano, les portefeuilles sont de type `hiérarchique déterministe (HD)` et basés sur "UTXO" - et pour de bonnes raisons. Avant de plonger dans ces termes, assurons-nous de clarifier les bases concernant les clés privées et leur sécurité.
+
 #### Qu'est-ce qu'un Wallet?  {docsify-ignore}
 
 Un portefeuille ou "wallet" est essentiellement un logiciel qui permet à l'utilisateur d'accéder aux fonds sur la blockchain en utilisant ses clés privées. Vous pouvez utiliser différents portefeuilles, mais tant que vous utilisez la même clé privée, vous aurez accès aux mêmes fonds sur la blockchain. Dans l'écosystème Cardano, les portefeuilles sont de type `hiérarchique déterministe (HD)` et basés sur "UTXO" - et pour de bonnes raisons. Avant de plonger dans ces termes, assurons-nous de clarifier les bases concernant les clés privées et leur sécurité.
