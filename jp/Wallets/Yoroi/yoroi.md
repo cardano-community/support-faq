@@ -1,48 +1,48 @@
-Yoroi is one of the official light wallets for Cardano developed by Emurgo , original based on Project Icarus developed by IOG (formerly known as IOHK). The wallet is available officially as a chromium extension (thus, usable in Chrome, Microsoft Edge, Brave, Yandex) or as mobile apps on Android and iOS.
+Yoroiは、Emurgoが開発したCardanoの公式のライトウォレットの1つで、元はIOG（旧称IOHK）が開発したProject Icarusに基づいています。ウォレットは、 Chrome拡張機能として正式に利用可能（したがって、Chrome、Microsoft Edge、Brave、Yandexで使用可能）、またはAndroidおよびiOSのモバイルアプリとして利用できます。
 
-##### Official Website to download Yoroi
+##### ヨロイをダウンロードする公式サイト
 
-In order to install Yoroi, always go to the official Yoroi website only, viz [https://yoroi-wallet.com](https://yoroi-wallet.com), do **not** click on links received by others - especially ones received in private messages or non-official groups.
-Once there, you can select the version you'd like to install.
+Yoroiをインストールするには、常に公式のYoroiのWebサイト、つまり [https://yoroi-wallet.com](https://yoroi-wallet.com)**のみ**にアクセスし、特にプライベートメッセージまたは非公式グループで受け取ったリンクをクリックしないでください。 
+ここで、インストールするバージョンを選択できます。
 
 ![Download Yoroi](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/download-yoroi.jpg ':size=30%')
 
-##### Installing Yoroi as Chrome extension
+##### Chrome拡張機能としてYoroiをインストールする
 
-Note that the screenshots may vary slightly depending on the extension you elect. You can also follow same step to deploy Yoroi as extension in Yandex browser on android. Let's consider you clicked on Chrome mainnet, you will be redirected to Google Chrome Web store. Click Add to Chrome as per below:
+スクリーンショットは、選択した拡張機能によって多少異なる場合があります。同じ手順に従って、AndroidのYandexブラウザーで拡張機能としてYoroiをデプロイすることもできます。 Chromeメインネットをクリックしたとしましょう。GoogleChrome Webストアにリダイレクトされます。以下のように[Chromeに追加]をクリックします。
 
 ![Yoroi on Chrome Web Store](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-chrome-webstore.jpg ':size=40%')
 
-You may receive a prompt to confirm to `Add Yoroi` depending on your browser, please confirm to do so:
+お使いのブラウザによっては「Yoroiを追加」の確認を求められる場合がありますので、確認してください。
 
 ![Yoroi install confirmation](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-install-chrome-confirm.jpg)
 
-Once installed, you would see an icon added to extensions area (with potentially a message saying its been added):
+インストールすると、拡張領域に追加されたアイコンが表示されます（追加されたことを示すメッセージが表示される可能性があります）。
 
 ![Yoroi icon added to extensions](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-chrome-installed.jpg)
 
-Click on that icon to open Yoroi extension, select the Language:
+そのアイコンをクリックしてYoroi拡張機能を開き、言語を選択します。
 
 ![Yoroi Language selection](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-language.jpg ':size=25%')
 
-Read through the terms of use, and tick `I agree with the terms of use` followed with Continue:
+利用規約を読み、同意にチェックを入れてから続行します。
 
 ![Yoroi Terms of Use](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-terms.jpg ':size=40%')
 
-Yoroi offers an option to easily share invoices with friends and business, using a feature called payment URLs which allow you to share a short URL ith memos. Select Allow to enable and follow prompts to Finish:
+Yoroiには、メモや短いURLを共有できる支払いURLと呼ばれる機能を使用して、友人やビジネスと簡単に請求書を共有するオプションがあります。 許可を選択して有効にし、プロンプトに従って終了します。
 
 ![Yoroi Payment URLs](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-pymt-urls.jpg ':size=40%')
 
-This should land you to the home page of wallet, from where you should be ready to continue.
+これにより、ウォレットのホームページに移動し、そこから続行する準備が整います。
 
 ![Yoroi Wallet Home](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-home.jpg ':size=40%')
 
-##### Does Yoroi need an upgrade?
+##### ヨロイはアップグレードが必要ですか？
 
-Yoroi is a chrome extension, and chrome extensions are automatically updated. Thus, no - you do not need to auto upgrade Yoroi.
+YoroiはChrome拡張機能であり、Chrome拡張機能は自動的に更新されます。したがって、いいえ-ヨロイを自動アップグレードする必要はありません。
 
-##### How do I uninstall Yoroi?
+##### Yoroiをアンインストールするにはどうすればよいですか？
 
-To uninstall Yoroi from extensions, simply right click on the extension and select `Remove from Chrome`.
+拡張機能からYoroiをアンインストールするには、拡張機能を右クリックして削除を選び削除します。
 
 ![Uninstall Yoroi](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-uninstall.jpg)
