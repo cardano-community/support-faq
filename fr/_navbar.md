@@ -1,4 +1,5 @@
 <!-- _navbar.md -->
 
-* [FR](/fr/)
-  * [EN](/)
+* [:fr:](fr/index.md)
+  * [:jp:](jp/index.md)
+  * [:us: :uk:](index.md)
