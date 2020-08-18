@@ -1,41 +1,41 @@
-'Ledger' is a range of cryptocurrency hardware wallets sold by France-based Ledger SAS.
-Products in this range provide a physical solution for storing cryptocurrency assets, including ada, in a secure and convenient manner.
-Like a mobile phone or PC, Ledger hardware wallets also require software components in order to function.
 
-These software components include:  
+
+'Ledger' は、フランスを拠点とする元帳SASが販売する一連の暗号通貨ハードウェアウォレットです。この範囲の製品は、adaを含む暗号通貨資産を安全かつ便利な方法で保存するための物理的なソリューションを提供します。携帯電話やPCと同様に、レジャーハードウェアウォレットも機能するためにソフトウェアを必要とします。
+
+これらのソフトウェアコンポーネントは次のとおりです。
   
-**Ledger Live** - Management software used for viewing cryptocurrency assets, installing / uninstalling apps and managing the device.  
-**Firmware** - This is the low-level software that is installed on the device.  
-**Apps** - Apps are installed on the device and provide additional functionality, such as storing cryptocurrency assets and cryptographic keys.  
+**Ledger Live** - 暗号通貨資産の表示、アプリのインストール/アンインストール、デバイスの管理に使用される管理ソフトウェア。  
+**Firmware** - デバイスにインストールされている低レベルのソフトウェア。
+**Apps** - デバイスにインストールされ、暗号資産や暗号の鍵の保存などの追加機能を提供します。
 
-##### Install Ledger Live
+##### Ledger Liveのインストール
 
-If you do not already have Ledger Live installed, please see the following guide to install it for your relevant Operating System:  
+Ledger Liveをまだインストールしていない場合は、次のガイドを参照して、関連するオペレーティングシステムにインストールしてください。
+
 https://support.ledger.com/hc/en-us/articles/360006395553
 
-##### Update Ledger Firmware
+##### Ledger Firmwareのアップデート
 
-Ledger SAS has released an updated firmware (version 1.6.1) which provides support for the Shelley-era Cardano network.
-In order to use your Ledger with Shelley wallet clients, such as AdaLite, you must have the latest firmware and Cardano app installed.
+Ledger SASは、Shelley時代の Cardanoネットワークのサポートを提供する更新されたファームウェア（バージョン1.6.1）をリリースしました。LedgerをAdaLiteなどのShelleyウォレットクライアントで使用するには、最新のファームウェアとCardanoアプリがインストールされている必要があります。
 
-Please see the following support articles from Ledger to update your Ledger hardware wallet:
+Ledger ハードウェアウォレットを更新するには、Ledger の次のサポート記事を参照してください。
 
 #### Ledger Nano S
 https://support.ledger.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware
 
-See the [Release Notes](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes) for more information.
+詳細については、 [Release Notes](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes) を参照してください。
 
 #### Ledger Nano X
 
 https://support.ledger.com/hc/en-us/articles/360013349800-Firmware-update-for-Ledger-Nano-X.com
 
-See the [Release Notes](https://support.ledger.com/hc/en-us/articles/360014980580) for more information.
+詳細については、 [Release Notes](https://support.ledger.com/hc/en-us/articles/360014980580) を参照してください。
 
 #### Cardano app
 
-After updating the firmware of the device, please proceed with installing the latest Cardano app (version 2.0.3) from Ledger Live:  
+デバイスのファームウェアを更新した後、Ledger Liveから最新のCardanoアプリ（バージョン2.0.3）をインストールしてください：  
 https://support.ledger.com/hc/en-us/articles/360020095874-Cardano-ADA-
 
-#### Cold staking using Ledger in Cardano
+#### Ledger を使ったCardanoでのコールドステーキング
 
-Currently, only https://adalite.io supports ledger integration natively, while Yoroi and Daedalus will add the support soon. Go through instructions [here](https://github.com/vacuumlabs/adalite/wiki) for Staking using ADALite platform.
+現在、Ledger との統合をネイティブでサポートしているのは https://adalite.io のみですが、YoroiとDaedalusは間もなくサポートできるようになります。ADALiteを使用したステーキングについては、 [こちら](https://github.com/vacuumlabs/adalite/wiki) を確認してください。
