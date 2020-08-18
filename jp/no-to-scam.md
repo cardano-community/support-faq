@@ -1,50 +1,49 @@
-We commonly come across users losing their moneys to various giveaways or impersonators. Being in a decentralised cryptocurrency means you as an individual are your own bank, and only you are responsible for protecting your funds.
-If you fall for any of these and you giveaway funds or share your private keys, **nobody** can recover your funds. Do your due diligence when operating your crypto, just as you would when operating fiat currency notes.
-Also, if you come across such a scam, please forward the messages or group information to [Cardano Report To Admin](https://t.me/CardanoReportToAdmin) group on telegram.
-Note to telegram users, we cannot do much if you forward a screenshot, please ensure you select the message from the scammer and `forward` it to group mentioned above.
+私たちは、さまざまなgiveawaysやなりすまし等でお金を失っている人をよく目にします。分散型暗号通貨は、あなたが個人としてあなた自身の銀行を持っているようなものです。つまり、あなただけがあなたの資金を保護するすべての責任を負っています。これらのいずれかに当てはまり、資金を提供したり、秘密鍵を共有したりすると、**誰も**あなたの資金を回収できません。暗号通貨を操作するときは、紙幣を操作するときと同じように、十分な注意を払ってください。また、そのような詐欺に遭遇した場合は、メッセージまたはグループ情報をテレグラムで[Cardano Report To Admin](https://t.me/CardanoReportToAdmin) に転送してください。テレグラムユーザーへの注意：スクリーンショットでは特に何かすることができません。詐欺師からのメッセージを選択し、 `forward` により上記のグループに送信してください。
 
-Below is a list of common Gotchas to be aware of for common scam practices and ways to be safe:
+以下は、一般的な詐欺と安全のための方法について知っておくべき一般的な注意事項のリストです。
 
-##### Free Giveaways/Promotion
+##### 無料の Giveaways/プロモーション
 
-*"If it is looks too good to be true, it probably is"*
+*"もし良すぎて本当でないように見える場合, おそらく実際に本当ではありません"*
 
-Often users get pulled into promotional scams promising great returns. Beware of such promotions, there are no free moneys to simply grab online.
-This is a very common scamming method targetted towards users who are new to the digital financial ecosystem.
+多くの場合、ユーザーは大きなリターンを約束するプロモーション詐欺に巻き込まれます。そのようなプロモーションに注意してください、ネットで無料でお金がもらえることはありません。これは、初心者を対象とした非常に一般的な詐欺手法です。
 
-While the above is true for any platform, telegram is one of the most commonly exploited avenues for such scam operations. if you get added to such a group, please [inform officials](https://t.me/CardanoReportToAdmin), and click the "Report Spam and Leave" option. Usually you would often also see a lot of users responding with confirmations to those Giveaway scams - these are mostly bot accounts, do not fall for them.
-Checkout a typical giveaway scam and fake user responses below:
+上記はすべてのプラットフォームに当てはまりますが、テレグラムはそのような詐欺行為で最も一般的に利用されている手段の1つです。そのようなグループに追加された場合は、[inform officials](https://t.me/CardanoReportToAdmin)へ連絡して、"Report Spam and Leave"ボタンを押してください。これらのスキャムに多くのユーザーが確認して返答しているように見えますが、実際はただのボットですので騙されないでください。
+
+以下がスキャムとボットの返答の典型例です:
 
 ![Giveaway Scams](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/giveaway-scam1.jpg)![Fake bots confirming scams](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/giveaway-scam2.jpg)
 
-##### Receiving DM from someone impersonating admins/ambassadors
+##### admins/ambassadorsのなりすましからDMを受け取る
+
+テレグラムでよく見られるもう1つの一般的な詐欺は、公式アカウントまたは担当者（admins/ambassadors）になりすましです。
 
 One other common scamming practice you often see on telegram is accounts trying to impersonate official accounts or personnels (admins/ambassadors).
 
-**As an alert, be sure that none of the official admins/ambassadors will message you directly.**
+**警告：admins/ambassadorsはあなたにDMを送りません。**
 
-These types of scams are pretty easy to identify yourself if you pay attention to details:
-- You would often notice you do not share common groups with the scammers. The moderators from the official channels are diligent and actively try to keep impersonators at bay. But there are often proxy accounts hidden in groups which share and allow impersonating accounts to message users.  
+このタイプの詐欺はあなたが気をつければ自分自身できづくことができます。
+- 詐欺師とは部屋を共有していないことに気づくでしょう。公式チャネルのモデレータはこれを排除するよう努めています。ただし、中継アカウントをグループ内に作ってそこからメッセージを送ることがあります。  
 ![Check Common groups](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-impersonator-check-1.jpg)
-- They may mask the usernames to be similar (eg: `rd1rt` instead of `rdlrt`) or they may hide Username and add `@rdlrt` text to Bio instead. Please be on the lookout for such methods and verify Username *as well as* Bio when chatting with anyone in DMs.  
-![Check Username and Bio](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-impersonator-check-2.jpg)
+- 紛らわしいユーザー名を使用したり (eg: `rd1rt` の代わりに `rdlrt` を使うなど) ユーザー名を隠して `@rdlrt` を Bio に表示させたりします。 DMで誰かとチャットするときは、これらに注意し、ユーザー名と略歴を確認してください。
 
-##### Being added to a random group/channel(s)
+##### 詐欺のgroup/channel(s)に追加される
 
-Very often telegram users are added to a scam group that looks legit (see screenshot below). The content of the group may be promotional as above or try to push in a scam link within group of correct ones. If you're not sure if you jo
-ined that group, please cross-check the list of [community groups on telegram](https://t.me/Cardano/271989).
+テレグラムユーザーは見える詐欺グループに追加されます（下のスクリーンショットを参照）。そこでは、上記の活動用か、正しいリンクのグループ内に詐欺リンクを紛れ込ませる可能性があります。そのグループに参加したかどうかわからない場合は [community groups on telegram](https://t.me/Cardano/271989)からチェックしてください。.
 
 ![Random Impersonating groups](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/random-impersonating-groups.jpg)
 
-To prevent getting added to such groups, please ensure your user settings in telegram is updated as below:
+このような追加をされないようにするにかこのように設定してください。:
 
 ![Telegram Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-1.jpg)
 ![Telegram Privacy Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-2.jpg)
 ![Telegram Allow adding to groups Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-3.jpg)
 
-##### Receiving DM from unknown users
+##### 見知らぬユーザーからDMを受け取る
 
-One of the more common and amateur scam attempts would be scammers with fake user profiles (often using a model or an investor's photo in profile) will message you directly, and after a friendly conversation ask you either for assistance with stuck funds (asking you to share some funds to unlock theirs) or giving investment expert recommendations (often to a scam exchange/website). Simply forward the message to the admin group mentioned earlier, and report such users to telegram as spam. Few examples of such scam conversations below:
+よくある詐欺の１つに、偽物のユーザーを持つ詐欺師（多くの場合、モデルまたは投資家の写真を使用）が直接あなたにメッセージを送信し、友好的な会話の後、行き詰まった資金の支援を求められたり（彼らのロックを解除するために資金送付をお願いされたり）、投資専門家として多くの場合、詐欺取引所/ウェブサイトへ送金を推奨されます。前述した管理グループにメッセージを転送し、そのようなユーザーをスパムとしてテレグラムに報告します。
+
+以下に詐欺師との会話の例をいくつか示します。
 
 ![Telegram Random DMs](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-random-dm-1.jpg)
 ![Telegram Random DMs](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-random-dm-2.jpg)
