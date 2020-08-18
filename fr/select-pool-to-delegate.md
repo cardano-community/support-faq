@@ -32,16 +32,16 @@ La plupart de ces sites vous permettront de filtrer en utilisant divers paramèt
 
   S'il n'est pas vraiment difficile de constituer un pool de base, la gestion avec une bonne sécurité, disponibilité, maintenance et visibilité demande du temps et des dépenses financières. Le protocole permet donc au pool de spécifier ses frais et de le faire sur la base d'un certain nombre de paramètres. En tant que délégataire, vous trouverez ci-dessous un aperçu des éléments à connaître lorsque vous examinez les frais de pool :
   
-#### Engagement propre (pledge)
+##### Engagement propre (pledge)
   L'engagement est essentiellement la promesse des propriétaires d'un pool de conserver leur avoirs dans leurs clés de propriétaire du pool (donc, leur propre intérêt). Un montant plus élevé de cet engagement est récompensé par un montant plus élevé de récompenses pour tous les délégataires du pool. Cependant, il faut noter qu'avec les paramètres actuels du protocole, la différence globale de récompense n'est pas très importante. Si un pool promet 100 000 $ ou 1 million (par exemple, pour les hypothèses de base), alors déléguer 100 000 $ vers un pool de 100 000 $ pourrait vous rapporter 5159 alors qu'un pool indiquant 1 million d'engagement pourrait vous rapporter 5161 ADA par an. Cependant, déléguer avec 10 millions d'engagements pour les mêmes hypothèses pourrait vous rapporter 5223 ADA pour le même scénario sur une année. Vous pouvez jouer avec les paramètres des promesses et leurs effets en utilisant le calculateur de mise en jeu de l'IOHK [ici](https://testnets.cardano.org/en/cardano/tools/staking-calculator/).
   
-#### Frais fixes
+##### Frais fixes
   C'est le minimum de récompenses qu'un pool gagnera avant que les récompenses obtenues pour les blocs signés par un pool spécifique soient distribuées à ses délégataires par le protocole. Les paramètres actuels du protocole imposent un minimum de 340 ADA comme coût minimum fixe. Cette redevance est appliquée afin d'éviter une course à des pools à redevance nulle qui ne sont pas vraiment viables pour le protocole à l'avenir. Il est à noter que ce coût fixe est prélevé une seule fois sur la totalité du pot de récompense, et non pas pour chaque délégataire.
   
-#### Marge variable (%)
+##### Marge variable (%)
   Il s'agit du pourcentage de récompenses qu'un pool pourra obtenir à partir du pot de récompenses total. Par rapport au pot de récompenses qu'un pool génère (par exemple : 10000 ADA), la marge du délégataire (par exemple : 2,5 % des récompenses totales du pool) n'est pas très affectée par la marge du pool : 1 % (soit 230,9 ADA) contre 4 % (224,9 ADA) n'affecte pas vraiment les récompenses du délégataire par une très grande marge, à moins que ce délégataire ne constitue une mise substantielle pour ce pool. Les récompenses sont affectées par la loterie de l'attribution des slots et la performance du pool beaucoup plus que la différence de marge.
   
-#### Performance  
+##### Performance  
   Il s'agit d'une estimation de la performance *supposée* d'un pool basée sur le montant d'enjeu et le nombre de blocs attendus par le calcul (la lotterie rend cela en réalité un peu plus variable). Chaque bloc est récompensé par le protocole (jusqu'au point de saturation), ainsi un délégataire voudra dans l'idéal s'en tenir à un pool qui a plus de 80-85% de performance. Notez que nous ne pouvons pas dire de manière concluante que nous sommes à 100% ici, car les blocs réels effectués par les pools dépendront également du nombre de blocs qui ont été effectivement attribués à un pool. Il y a ici un peu de hasard dans l'attribution des blocs, comme une roulette réservant un nombre plus élevé de slots en fonction de l'enjeu du pool.
   
 Nous espérons que ce qui précède vous aidera à choisir un pool qui vous convienne. Si vous souhaitez voir des ajouts à cette liste, veuillez soulever un ticket/PR en utilisant l'icône en haut à droite de la page.
