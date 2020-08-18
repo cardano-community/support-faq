@@ -1,61 +1,61 @@
 
-The steps below assume you have already [installed Yoroi](Wallets/Yoroi/yoroi.md#install)
+Yoroiをインストールされていない場合はインストールしてください[installed Yoroi](Wallets/Yoroi/yoroi.md#install)
 
-!> You do not need to follow this page if you're using a hardware wallet.
+!> ハードウェアウォレットを使用している場合は、このページをたどる必要はありません。
 
-##### Create a Wallet on Yoroi extension
+##### Yoroiの拡張機能でウォレットを作成する
 
-Select `Create Wallet` on Yoroi Home page below:
+下のヨロイホームページで[ウォレットを作成]を選択します。:
 
 ![Home Page](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-home.jpg ':size=50%')
 
-Select currency as `Cardano`:
+選択： `Cardano`:
 
 ![Currency](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-select-currency.jpg ':size=30%')
 
-Select type of wallet (for this section - since we're talking about Hot wallet, we will use `Create Wallet`)
+選択： (ここではホットウォレットを作ろうとしているので `ウォレットを作成`)
 
 ![Create Wallet](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-create-wallet.jpg ':size=30%')
 
-Enter a Wallet name you would like to identify your wallet as. Also, you will need to type a 10-character password. This password will act as a second level protection and will be used to secure (by encrypting) your keys in cache. *To make any outgoing transfers - you will need this spending password.* Continue by clicking `Create Personal Wallet`
+ウォレットを識別するウォレット名を入力します。また、10文字のパスワードを入力する必要があります。このパスワードは第2レベルの保護として機能し、キャッシュ内のキーを（暗号化することにより）保護するために使用されます。 *すべての送金を行うには、この支出パスワードが必要です。* ボタンをクリックして続行します。
 
 ![Create Wallet](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-new-wallet.jpg ':size=30%')
 
-You will reach a security prompt asking you to **confirm** there is no one looking as the next stop will display your Wallet seed - which derives your [private keys](wallets.md#basics-about-private-keys). You would want to grab a paper and pen to write down the seed before continuing.
+次のストップでウォレットシードが表示されるので、誰もいないことを**確認**するように求めるセキュリティプロンプトが表示されます。 あなたのデバイスの[private keys](wallets.md#basics-about-private-keys)のウォレットシードが表示されます。 続行する前に、紙とペンを用意します。
 
 ![Accept Warning for exposing keys](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-seed-acceptance.jpg ':size=30%')
 
-The page will ask you to now write down the 15 words recovery phrase displayed on screen. Please carefully write down and verify the words in the correct order before continuing. Often users tend to mix the order or rename few words for security, but forget to remember what was done.
-**Important**: These words are the **only** way for you to have access to funds. You can lose your computer and have access to funds if you have these words, but if you lose the words - **no one can retrieve funds back for you**.
+このページでは、画面に表示されている15語の回復フレーズを書き留めるように求められます。 続行する前に、単語を注意深く書き留め、正しい順序で単語を確認してください。 多くの場合、ユーザーは順序を混合したり、セキュリティのためにいくつかの単語の名前を変更する傾向がありますが、何が行われたかを忘れてしまいます。
+**重要**：これらの言葉は、資金にアクセスするための**唯一の**方法です。 これらの単語がある場合、コンピューターが壊れても、資金にアクセスできますが、単語を失うと、**誰もあなたのために資金を取り戻すことはできません**。
 
 ![Write Down your Recovery Phrase](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-seed.jpg ':size=30%')
 
-Now, you will be asked to verify the recovery phrase you've written down. Please select the words from the list in the same order as you saw them on screen before.
+次に、書き留めた回復フレーズを確認するように求められます。 以前に画面で見たのと同じ順序でリストから単語を選択してください。
 
-Once you've entered the 15 words, you will be shown a reminder about your recovery phrase. Please do *read* and then check the boxes to confirm:
+15ワードを入力すると、回復フレーズに関するリマインダーが表示されます。 *しっかり読んで*から、チェックボックスをオンにして確認してください。
 
 ![Confirmation about Recovery Phrase](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-confirm-seed.jpg ':size=30%')
 
-This should land you to the following screen.
+これにより、次の画面が表示されます。
 
 ![Wallet Created Successfully](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-wallet-created.jpg ':size=30%')
 
-Congratulations! You have successfully created your Yoroi wallet.
+おめでとう！ 無事に作成されました。
 
-##### Adding or switching between wallets
+##### ウォレットの追加または切り替え
 
-Yoroi can handle multiple wallets.
+ヨロイは複数のウォレットに対応できます。
 
-If you're within a wallet view, you would see a pulldown at the top right corner, which should list your existing wallets as well as allow you to `Add new wallet`.
+ウォレットビュー内にいる場合は、右上隅にプルダウンが表示され、既存のウォレットが一覧表示され、[新しいウォレットを追加]できるようになります。
 
 ![Add Another Wallet from Wallet screen](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-multiple-wallet-add.jpg ':size=30%')
 
-If you're at `My Wallets` screen instead, you have the option to `Add new wallet` at the top.
+代わりに「マイウォレット」画面が表示されている場合は、上部に「新しいウォレットを追加」するボタンがあります。
 
 ![Add Another Wallet from My Wallets screen](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-multiple-wallet-add2.jpg ':size=30%')
 
-In either cases, you will reach the screen below:
+どちらの場合も、次の画面が表示されます。
 
 ![Add new wallet](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-multiple-add-new-wallet.jpg ':size=30%')
 
-You can continue the next steps as per [create wallet](#create-a-wallet-on-yoroi-extension-or-addon) instructions above.
+上記の[ウォレットの作成]（＃create-a-wallet-on-yoroi-extension-or-addon）の指示に従って、手順を続行できます。
