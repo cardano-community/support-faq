@@ -1,11 +1,11 @@
 
-The following is a list of well-known wallets to support Cardano.
+以下は、Cardanoをサポートする有名なウォレットのリストです。
 
-Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
+問題が発生した場合、通常は公式のウォレットに関連するもののみが Cardanoグループでテレグラム/フォーラム全体で回答できます。 サードパーティのウォレットについては、特定のウォレットサポートチームに相談する必要がある場合があります。
 
-!> Its is important to know whether your wallet keys are owned by you, never transferred over network and compatible with chain (look at **last two columns** to verify the same)
+!> あなたのウォレットキーがあなたにより所有されておりネットワークに転送されていないこと、および、チェーンと互換性があることが重要です。**その2つの列**を確認してください）。
 
-|Name      |[Type][1]|Keys only with user|Keys compatible?|Staking |Hardware Wallet support        |Open Source|Creator |Platforms|
+|Name      |[Type][1]|鍵はユーザーのみ保有か？|鍵の互換性はあるか？|ステーキング |ハードウェアウォレットサポート        |オープンソース|作成者 |プラットフォーム|
 |----------|---------|-------------------|----------------|--------|-------------------------------|-----------|--------|---------|
 |[Yoroi]   |Light    |Yes                |Yes             |Yes*    |Ledger Nano S/X, Trezor Model T|[Yes](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chrome Extension, Android, IPhone|        
 |[Daedalus]|Full     |Yes                |Yes             |Yes     |Soon                           |[Yes](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
@@ -17,7 +17,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Exodus]  |Light    |Yes                |`No`            |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 |[Infinito]|Light    |Yes                |`No`            |Planned |`No`                           |[Yes](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
 
-*Yoroi supports staking(delegation) currently on Extension only. It will resume staking on mobile devices soon.
+*Yoroiは、現在Extensionでのみstake（delegation）をサポートしています。 モバイルデバイスでのステーキングは間もなく再開されます。
 
 [1]: Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
