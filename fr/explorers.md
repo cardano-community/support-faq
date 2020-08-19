@@ -8,7 +8,7 @@ Les explorateurs de blockchain permettent aux utilisateurs d'effectuer des reche
 
 Certains explorateurs fournissent des outils et des informations supplémentaires, tels que le support d'APIs, une liste des plus grosses adresses d'ADA, des graphiques relatifs à l'activité du réseau, des distributions de stake pool, etc...
 
-##### Liste des Explorers :id=list
+##### Liste des Explorateurs :id=list
 
 Vous trouverez ci-dessous une liste des explorateurs connus de Blockchain/Pool :
 
