@@ -5,7 +5,7 @@ Les produits de cette gamme fournissent une solution physique pour stocker des a
 Tout comme un téléphone portable ou un PC, les porte-monnaie électroniques Ledger nécessitent également des composants logiciels pour fonctionner.
 
 Ces composants logiciels comprennent :  
-  
+
 **Ledger Live** - Logiciel de gestion utilisé pour visualiser les actifs cryptos, installer/désinstaller des applications et gérer le dispositif.  
 **Firmware** - Il s'agit du logiciel de bas niveau qui est installé sur l'appareil.  
 **Apps** - Les applications sont installées sur l'appareil et fournissent des fonctionnalités supplémentaires, telles que le stockage des actifs cryptos et des clés cryptographiques.  
