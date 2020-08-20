@@ -1,14 +1,14 @@
 
-Voici une liste de portefeuilles connus pour prendre en charge Cardano.
+Voici une liste de portefeuilles prenant en charge Cardano.
 
-Notez qu'en cas de problème, seules les questions relatives aux portefeuilles officiels peuvent généralement trouver une réponse dans les groupes Cardano par Telegram/forum. Vous devrez peut-être consulter des équipes de soutien aux portefeuilles spécifiques pour les portefeuilles tiers.
+Notez qu'en cas de problème, seules les questions relatives aux portefeuilles officiels peuvent généralement trouver une réponse dans les groupes Cardano sur Telegram ou sur le forum. Vous devrez peut-être consulter des équipes de soutien spécifiques pour les portefeuilles tiers.
 
-!> Il est important de savoir si les clés de votre portefeuille vous appartiennent, si elles n'ont jamais été transférées sur le réseau et si elles sont compatibles avec la blockchain (voir **les deux dernières colonnes** pour le vérifier)
+!> Il est important de savoir si les clés de votre portefeuille vous appartiennent, si elles n'ont jamais été transférées sur le réseau et si elles sont compatibles avec la blockchain (voir **les deux premières colonnes** pour le vérifier)
 
 
 |Name      |[Type][1]|Keys only with user|Keys compatible?|Hardware Wallet support        |Staking |Open Source|Creator |Platforms|
 |----------|---------|-------------------|----------------|-------------------------------|--------|-----------|--------|---------|
-|[Yoroi]   |Light    |Yes                |Yes             |Ledger Nano S/X, Trezor Model T|Soon    |[Yes](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chrome Extension, Android, IPhone|        
+|[Yoroi]   |Light    |Yes                |Yes             |Ledger Nano S/X, Trezor Model T|Soon    |[Yes](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chrome Extension, Android, IPhone|
 |[Daedalus]|Full     |Yes                |Yes             |Soon                           |Yes     |[Yes](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite] |Light    |Yes                |Yes             |Ledger Nano S/X, Trezor Model T|Yes     |[Yes](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
 |[Medusa]  |Light    |`No`               |Yes             |Soon                           |Yes     |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|

@@ -1,15 +1,15 @@
 
-Maintenant que vous vous êtes familiarisés avec la notion de portefeuille, nous allons explorer les types de portefeuilles que vous pouvez utiliser. Naviguez comme indiqué ci-dessous pour explorer un type de portefeuille spécifique.
+Maintenant que vous êtes familiarisés avec la notion de portefeuille, nous allons explorer les types de portefeuilles que vous pouvez utiliser. Naviguez comme indiqué ci-dessous pour explorer un type de portefeuille spécifique.
 
 En résumé, du point de vue de l'utilisateur final, il existe principalement deux types d'interfaces de portefeuille :
 
 ### "Software (Hot) Wallets"
 
-Un portefeuille logiciel est une interface de portefeuille numérique où les clés cryptographiques (cryptées) seront stockées sur l'appareil que vous utilisez. Il existe principalement deux types de portefeuilles logiciels, comme indiqué ci-dessous.
+Un portefeuille logiciel est une interface de portefeuille numérique où les clés cryptographiques (et cryptées) seront stockées sur l'appareil que vous utilisez. Il existe principalement deux types de portefeuilles logiciels, comme indiqué ci-dessous.
 
 <!-- tabs:start -->
 
-#### ** "Full node wallet" ou Portefeuille à noeud complet **
+#### ** "Full node wallet" ou Portefeuille noeud complet **
 
 Exemple: Daedalus
 
@@ -18,12 +18,12 @@ Un portefeuille nœud complet fait fonctionner un nœud de blockchain de manièr
  - Votre nœud validera tous les blocs au fur et à mesure de leur création et de leur synchronisation avec votre appareil, ce qui réduira la confiance nécessaire pour opérer le portefeuille.
  - L'exécution d'un nœud complet améliore également la disponibilité de la blockchain dans votre région géographique, ce qui améliore la latence des nœuds de création de blocs.
  - Si une fonctionnalité est prise en charge par un nœud, mais pas encore par une interface utilisateur de portefeuille, vous pouvez vous connecter directement au nœud et accéder à la fonctionnalité.
- 
+
 Outre ces avantages, lancer un nœud implique automatiquement quelques responsabilités - ce qui peut être considéré comme un inconvénient du point de vue de l'utilisateur final - surtout si votre seul usage est d'effectuer des transactions :
  - La synchronisation de l'ensemble de la blockchain sur votre appareil nécessite du temps lors de la configuration initiale, ce qui peut prendre plusieurs heures selon le réseau et les capacités de votre ordinateur.
  - Il faudra du stockage, de la mémoire et un réseau nécessaires pour faire fonctionner un portefeuille connecté à un nœud complet.
  - Les portefeuilles à nœud complet peuvent ne pas être considérés comme idéaux pour les appareils portables.
- 
+
 #### ** "Light wallet" ou Portefeuille léger**
 
 Exemple: Yoroi, ADALite
