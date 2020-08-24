@@ -23,6 +23,7 @@ Below we can find a list of known Blockchain/Pool explorers:
 |[Pegasus]         |Yes          |Yes            |Yes           |No         |No        |No|
 |[ADAStat]         |Soon         |Soon           |Soon          |Soon       |Soon      |No|
 |[BlockChair]      |No           |Yes            |No            |Yes        |No        |No|
+|[ADApools.org]    |Yes          |Yes            |Yes           |Yes        |Yes       |No|
 
 [Cardano Explorer]: https://explorer.cardano.org
 [Seiza]: https://seiza.com
@@ -33,3 +34,4 @@ Below we can find a list of known Blockchain/Pool explorers:
 [Pegasus]: https://pegasuspool.info/explorer
 [ADAStat]: https://adastat.net
 [BlockChair]: https://blockchair.com/cardano
+[ADApools.org]: https://adapools.org
