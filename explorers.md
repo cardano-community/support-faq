@@ -17,13 +17,13 @@ Below we can find a list of known Blockchain/Pool explorers:
 |[Cardano Explorer]|Paritally    |Yes            |Soon          |Yes        |No        |[IOHK](https://iohk.io)|
 |[Seiza]           |Soon         |Yes            |Soon          |Soon       |No        |[Emurgo](https://emurgo.io)|
 |[ADAScan]         |Soon         |Yes            |Soon          |No         |Yes       |No|
-|[ADAEx]           |Yes          |Yes            |Yes           |Yes        |Yes       |No|
+|[ADAEx]           |Yes          |Yes            |No            |Yes        |Yes       |No|
+|[ADApools.org]    |Yes          |Yes            |Yes           |Yes        |No        |No|
 |[CardanoScan]     |Yes          |Yes            |Yes           |No         |No        |No|
 |[Pooltool]        |Yes          |No             |Yes           |Yes        |No        |No|
 |[Pegasus]         |Yes          |Yes            |Yes           |No         |No        |No|
 |[ADAStat]         |Soon         |Soon           |Soon          |Soon       |Soon      |No|
 |[BlockChair]      |No           |Yes            |No            |Yes        |No        |No|
-|[ADApools.org]    |Yes          |Yes            |Yes           |Yes        |Yes       |No|
 
 [Cardano Explorer]: https://explorer.cardano.org
 [Seiza]: https://seiza.com
