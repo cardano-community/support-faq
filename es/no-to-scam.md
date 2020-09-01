@@ -1,50 +1,49 @@
-We commonly come across users losing their moneys to various giveaways or impersonators. Being in a decentralised cryptocurrency means you as an individual are your own bank, and only you are responsible for protecting your funds.
-If you fall for any of these and you giveaway funds or share your private keys, **nobody** can recover your funds. Do your due diligence when operating your crypto, just as you would when operating fiat currency notes.
-Also, if you come across such a scam, please forward the messages or group information to [Cardano Report To Admin](https://t.me/CardanoReportToAdmin) group on telegram.
-Note to telegram users, we cannot do much if you forward a screenshot, please ensure you select the message from the scammer and `forward` it to group mentioned above.
+Normalmente escuchamos sobre usuarios perdiendo su dinero en varias ofertas promocionales o imitadores. Formar parrte de un ecosistema descentralizado significa que tú eres tu propio banco, y solamente tú eres responsable de proteger tus fondos.
+Si caes en la trampa y regalas tus fondos o compartes tus llaves privadas, **nadie** puede recuperar tus fondos your funds. Haz tu debida diligencia cuando operes tu cripto, tal como lo harías al operar papel moneda.
+Si te encuentras con una estafa, favor reenviar los mensajes o información del grupo al grupo [Cardano Report To Admin](https://t.me/CardanoReportToAdmin) en telegram.
+Nota a los usuarios de telegram, no podemos hacer mucho si reenvías una captura de pantalla, favor asegúrate de que selcciones el mensaje del estafador y `forward` (reenvíalo) al grupo mencionada anteriormente.
 
-Below is a list of common Gotchas to be aware of for common scam practices and ways to be safe:
+A continuación te mostramos una lista de trampas comunes a tener en cuenta y maneras de mantenerte seguro:
 
-##### Free Giveaways/Promotion
+##### Ofertas promocionales/donaciones
 
-*"If it is looks too good to be true, it probably is"*
+*"Si es muy bueno para ser verdad, probablemente lo sea"*
 
-Often users get pulled into promotional scams promising great returns. Beware of such promotions, there are no free moneys to simply grab online.
-This is a very common scamming method targetted towards users who are new to the digital financial ecosystem.
+Usualmente los usuarios son atraídos a estafas promocionales que prometen grandes retornos. Ten cuidado de tales promociones, no hay tal cosa como dinero gratis para tomar en línea.
+Este es un método de estafa muy común dirigido a los usuarios que son nuevos en el ecosistema financiero digital.
 
-While the above is true for any platform, telegram is one of the most commonly exploited avenues for such scam operations. if you get added to such a group, please [inform officials](https://t.me/CardanoReportToAdmin), and click the "Report Spam and Leave" option. Usually you would often also see a lot of users responding with confirmations to those Giveaway scams - these are mostly bot accounts, do not fall for them.
-Checkout a typical giveaway scam and fake user responses below:
+Lo mencionada anteriormente es cierto para ciertas plataformas, telegram es una de las he above is true for any platform, telegram es una de las vías más comúnmente explotadas para tales operaciones de estafa. Si eres agregado a tal grupo favor [informa a los oficiales](https://t.me/CardanoReportToAdmin), y haz click en la opción"Reportar Como Spam y Abandonar". Usualmente también verás varios usuarios respondiendo a las oferta promocionales o donaciones - estos son bots en su mayoría, no caigas en la trampa.
+Revisa este ejemplo de una típica oferta promocional y usuarios falsos respondiendo:
 
 ![Giveaway Scams](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/giveaway-scam1.jpg)![Fake bots confirming scams](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/giveaway-scam2.jpg)
 
-##### Receiving DM from someone impersonating admins/ambassadors
+##### Recibiendo un Directo (DM) de un impostor de admin/embajador
 
-One other common scamming practice you often see on telegram is accounts trying to impersonate official accounts or personnels (admins/ambassadors).
+Otra práctica frecuente de estafa en telegram es cuando una cuenta trata hacerse pasar por un usuario oficial de Cardano (admin/emajador).
 
-**As an alert, be sure that none of the official admins/ambassadors will message you directly.**
+**Como alerta, ten por seguro que ninguno de los admins/embajadores oficiales te enviarán un mensaje directo.**
 
-These types of scams are pretty easy to identify yourself if you pay attention to details:
-- You would often notice you do not share common groups with the scammers. The moderators from the official channels are diligent and actively try to keep impersonators at bay. But there are often proxy accounts hidden in groups which share and allow impersonating accounts to message users.  
+Este tipo de estafas son fáciles de identificar por cuenta propia si prestas atención a los detalles:
+- Normalmente notarás que no compartes grupos en común con el estafador. Los moderadores del canal oficial son diligentes y tratan de controlar a los impostores de manera activa. Pero hay cuentas proxy ocultas en los grupos las cuales comparten y permiten a los impostores mensajear a los usuarios.  
 ![Check Common groups](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-impersonator-check-1.jpg)
-- They may mask the usernames to be similar (eg: `rd1rt` instead of `rdlrt`) or they may hide Username and add `@rdlrt` text to Bio instead. Please be on the lookout for such methods and verify Username *as well as* Bio when chatting with anyone in DMs.  
+- Pueden enmascarar los nombres de usuario para que sean similares (eg: `rd1rt` en vez de `rdlrt`) o pueden ocultar el nombre de usuario y agregar `@rdlrt` como texto en su Bio en vez. Por favor ten en cuenta estos métodos y verifica el nombre de usuario *como también* la Bio cuando envíes y recibas directos.  
 ![Check Username and Bio](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-impersonator-check-2.jpg)
 
-##### Being added to a random group/channel(s)
+##### Ser agregado a un grupo/canal desconocido
 
-Very often telegram users are added to a scam group that looks legit (see screenshot below). The content of the group may be promotional as above or try to push in a scam link within group of correct ones. If you're not sure if you jo
-ined that group, please cross-check the list of [community groups on telegram](https://t.me/Cardano/271989).
+Frecuentemente, usuarios de telegram son agregados a un grupo de estafa que parece ser legítimo (ve la captura a continuación). El contenido del grupo pueda que sea promocional como lo mensionamos anteriormente, o tratan de incluir un enlace de estafa entre un grupo de enlaces legítimos. Si no estás seguro si te uniste a eso grupo, revisa la lista de [grupos de comunidad en telegram](https://t.me/Cardano/271989).
 
 ![Random Impersonating groups](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/random-impersonating-groups.jpg)
 
-To prevent getting added to such groups, please ensure your user settings in telegram is updated as below:
+Para prevenir ser agregado a tales grupos, asegúrate de que tu configuración de usuario en telegram sea actualizada de la siguiente manera:
 
 ![Telegram Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-1.jpg)
 ![Telegram Privacy Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-2.jpg)
 ![Telegram Allow adding to groups Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-3.jpg)
 
-##### Receiving DM from unknown users
+##### Recibiendo un Directo (DM) de un usuario desconocido
 
-One of the more common and amateur scam attempts would be scammers with fake user profiles (often using a model or an investor's photo in profile) will message you directly, and after a friendly conversation ask you either for assistance with stuck funds (asking you to share some funds to unlock theirs) or giving investment expert recommendations (often to a scam exchange/website). Simply forward the message to the admin group mentioned earlier, and report such users to telegram as spam. Few examples of such scam conversations below:
+Uno de los intentos más comunes y amateurs de estafa es cuando los estafadores tienen un perfil de usuario falso (usualmente usando a un modelo o un inversor como foto de perfil) que utilizan para mensajearte de manera directa, y luego de una conversación amistosa te piden ayudan con fondos estancados o bloqueados (pidiéndote que compartas algo de tus fondos para poder liberar los de ellos) o te dan recomendaciones de expertos para invertir (usualmente a un intercambio/sitio web de estafa). Simplemente reenvía el mensaje al admin del grupo mensionado anteriormente, y reporta en telegram a tal usuario como spam. Algunos ejemplos de conversaciones de estafa:
 
 ![Telegram Random DMs](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-random-dm-1.jpg)
 ![Telegram Random DMs](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-random-dm-2.jpg)

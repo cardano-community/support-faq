@@ -1,29 +1,29 @@
-##### What is an Explorer?
+##### ¿Qué es un Explorador?
 
-An explorer is a web based graphical tool, used to search for and view information stored on the blockchain ledger.  
+Un explorador es una herramienta gráfica basada en la web, usada para buscar y ver información almacenada en el libro major de la blockchain.  
 
-When users interact with the Cardano network, whether that is by sending and receiving ada or delegating to a stake pool, these interactions are broadcast to the network in the form of transactions. A block producing node takes a number of these transactions, verifies their validity and then adds them to the tip of the chain in a new block.  
+Cuando los usuarios interactuan con la red de Cardano, ya sea enviando o recibiendo ada o delegando a un stake pool, estas interacciones son transmitidas a la red en la forma de transacciones. Un nodo productor de bloques tomo un número de estas transacciones, verifica su validez y luego las añade al tip de la cadena en un nuevo bloque.  
 
-Blockchain explorers allow users to query based on various aspects - blocks, transactions, addresses , and with the transition to shelley era - stake pool information. They present this data in a format that is human readable and accessible using a web browser.  
+Los exploradores de Blockchain le permiten a los usuarios consultar basados en varios aspectos - bloques, transacciones, direcciones y, con la transición a la era Shelley, información de stake pool. Presentan estos datos en un formato que es legible y accesible por humanos, usando un expolorador de internet.  
 
-Some explorers provide additional tools and information, such as API support, a list of the largest addresses by ADA balance, graphical visualisations of the blockchain's network activity, stakepool distributions, etc.
+Algunos exploradores brindan información y herramientas adicionales, como soporte API, una lista de las direcciones más grandes por saldo de Ada, visualización gráfica de actividad de la red de blockchain, distribuciones de stake pool, etc.
 
-##### List of Explorers :id=list
+##### Lista de Exploradores :id=list
 
-Below we can find a list of known Blockchain/Pool explorers:
+A continuación podemos encontrar una lista de los exploradores de Blockchain/Pool conocidos:
 
-|Name              |Shelley-Ready|Blockchain Info|Stakepool info|API Support|Rich List |Official|
-|------------------|-------------|---------------|--------------|-----------|----------|--------|
-|[Cardano Explorer]|Paritally    |Yes            |Soon          |Yes        |No        |[IOHK](https://iohk.io)|
-|[Seiza]           |Soon         |Yes            |Soon          |Soon       |No        |[Emurgo](https://emurgo.io)|
-|[ADAScan]         |Soon         |Yes            |Soon          |No         |Yes       |No|
-|[ADAEx]           |Yes          |Yes            |No            |Yes        |Yes       |No|
-|[ADApools.org]    |Yes          |Yes            |Yes           |Yes        |No        |No|
-|[CardanoScan]     |Yes          |Yes            |Yes           |No         |No        |No|
-|[Pooltool]        |Yes          |No             |Yes           |Yes        |No        |No|
-|[Pegasus]         |Yes          |Yes            |Yes           |No         |No        |No|
-|[ADAStat]         |Soon         |Soon           |Soon          |Soon       |Soon      |No|
-|[BlockChair]      |No           |Yes            |No            |Yes        |No        |No|
+|Nombre            |Shelley-Listo  |Info de Blockchain|Info de Stake Pool|Soporte API|Lista de Ricos|Oficial|
+|------------------|---------------|------------------|------------------|-----------|--------------|--------|
+|[Cardano Explorer]|Parcialmente   |Sí                |Dentro de Poco    |Sí         |No            |[IOHK](https://iohk.io)|
+|[Seiza]           |Dentro de Poco |Sí                |Dentro de Poco    |Dentro de Poco   |No      |[Emurgo](https://emurgo.io)|
+|[ADAScan]         |Dentro de Poco |Sí                |Dentro de Poco    |No         |Sí            |No|
+|[ADAEx]           |Sí             |Sí                |No                |Sí         |Sí            |No|
+|[ADApools.org]    |Sí             |Sí                |Sí                |Sí         |No            |No|
+|[CardanoScan]     |Sí             |Sí                |Sí                |No         |No            |No|
+|[Pooltool]        |Sí             |No                |Sí                |Sí         |No            |No|
+|[Pegasus]         |Sí             |Sí                |Sí                |No         |No            |No|
+|[ADAStat]         |Dentro de Poco |Dentro de Poco    |Dentro de Poco    |Dentro de Poco   |Dentro de Poco      |No|
+|[BlockChair]      |No             |Yes               |No                |Sí         |No            |No|
 
 [Cardano Explorer]: https://explorer.cardano.org
 [Seiza]: https://seiza.com

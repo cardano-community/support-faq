@@ -1,9 +1,9 @@
 
-This is a community served documentation of various Frequently asked usage/issue queries alongwith some how-to guides for use within Cardano ecosystem.
-Note that we try to intentionally keep stake pool operator or testnet related queries seperate due to the volume and lifetime of the queries. The best place to ask for assistance for operating stake pool would be [Cardano Shelley workgroup](https://t.me/CardanoStakePoolWorkgroup) on telegram, while you might find handy tools to operate your stakepool in [guild](https://cardano-community.github.io/guild-operators) documentations.
-None of the content created here is officially sponsored/held by any of the three bootstrap entities within Cardano.
+Esta es una documentación servida por la comunidad y consta de varias preguntas/problemas frecuentes y algunas guías básicas para uso dentro del ecosistema de Cardano.
+Nota que intentamos aislar consultas sobre la operación de stake pools y testnets de manera intencional. El mejor lugar para buscar asistencia para operar un stake pool es en el [Cardano Shelley workgroup](https://t.me/CardanoStakePoolWorkgroup) en telegram, mientras puedes encontrar herramientas útiles para la operación de tu stake pool en la documentación del [gremio](https://cardano-community.github.io/guild-operators).
+Ninguno de los contenidos creados aquí es patrocinado/retenido de manera oficial por alguna de las tres entidades dentro de Cardano.
 
-If you feel there is something you would like to add, please feel free to open an issue or a PR against the github repository.
-In case of any issues/clarifications with any of the content, please report in the [Cardano Community Tech Support](https://t.me/CardanoCommunityTechSupport) group on telegram or open a post in [Cardano Forums](https://forum.cardano.org/c/communitytechnicalsupport). Note that there is no secret group for discussions regarding this repository. Everyone is free to contribute to the repository independently.
+Si crees que hay algo que deseas agregar, puedes hacerlo abriendo un issue o PR en el repositorio github.
+En caso de errores/clarificaciones del contenido, favor reportarlo en el grupo de telegram [Cardano Community Tech Support](https://t.me/CardanoCommunityTechSupport) o abre una publicación en el [Cardano Forum](https://forum.cardano.org/c/communitytechnicalsupport). Nota que no hay un grupo secreto para la discusión de este repositorio. Cada quien es libre de contribuir al repositorio de manera independiente.
 
-Frequent quality contributors to the repository will automatically be invited as collaborators to create content.
+Contribuidores frecuentes de calidad del repositorio serán automáticamente invitados como colaboradores para crear contenido.

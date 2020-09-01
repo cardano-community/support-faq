@@ -1,41 +1,41 @@
-'Ledger' is a range of cryptocurrency hardware wallets sold by France-based Ledger SAS.
-Products in this range provide a physical solution for storing cryptocurrency assets, including ada, in a secure and convenient manner.
-Like a mobile phone or PC, Ledger hardware wallets also require software components in order to function.
+'Ledger' son billeteras hardware para cierto rango de criptomonedas, distribuidas por Ledger SAS basada en Francia.
+Los productos en este rango proveen una solución física para almacenar criptomonedas, incluyendo ada, de una manera conveniente y segura.
+Como un celular o PC, las billeteras hardware de Ledger también requieren de ciertos componentes de software para funcionar.
 
-These software components include:  
+Estos ocmponentes de software incluyen:  
   
-**Ledger Live** - Management software used for viewing cryptocurrency assets, installing / uninstalling apps and managing the device.  
-**Firmware** - This is the low-level software that is installed on the device.  
-**Apps** - Apps are installed on the device and provide additional functionality, such as storing cryptocurrency assets and cryptographic keys.  
+**Ledger Live** - Software de Adminitración usado para ver las criptomonedas en la billetera, instalar / desinstalar apps y manejar el dispositivo.  
+**Firmware** - Este es el software del nivel bajo que es instalado en el dispositivo.  
+**Apps** - Las apps son instaladas en el dispositivo y proporcionan funcionabilidad adicional, como almacenamiento de criptomonedas y llaves criptográficas.  
 
-##### Install Ledger Live
+##### Instala Ledger Live
 
-If you do not already have Ledger Live installed, please see the following guide to install it for your relevant Operating System:  
+Si todavía no has instalado Ledger Live, por favor ve la siguiente guía para instalarlo para tu Sitema Operativo respectivo:  
 https://support.ledger.com/hc/en-us/articles/360006395553
 
-##### Update Ledger Firmware
+##### Actualiza el Ledger Firmware
 
-Ledger SAS has released an updated firmware (version 1.6.1) which provides support for the Shelley-era Cardano network.
-In order to use your Ledger with Shelley wallet clients, such as AdaLite, you must have the latest firmware and Cardano app installed.
+Ledger SAS ha publicado una actualización de firmware (versión 1.6.1) la cual brinda soporte para la red de Cardano en la era Shelley.
+Para poder usar tu Ledger con clientes de billeteras Shelley, como AdaLite, debes de tener la versión de firmware más reciente y la Cardano app instalada.
 
-Please see the following support articles from Ledger to update your Ledger hardware wallet:
+Por favor ve los siguientes artículos de soporte de Ledger para actualizar tu billetera hardware de Ledger:
 
 #### Ledger Nano S
 https://support.ledger.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware
 
-See the [Release Notes](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes) for more information.
+Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes) para más información.
 
 #### Ledger Nano X
 
 https://support.ledger.com/hc/en-us/articles/360013349800-Firmware-update-for-Ledger-Nano-X.com
 
-See the [Release Notes](https://support.ledger.com/hc/en-us/articles/360014980580) for more information.
+Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360014980580) para más información.
 
 #### Cardano app
 
-After updating the firmware of the device, please proceed with installing the latest Cardano app (version 2.0.3) from Ledger Live:  
+Luego de haber actualizado el firmware en el dispositivo, procede con la instalación de la Cardano app más reciente (version 2.0.3) de Ledger Live:  
 https://support.ledger.com/hc/en-us/articles/360020095874-Cardano-ADA-
 
-#### Cold staking using Ledger in Cardano
+#### Staking frío usando Ledger en Cardano
 
-Currently, only https://adalite.io supports ledger integration natively, while Yoroi and Daedalus will add the support soon. Go through instructions [here](https://github.com/vacuumlabs/adalite/wiki) for Staking using ADALite platform.
+Actualmente, solo https://adalite.io soporta la integración nativa de Ledger, mientras que Yoroi y Daedalus agregarán el soporte en el futuro. Sigue las instrucciones [aquí](https://github.com/vacuumlabs/adalite/wiki) para hacer satking usando la plataforma de ADALite.
