@@ -1,26 +1,26 @@
 
-The following is a list of well-known wallets to support Cardano.
+La siguiente lista enumera las billeteras más populares que son compatibles con Cardano.
 
-Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
+Nota que en caso de problemas, usualmente solamente consultas perteneciente a las billeteras oficiales pueden ser respondidas en los grupos de Cardano en telegramo el foro. Pueda que necesites consultar con el equipo de soporte de cierta billetera para las billeteras creadas por terceros.
 
-!> Its is important to know whether your wallet keys are owned by you, never transferred over network and compatible with chain (look at **last two columns** to verify the same)
+!> Es importante saber si las llaves de tu billetera son propiedad tuya, nunca han sido transferidad por la red y son compatibles con la cadena (revisa las **dos últimas columnas** para verificarlo).
 
-|Name      |[Type][1]|Keys only with user|Keys compatible?|Staking |Hardware Wallet support        |Open Source|Creator |Platforms|
+|Nombre    |[Tipo][1]|Llaves solamente del usuario|¿Llaves compatibles?|Staking |Soporte de Billetera Hardware      |Open Source|Creador |Plataformas|
 |----------|---------|-------------------|----------------|--------|-------------------------------|-----------|--------|---------|
-|[Yoroi]   |Light    |Yes                |Yes             |Yes*    |Ledger Nano S/X, Trezor Model T|[Yes](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone|        
-|[Daedalus]|Full     |Yes                |Yes             |Yes     |Soon                           |[Yes](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
-|[ADAlite] |Light    |Yes                |Yes             |Yes     |Ledger Nano S/X, Trezor Model T|[Yes](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
-|[Medusa]  |Light    |`No`               |Yes             |Yes     |Soon                           |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
-|[Atomic]  |Light    |Yes                |`No`            |Soon    |`No`                           |`No`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
-|[Guarda]  |Light    |Yes                |`No`            |`No`    |`No`                           |`No`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
-|[Magnum]  |Light    |Yes                |`No`            |`No`    |Ledger Nano S/X, Trezor Model T|[Yes](https://github.com/magnumwallet)|[Magnum]|Web|
-|[Ethos]   |Light    |Yes                |`No`            |`No`    |`No`                           |`No`|[Ethos]|Android, IPhone|
-|[Exodus]  |Light    |Yes                |`No`            |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
-|[Infinito]|Light    |Yes                |`No`            |Planned |`No`                           |[Yes](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
+|[Yoroi]   |Ligera    |Sí                |Sí             |Sí*    |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Extensión Chromium, Android, IPhone|        
+|[Daedalus]|Completa     |Sí                |Sí             |Sí     |Dentro de Poco                           |[Sí](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
+|[ADAlite] |Ligera    |Sí                |Sí             |Sí     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
+|[Medusa]  |Ligera    |`No`               |Sí             |Sí     |Dentro de Poco                           |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
+|[Atomic]  |Ligera    |Sí                |`No`            |Dentro de Poco    |`No`                           |`No`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
+|[Guarda]  |Ligera    |Sí                |`No`            |`No`    |`No`                           |`No`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
+|[Magnum]  |Ligera    |Sí                |`No`            |`No`    |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/magnumwallet)|[Magnum]|Web|
+|[Ethos]   |Ligera    |Sí                |`No`            |`No`    |`No`                           |`No`|[Ethos]|Android, IPhone|
+|[Exodus]  |Ligera    |Sí                |`No`            |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+|[Infinito]|Ligera    |Sí                |`No`            |Planeado |`No`                           |[Sí](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
 
-*Yoroi supports staking(delegation) currently on Extension only. It will resume staking on mobile devices soon.
+*Yoroi actualmente soporta staking(delegación) solamente con la Extensión. Dentro de poco retomará staking en los móviles.*
 
-[1]: Wallets/types.md#software-wallets
+[1]: es/Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
 [Yoroi]: https://yoroi-wallet.com
 [ADAlite]: https://www.adalite.io
