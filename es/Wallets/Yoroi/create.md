@@ -1,61 +1,61 @@
 
-The steps below assume you have already [installed Yoroi](Wallets/Yoroi/yoroi.md#install)
+Los siguientes pasos asumen que ya has [instalado Yoroi](es/Wallets/Yoroi/yoroi.md#install)
 
-!> You do not need to follow this page if you're using a hardware wallet.
+!> No necesitar seguir estos pasos si estás utilizando una billetera hardware.
 
-##### Create a Wallet on Yoroi extension
+##### Crea una Billetera con la extensión de Yoroi
 
-Select `Create Wallet` on Yoroi Home page below:
+Selecciona `Create Wallet` en la página principal de Yoroi
 
 ![Home Page](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-home.jpg ':size=50%')
 
-Select currency as `Cardano`:
+Selecciona `Cardano` como currency (moneda):
 
 ![Currency](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-select-currency.jpg ':size=30%')
 
-Select type of wallet (for this section - since we're talking about Hot wallet, we will use `Create Wallet`)
+Selecciona el tipo de billetera (para esta secci''on - como estamos tratando con billeteras calientes, vamos a utilizar `Create Wallet`)
 
 ![Create Wallet](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-create-wallet.jpg ':size=30%')
 
-Enter a Wallet name you would like to identify your wallet as. Also, you will need to type a 10-character password. This password will act as a second level protection and will be used to secure (by encrypting) your keys in cache. *To make any outgoing transfers - you will need this spending password.* Continue by clicking `Create Personal Wallet`
+Dale un nombre a tu billetera para ayudarte a identificarla. De igual manera, necesitarás teclear una contraseña de 10 caracteres. Esta contraseña será tu segundo nivel de protección y será utilizada para asegurar (encriptar) tus llaves en el caché. *Para crear transferencias de salid - necesitarás esta contraseña.* Continua haciendo click en `Create Personal Wallet`
 
 ![Create Wallet](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-new-wallet.jpg ':size=30%')
 
-You will reach a security prompt asking you to **confirm** there is no one looking as the next stop will display your Wallet seed - which derives your [private keys](wallets.md#basics-about-private-keys). You would want to grab a paper and pen to write down the seed before continuing.
+Te encontrarás con una ventana para **confirmar** que nadie más está viendo tui pantalla ya que en el siguiente paso se te mostrará la clave de tu billetera - la cual deriva tus [llaves privadas](es/wallets.md#basics-about-private-keys). Deberías de tener a mano lápiz y papel para anotar tu clave antes de continuar.
 
 ![Accept Warning for exposing keys](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-seed-acceptance.jpg ':size=30%')
 
-The page will ask you to now write down the 15 words recovery phrase displayed on screen. Please carefully write down and verify the words in the correct order before continuing. Often users tend to mix the order or rename few words for security, but forget to remember what was done.
-**Important**: These words are the **only** way for you to have access to funds. You can lose your computer and have access to funds if you have these words, but if you lose the words - **no one can retrieve funds back for you**.
+La página te pedirá que anotes las 15 palabras de tu frase de restauración que aparecen en tu pantalla. Anota las palabras con mucho cuidado y verifica que estén en el orden correcto antes de continuar. Muy amenudo los usuarios cambian el orden o sustituyen ciertas palabras, pero olvidan el orden y la forma original que estaban escritas.
+**Importante**: Estas palabras son la **única** forma para que tengas acceso a tus fondos. Puede perder tu computadora y siempre tener accesoa tus fondos siempre y cuando tendas estas palabras, pero si pierdes las palabras - **nadie puede recuperar tus fondos**.
 
 ![Write Down your Recovery Phrase](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-seed.jpg ':size=30%')
 
-Now, you will be asked to verify the recovery phrase you've written down. Please select the words from the list in the same order as you saw them on screen before.
+Ahora, se te pedirá verificar la frase de restauración que has escrito. Selecciona las palabras de la lista en el mismo orden en el cual se te fueron presentadas.
 
-Once you've entered the 15 words, you will be shown a reminder about your recovery phrase. Please do *read* and then check the boxes to confirm:
+Una vez que hayas confirmado las 15 palabras, se te mostrará un recordatorio sobre tu frase de restauración. *Lee* y luego marca las cajas para confirmar:
 
 ![Confirmation about Recovery Phrase](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-confirm-seed.jpg ':size=30%')
 
-This should land you to the following screen.
+Esto resultará en la siguiente pantalla.
 
 ![Wallet Created Successfully](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-wallet-created.jpg ':size=30%')
 
-Congratulations! You have successfully created your Yoroi wallet.
+¡Felicidades! Has instaldo la billetera Yoroi de manera correcta.
 
-##### Adding or switching between wallets
+##### Añadiendo o cambiando billeteras
 
-Yoroi can handle multiple wallets.
+Yoroi te permite tener múltiples billeteras.
 
-If you're within a wallet view, you would see a pulldown at the top right corner, which should list your existing wallets as well as allow you to `Add new wallet`.
+Si estás en la vista principal de una billetera, verás un botón de menú en la parte superior derecha, la cual debería mostrarte tus billeteras existentes así como permitirte agregar una nueva billetera usando la opción `Add new wallet`.
 
 ![Add Another Wallet from Wallet screen](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-multiple-wallet-add.jpg ':size=30%')
 
-If you're at `My Wallets` screen instead, you have the option to `Add new wallet` at the top.
+Si en vez te encuentras en la pantalla de `My Wallets`, tendrás la opción de `Add new wallet` en la parte superior.
 
 ![Add Another Wallet from My Wallets screen](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-multiple-wallet-add2.jpg ':size=30%')
 
-In either cases, you will reach the screen below:
+En cualquier caso, llegarás a la siguiente pantalla:
 
 ![Add new wallet](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-multiple-add-new-wallet.jpg ':size=30%')
 
-You can continue the next steps as per [create wallet](#create-a-wallet-on-yoroi-extension-or-addon) instructions above.
+Puedes continuar a los siguientes pasos como se indica en los pasos de [creando una billetera](#create-a-wallet-on-yoroi-extension-or-addon).

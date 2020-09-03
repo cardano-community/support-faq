@@ -1,4 +1,4 @@
-- [Acerca de](index.md)
+- [Acerca de](es/index.md)
 - [Billeteras - Lo Básico](es/wallets.md)
   - [Tipos de Billeteras](es/Wallets/types.md)
   - [Lista de Billeteras](es/Wallets/list.md)

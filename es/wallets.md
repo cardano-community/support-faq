@@ -1,45 +1,45 @@
-#### What is a Wallet? {docsify-ignore}
+#### ¿Qué es una Billetera? {docsify-ignore}
 
-A wallet is a software program that creates, stores and manages access to the private and public key pairs that control funds on a blockchain.  You can use different wallets but, as long as you're using same private key, you would have access to the same funds on chain.  Wallets in the Cardano ecosystem are `Hierarchical Deterministic (HD)` and based on the `UTXO` model - and for good reasons. Before diving into these terms, lets review the basics regarding keys.
+Una billetera es un programa de software que crea. almacena y maneja el accesso a las llaves p'ublicas y privadas que controlan los fondos en la blockchain. Puedes usar diferentes billeteras, pero mientras sigas usando la misma llave privada, podr'as accesar a los mismos fondos en la cadena. Las billeteras en el ecosistema de Cardano son `Determinista Jerárquicas ('HD' por sus siglas en inglés)` y basadas en el modelo `UTXO` - y por buenas razones. Antes de platicar sobre estos términos, repasemos los conceptos básicos sobre las llaves.
 
-#### Basics about Private keys {docsify-ignore}
+#### Conceptos Básicos sobre Llaves Privadas {docsify-ignore}
 
-A private key is a randomly generated string of characters that can generate a public key, which can go through hashing to form addresses. The introduction of Cryptocurrency initiated with users being in complete control without relying on an external entity (being your bank). This automatically means user is responsible for his own funds, and it is an individual's responsibility to keep this private key(s) safe and secure. If you lose your private keys, you essentially lose your access to digital funds on blockchain, and no one (not even developers) can get your access back.
+Una llave privada es una cadena de carateres generados de manera aleatoria y estos pueden generar una llave pública, la cual pasa por el proceso de hashing para crear una dirección. La introducción de las cirptomonedas comenzó con usuarios en completo control sin necesidad de terceros (ser tu propio banco). Esto automáticamente significa que el usuario es responsable pro sus propios fondos, y es la responsabilidad del individuo mantener las llaves privadas seguras. Si pierdes tus llaves privadas, básicamente pierdes acceso a tus fondos digitales en la blockchain, y **nadie** (ni siquiera los desarrolladores) pueden brindarte acceso a esos fondos.
 
-The best practices for securing your private key depend on individual's usage of his device. There isnt a golden rule that applies to all. In the current age, having keys online is often susceptible to vulnerabilities - be it security of your online device, or access to physical servers. Thus, a common good practice is having your private keys offline from a digitial media. You dont want any form of unencrypted or easily brute forcable format of private key on your online device.
+La mejor forma de asegurar tus llaves privadas depende del uso de tu dispositivo. No hay una regla de oro que aplique para todos. En estos tiempos, tener tus llaves en línea las hace susceptibles a ser comprometidas - ya sea por la seguridad de tu dispositivo en línea, o por el acceso a tu servidor. Por lo tanto, una práctica común es mantener tus llaves privadas fuera del alcance de una conexión a internet. No querás tener alguna formato no encriptado o que sea hackeado fácilmente en tu dispositvo en línea.
 
-#### Heirarchical Deterministic (HD) Wallets {docsify-ignore}
+#### Billeteras Deteminista Jerárquicas (HD) {docsify-ignore}
 
-Hierarchical Deterministic (HD) wallets allow users to derive keys (private and public) from a common seed (built using BIP39 mnemonics) that are easier to backup and allow better wallet features and privacy of history. This means you may receive a combination of words (12, 15, 24, 25 or 27 - dependening on type of wallet software you elect) and the hash of these words actually result in your unique private key, making it easier for access and security. One of the features of a HD wallet is that a single wallet can hold up to 2147483647 accounts with 2147483647 addresses, all associated to a single wallet - and each with its own unique history of transaction records.
+Las billeteras deterministas jerárquicas (HD) permiten a los usuarios derivar sus llaves (públicas y privadas) de una clave en común (construida usando mnemotécnicos BIP39) lo que facilita el respaldo y permite mejores características de la billetera y privacidad del historial. Esto significa eu recibirás una combinación de palabras (12, 15, 24, 25 o 27 - dependiendo del tipo de billetera software que elijas) y el hash de estas palabras resultará ser tu llave privada única, volviéndolo más fácil acceder y mejorando la seguridad. Una de las características de una billetera HD es que una sola billetera puede contener hasta 2147483647 cuentas diferentes con 2147483647 direcciones, todas asociadas a una sola billetera - y cada una con su historial de transacciones único.
 
-You can visit [this wiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) for detailed information about HD Wallets and how address derivation works between:
-- HD Random (Legacy Byron Daedalus wallets - where addresses start with `Ddz..`
-- Legacy Byron Icarus-style HD Sequntial wallets - where addresses start with `Ae2..`
-- Shelley wallets (still based on HD Sequential , but using bech32 - typical address starting with `addr...`).
+Puedes visitar [esta wiki](https://github.com/input-output-hk/cardano-wallet/wiki/About-Address-Derivation) para información detallada sobre las billeteras HD y cómo funciona la derivación de direcciones entre:
+- Billeteras HD Aleatorias (Billeteras Daedalus de Legacy Byron - donde las direcciones comienzan con `Ddz..`
+- Billeteras Secuenciales HD Estilo Icarus de Legacy Byron - donde las direcciones comienzan con `Ae2..`
+- Billeteras Shelley (siempre basadas en HD Secuenciales, pero usando bech32 - dirección típica comenzando con `addr...`).
 
-You might see that there are number of different combination of number of words for mnemonics supported in different wallets. Just to give a brief summary of which wallet type supports how many seeds:
+Como puedes ver, hay una hay gran variedad para las distintas combinaciones usadas para los mnemotécnicos de las diferentes billeteras. Solo para darte un resumen de cuántas claves son soportadas por x número de billeteras:
 
-|Wallet            |Era      |Type      |Number of words                |
-|------------------|---------|----------|-------------------------------|
-|Daedalus          |Byron    |Hot/Online|12                             |
-|Daedalus          |Byron    |Paper     |27 (18 on paper + 9 digital)   |
-|Daedalus Rewards  |ITN      |Hot/Online|15                             |
-|Yoroi             |Byron/ITN|Hot/Online|15                             |
-|Yoroi             |Byron/ITN|Paper     |21 on paper + Spending password|
-|Daedalus          |Shelley  |Hot/Online|24                             |
-|Yoroi             |Shelley  |Hot/Online|24                             |
+|Billetera         |Era      |Tipe             |Número de Palabras             |
+|------------------|---------|-----------------|-------------------------------|
+|Daedalus          |Byron    |Caliente/En línea|12                             |
+|Daedalus          |Byron    |Papel            |27 (18 en papel + 9 digital)   |
+|Daedalus Rewards  |ITN      |Caliente/En línea|15                             |
+|Yoroi             |Byron/ITN|Caliente/En línea|15                             |
+|Yoroi             |Byron/ITN|Papel            |21 en papel + contraseña       |
+|Daedalus          |Shelley  |Caliente/En línea|24                             |
+|Yoroi             |Shelley  |Caliente/En línea|24                             |
 
-#### Funds in a wallet versus address {docsify-ignore}
+#### Fondos en una billeteras versus dirección {docsify-ignore}
 
-One of the common confusions users encounter is reading balance of a HD Wallet, and conflicting funds in an address versus funds in a wallet. This is because of the way UTXO (Unspent Transaction Output) HD Wallets operate. Every new transaction within a wallet automatically selects a set of addresses that form a minimum balance to make the transfer, and then adds a *new* output address (referred to as UTXO above) - which is a "change address".
-The concept is best explained by using an analogy with currency notes - as used in current financial system.
+Una de las confusiones más comunes que los usuarios encuentran es comprender el saldo de una billetera HD, y el conflicto entre los fondos en una dirección versus los fondos en una billetera. Esto se debe a la forma en la cual los UTXO (Unspent Transaction Output "Salida de Transacción no Gastada") de las billeteras HD operan. Cada nueva transacción dentre de la billetera selecciona de manera automática un set de direcciones las cuales forman un saldo mínimo para efectuar la transferencia, y luego agrega una *nueva* dirección de salida (referida como UTXO antes mencionada) - la cual es un "dirección de cambio".
+El concepto se comprende mejor utilizando una analogía con notas de moneda - asi como es usado en el sistema financiero actual.
 
-Let us consider Alice has 3 notes of 10 dollars each in her purse, and wants to buy 50 apples from Bob at a cost of 18 dollars.
-Alice pays using both 10 dollar notes to Bob , and receives a change of 2 dollars (which she did not have before) as a new unspent output of this transaction.
-Thus, Alice, now ends up with a 10 dollar note and a 2 dollar change - added to her purse. Checking her purse for old notes, will result in a 10 dollar note - but overall funds in her purse will also include that additional 2 dollar change.
+Digamos que Alice tiene 3 notas de 10 dólares en su cartera, y ella quiere comprar 50 manzanas que Bob vende a un costo de 18 dólares.
+Alice le paga a Bob usando ambas notas de 10 dólares, y recibe 2 dólares de cambio (los cuales ella no tenía antes) como una nueva salida de transacción no gastada.
+Por lo tanto, Alice, ahora tiene una nota de 10 dólares y un cambio de 2 dólares  - añadidos a su cartera. Revisar su cartera por notas anteriores resultará en una nota de 10 dólares - pero el total de fondos en su cartera incluirán los 2 dólares de cambio.
 
-Similarly, when you make a transaction from a wallet - the inputs selected will often exceed the output and a change will have to be created.
-When querying funds, if you're looking at value of an address - you may not see the complete picture, because wallet is made up of many addresses, and users may not know which address has how much funds after making transactions.
-Thus, best way to query your funds is using your wallet software , which had access to your keys. While to look at whether funds have reached to address B, explorer comes in handy.
+De manera similar, cuando efectúas una transacción desde tu billetera - las entradas seleccionadas normalmente excederán las salidas y un cambio deberá de ser creado.
+Cuando consultes tus fondos, si estás viendo el valor de una dirección - pueda que no veas todos sus detalles, porque la billetera contiene varias direcciones, y los usuarios pueda que no sepan cu''antos fondos contiene cada dirección luege de efectuar transacciones.
+Por lo tanto, la mejor manera de consultar tus fondos es utilizando tu billetera software, la cual tuvo acceso a tus llaves. Revisar si tus fondos fueron recibidos en la dirección X, el explorador es bastante conveniente.
 
-For further details, you can read the excellent [blog from Emurgo](https://emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained) which goes into moredetails about UTXO model.
+Para más detalles, puedes leer el gran [blog de Emurgo](https://emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained) el cual entre en más detalles sobre el modelo UTXO.
