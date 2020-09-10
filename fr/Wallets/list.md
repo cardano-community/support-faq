@@ -6,18 +6,18 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 !> Il est important de savoir si les clés de votre portefeuille vous appartiennent, si elles n'ont jamais été transférées sur le réseau et si elles sont compatibles avec la blockchain (voir **les deux premières colonnes** pour le vérifier)
 
 
-|Name      |[Type][1]|Keys only with user|Keys compatible?|Staking |Hardware Wallet support        |Open Source|Creator |Platforms|
+|Nom      |[Type][1]|Clés uniquement avec utilisateur |Clés compatible?|Staking |Prise en charge Hardware Wallet   |Open Source|Createurr |Platformes|
 |----------|---------|-------------------|----------------|--------|-------------------------------|-----------|--------|---------|
-|[Yoroi]   |Light    |Yes                |Yes             |Yes     |Ledger Nano S/X, Trezor Model T|[Yes](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone|
-|[Daedalus]|Full     |Yes                |Yes             |Yes     |Soon                           |[Yes](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
-|[ADAlite] |Light    |Yes                |Yes             |Yes     |Ledger Nano S/X, Trezor Model T|[Yes](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
-|[Medusa]  |Light    |`No`               |Yes             |Yes     |Soon                           |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
-|[Atomic]  |Light    |Yes                |`No`            |Soon    |`No`                           |`No`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
-|[Guarda]  |Light    |Yes                |`No`            |`No`    |`No`                           |`No`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
-|[Magnum]  |Light    |Yes                |`No`            |`No`    |Ledger Nano S/X, Trezor Model T|[Yes](https://github.com/magnumwallet)|[Magnum]|Web|
-|[Ethos]   |Light    |Yes                |`No`            |`No`    |`No`                           |`No`|[Ethos]|Android, IPhone|
-|[Exodus]  |Light    |Yes                |`No`            |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
-|[Infinito]|Light    |Yes                |`No`            |Planned |`No`                           |[Yes](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
+|[Yoroi]   |Léger    |Oui                |Oui             |Oui     |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone|
+|[Daedalus]|Complet     |Oui                |Oui             |Oui     |Bientôt                       |[Oui](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
+|[ADAlite] |Léger    |Oui                |Oui             |Oui     |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
+|[Medusa]  |Léger    |`No`               |Oui             |Oui     |Soon                           |`Non`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
+|[Atomic]  |Léger    |Oui                |`No`            |Bientôt |`Non`                          |`Non`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
+|[Guarda]  |Léger    |Oui                |`No`            |`Non`   |`Non`                          |`Non`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
+|[Magnum]  |Léger    |Oui                |`No`            |`Non`   |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/magnumwallet)|[Magnum]|Web|
+|[Ethos]   |Léger    |Oui                |`No`            |`Non`   |`Non`                          |`Non`|[Ethos]|Android, IPhone|
+|[Exodus]  |Léger    |Oui                |`No`            |`Non`   |`Non`                          |`Non`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+|[Infinito]|Léger    |Oui                |`No`            |Prévu   |`Non`                          |[Oui](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
 
 
 [1]: Wallets/types.md#software-wallets
