@@ -7,7 +7,7 @@ Nota que en caso de problemas, usualmente solamente consultas perteneciente a la
 
 |Nombre    |[Tipo][1]|Llaves solamente del usuario|¿Llaves compatibles?|Staking |Soporte de Billetera Hardware      |Open Source|Creador |Plataformas|
 |----------|---------|-------------------|----------------|--------|-------------------------------|-----------|--------|---------|
-|[Yoroi]   |Ligera    |Sí                |Sí             |Sí*    |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Extensión Chromium, Android, IPhone|        
+|[Yoroi]   |Ligera   |Sí                 |Sí              |Sí      |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Extensión Chromium, Android, IPhone|        
 |[Daedalus]|Completa     |Sí                |Sí             |Sí     |Dentro de Poco                           |[Sí](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite] |Ligera    |Sí                |Sí             |Sí     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
 |[Medusa]  |Ligera    |`No`               |Sí             |Sí     |Dentro de Poco                           |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
@@ -17,8 +17,6 @@ Nota que en caso de problemas, usualmente solamente consultas perteneciente a la
 |[Ethos]   |Ligera    |Sí                |`No`            |`No`    |`No`                           |`No`|[Ethos]|Android, IPhone|
 |[Exodus]  |Ligera    |Sí                |`No`            |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 |[Infinito]|Ligera    |Sí                |`No`            |Planeado |`No`                           |[Sí](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
-
-*Yoroi actualmente soporta staking(delegación) solamente con la Extensión. Dentro de poco retomará staking en los móviles.*
 
 [1]: es/Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
