@@ -9,6 +9,7 @@
     - [Claim/Transfer from Byron/ITN Wallets](Wallets/Yoroi/transfer.md)
   - [Ledger](ledger.md)
 - [Explorers](explorers.md)
+- [Rewards FAQ](rewards.md)
 - [Selecting Pool for delegation](select-pool-to-delegate.md)
 - [Safety against common Scams](no-to-scam.md)
 
