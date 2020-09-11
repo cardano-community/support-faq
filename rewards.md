@@ -5,7 +5,7 @@ For any change in delegation, the rewards are reflected after 3 epoch transition
 - An Epoch in cardano is 5 days long. Any change in Delegation is captured in snapshot at end of the epoch (at 1st epoch transition).
 - The snapshot captured is considered *live* at the next (2nd) epoch transition. This means the pool you delegated to would reflect your delegation in `n+2` epochs, to qualify for chance to make blocks proportional to its stake (which would now include your delegation).
 - The blocks made by pool qualifies for rewards, which is calculated at next epoch transition (thus, calculation occurs at `n+3`).
-- Finally, The rewards are then payed out at the end of next epoch `n+4`.
+- Finally, The rewards are then payed out at the end of next epoch `n+3`.
 Thus, if you delegated in epoch `n` your rewards will be with you by the start of epoch `n+4` (technically, it will be at the end of epoch `n+3`).
 The visual representation of the above explaination is as per below (using `n=213` in the example):
 
