@@ -20,7 +20,7 @@ If you change delegation from pool `P1` to `P2`, you still receive rewards from 
 Wallets are currently not able to show the rewards history due to missing API that should be available soon. Meanwhile, there are multiple ways to monitor your rewards, you can use add any of your wallet addresses (it doesnt matter which one, pick a random address from your Wallet > Receive tab) and track rewards history using any one of the below:
 - via browser in [pooltool] or [cardanoscan]
 - get notifications via [Pegasus Mobile App](https://pegasuspool.info/) on your mobile
-- get telegram notifications via [ADAScat](https://t.me/AdaStatBot)
+- get telegram notifications via [ADAstat](https://t.me/AdaStatBot)
 
 #### I did not receive my rewards in spite of waiting as per the schedule. What should I look for? :id=missing-rewards
 First point of contact is ideally your pool operator. Most of the pool operators do provide a way for you to contact them. But few pointers to check the cause yourself :
