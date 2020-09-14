@@ -9,7 +9,8 @@
     - [Byron/ITN ウォレットからの要求/資金移動 ](jp/Wallets/Yoroi/transfer.md)
   - [Ledger](jp/ledger.md)
 - [エクスプローラ](jp/explorers.md)
-- [委任するプールの洗濯](jp/select-pool-to-delegate.md)
+- [報酬に関する FAQ](jp/rewards.md)
+- [委任するプールの選択](jp/select-pool-to-delegate.md)
 - [一般的なスキャムへの安全性](jp/no-to-scam.md)
 
 <details>
