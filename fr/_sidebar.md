@@ -9,6 +9,7 @@
     - [Récupérer/Transférer à partir d'un portefeuille Byron/ITN](fr/Wallets/Yoroi/transfer.md)
   - [Ledger](fr/ledger.md)
 - [Explorateurs](fr/explorers.md)
+- [Récompenses - FAQ](fr/rewards.md)
 - [Choisir un pool pour déléguer](fr/select-pool-to-delegate.md)
 - [Protégez-vous des escrocs](fr/no-to-scam.md)
 
