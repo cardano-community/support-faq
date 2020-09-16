@@ -1,4 +1,4 @@
-Yoroi es una de las billeteras ligeras oficiales para Cardano desarrolladas por Emurgo, originalmente basadas en el Proyecto Icarus desarrollado por IOG (antes conocido como IOHK). Ls billetera está disponible de manera oficial como una extensión de chromium (por lo tanto, compatible con Chrome, Microsoft Edge, Brave, Yandex) o como una aplicación móvil en Android y iOS.
+Yoroi es una de las billeteras ligeras oficiales para Cardano desarrolladas por Emurgo, originalmente basadas en el Proyecto Icarus desarrollado por IOG (antes conocido como IOHK). La billetera está disponible de manera oficial como una extensión de chromium (por lo tanto, compatible con Chrome, Microsoft Edge, Brave, Yandex) o como una aplicación móvil en Android y iOS.
 
 ##### Sitio Web Oficial para descargar Yoroi
 
