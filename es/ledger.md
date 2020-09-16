@@ -2,7 +2,7 @@
 Los productos en este rango proveen una solución física para almacenar criptomonedas, incluyendo ada, de una manera conveniente y segura.
 Como un celular o PC, las billeteras hardware de Ledger también requieren de ciertos componentes de software para funcionar.
 
-Estos ocmponentes de software incluyen:  
+Estos componentes de software incluyen:  
   
 **Ledger Live** - Software de Adminitración usado para ver las criptomonedas en la billetera, instalar / desinstalar apps y manejar el dispositivo.  
 **Firmware** - Este es el software del nivel bajo que es instalado en el dispositivo.  
