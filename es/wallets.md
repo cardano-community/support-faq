@@ -1,6 +1,6 @@
 #### ¿Qué es una Billetera? {docsify-ignore}
 
-Una billetera es un programa de software que crea. almacena y maneja el accesso a las llaves p'ublicas y privadas que controlan los fondos en la blockchain. Puedes usar diferentes billeteras, pero mientras sigas usando la misma llave privada, podr'as accesar a los mismos fondos en la cadena. Las billeteras en el ecosistema de Cardano son `Determinista Jerárquicas ('HD' por sus siglas en inglés)` y basadas en el modelo `UTXO` - y por buenas razones. Antes de platicar sobre estos términos, repasemos los conceptos básicos sobre las llaves.
+Una billetera es un programa de software que crea, almacena y maneja el accesso a las llaves públicas y privadas que controlan los fondos en la blockchain. Puedes usar diferentes billeteras, pero mientras sigas usando la misma llave privada, podr'as accesar a los mismos fondos en la cadena. Las billeteras en el ecosistema de Cardano son `Determinista Jerárquicas ('HD' por sus siglas en inglés)` y basadas en el modelo `UTXO` - y por buenas razones. Antes de platicar sobre estos términos, repasemos los conceptos básicos sobre las llaves.
 
 #### Conceptos Básicos sobre Llaves Privadas {docsify-ignore}
 
