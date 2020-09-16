@@ -1,4 +1,4 @@
-Normalmente escuchamos sobre usuarios perdiendo su dinero en varias ofertas promocionales o imitadores. Formar parrte de un ecosistema descentralizado significa que tú eres tu propio banco, y solamente tú eres responsable de proteger tus fondos.
+Normalmente escuchamos sobre usuarios perdiendo su dinero en varias ofertas promocionales o imitadores. Formar parte de un ecosistema descentralizado significa que tú eres tu propio banco, y solamente tú eres responsable de proteger tus fondos.
 Si caes en la trampa y regalas tus fondos o compartes tus llaves privadas, **nadie** puede recuperar tus fondos your funds. Haz tu debida diligencia cuando operes tu cripto, tal como lo harías al operar papel moneda.
 Si te encuentras con una estafa, favor reenviar los mensajes o información del grupo al grupo [Cardano Report To Admin](https://t.me/CardanoReportToAdmin) en telegram.
 Nota a los usuarios de telegram, no podemos hacer mucho si reenvías una captura de pantalla, favor asegúrate de que selcciones el mensaje del estafador y `forward` (reenvíalo) al grupo mencionada anteriormente.

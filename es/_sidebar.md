@@ -9,6 +9,7 @@
     - [Reclamar/Transferir desde Billeteras Byron/ITN](es/Wallets/Yoroi/transfer.md)
   - [Libro Mayor](es/ledger.md)
 - [Explorador](es/explorers.md)
+- [Recompensas - Preguntas Frecuentes](es/rewards.md)
 - [Escogiendo un Pool para Delegar](es/select-pool-to-delegate.md)
 - [Seguridad ante Estafas Comunes](es/no-to-scam.md)
 
