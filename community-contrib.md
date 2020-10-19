@@ -28,7 +28,7 @@ Please do watch out for these and contribute to them to ensure that they dont re
 
 [Mike Fullman]: https://t.me/papacarp
 [Ashish]: https://t.me/blStitch
-[Markus Guflar]: https://t.me/gufmar
+[Markus Gufler]: https://t.me/gufmar
 [Pal Dorogi]: https://t.me/iilap
 [Ola Ahlman]: https://t.me/olaahlman
 [Smaug]: https://t.me/SmaugPool
