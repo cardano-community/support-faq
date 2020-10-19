@@ -3,6 +3,8 @@ There is no 1-for-all pool that you can delegate with, otherwise - every one wou
 
 > Remember, you - a delegator - are indirectly one of the core components of the protocol and your actions may determine the decentralisation as well as adoption of the platform. Whether it is for your benefit, or benefit of the network - it is important that you select carefully who you will be delegating to.
 
+!> There are heavy contributors to the ecosystem that may not be advertising and do not incur enough delegations, you can read more about them [here](community-contribs.md) if you'd like to support them.
+
 In this section we will discuss the different aspects that users should consider when selecting who they would like to support. If you're unsure about any of the parameters when simply using wallet, please leverage benefits of community platforms built to help you with the decision making. The platforms are:
 - [Pooltool](https://pooltool.io)
 - [ADAPools](https://adapools.org)

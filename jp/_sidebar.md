@@ -13,7 +13,7 @@
 - [委任するプールの選択](jp/select-pool-to-delegate.md)
 - [一般的な詐欺への対策](jp/no-to-scam.md)
 
-<details>
+<!--details>
 <summary>To - Do </summary>
 > - [Not Started yet](index.md)
   - [Wallets](wallets.md)
@@ -35,12 +35,5 @@
         - [Ledger connection stuck on "waiting for Commands.."](Wallets/Yoroi/FAQ.md#issues)
         - [Balance is incorrect in Yoroi interface](Wallets/Yoroi/FAQ.md#resync)
         - [Emergency Workarounds](Wallets/Yoroi/FAQ.md#workarounds)
-  - [Other Community Contributions](community-contrib.md)
-    - [Pooltool](Community/pooltool.md)
-    - [CNTools](Community/cntools.md)
-    - [Rewards Bot](Community/rewardsbot.md)
-    - [Community Hosted Wiki](Community/wiki.md)
-      - [Mind Map of cardano components](Community/wiki.md)
   - [Appendix](index.md)
-  - [Contributors](Contributors.md)
-</details>
+</details-->
