@@ -27,7 +27,7 @@ Como puedes ver, hay una hay gran variedad para las distintas combinaciones usad
 |Yoroi             |Byron/ITN|Caliente/En línea|15                             |
 |Yoroi             |Byron/ITN|Papel            |21 en papel + contraseña       |
 |Daedalus          |Shelley  |Caliente/En línea|24                             |
-|Yoroi             |Shelley  |Caliente/En línea|24                             |
+|Yoroi             |Shelley  |Caliente/En línea|15 / 24                        |
 
 #### Fondos en una billeteras versus dirección {docsify-ignore}
 
