@@ -11,7 +11,9 @@
 - [エクスプローラ](jp/explorers.md)
 - [報酬に関する FAQ](jp/rewards.md)
 - [委任するプールの選択](jp/select-pool-to-delegate.md)
-- [一般的な詐欺への対策](jp/no-to-scam.md)
+- [コミュニティの貢献者達](jp/community-contrib.md)
+- [一般的な詐欺とその対策](jp/no-to-scam.md)
+- [貢献者](jp/Contributors.md)
 
 <!--details>
 <summary>To - Do </summary>

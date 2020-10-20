@@ -14,14 +14,14 @@
 
 |名称              |Shelley移行|ブロックチェーン情報|ステークプール情報|APIサポート|リッチリスト|公式|
 |------------------|-------------|---------------|--------------|-----------|----------|--------|
-|[Cardano Explorer]|一部    |Yes            |Soon          |Yes        |No        |[IOHK](https://iohk.io)|
-|[Seiza]           |Soon         |Yes            |Soon          |Soon       |No        |[Emurgo](https://emurgo.io)|
-|[ADAScan]         |Soon         |Yes            |Soon          |No         |Yes       |No|
-|[ADAEx]           |Yes          |Yes            |Yes           |Yes        |Yes       |No|
+|[Cardano Explorer]|部分的    |Yes            |No            |Yes        |No        |[IOHK](https://iohk.io)|
 |[CardanoScan]     |Yes          |Yes            |Yes           |No         |No        |No|
-|[Pooltool]        |Yes          |No             |Yes           |Yes        |No        |No|
-|[Pegasus]         |Yes          |Yes            |Yes           |No         |No        |No|
-|[ADAStat]         |Soon         |Soon           |Soon          |Soon       |Soon      |No|
+|[Pooltool]        |Yes          |限定的        |Yes           |Yes        |No        |No|
+|[ADApools]        |Yes          |Yes            |Yes           |Yes        |No        |No|
+|[ADAStat]         |Yes          |Yes            |Yes           |Soon       |Yes       |No|
+|[Pegasus]         |Yes          |限定的        |Yes           |No         |No        |No|
+|[ADAEx]           |Yes          |Yes            |No            |Yes        |Yes       |No|
+|[Seiza]           |Soon         |Yes            |Soon          |Soon       |No        |[Emurgo](https://emurgo.io)|
 |[BlockChair]      |No           |Yes            |No            |Yes        |No        |No|
 
 [Cardano Explorer]: https://explorer.cardano.org
@@ -33,3 +33,4 @@
 [Pegasus]: https://pegasuspool.info/explorer
 [ADAStat]: https://adastat.net
 [BlockChair]: https://blockchair.com/cardano
+[ADApools]: https://adapools.org
