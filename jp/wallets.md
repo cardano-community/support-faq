@@ -27,7 +27,7 @@
 |Yoroi             |Byron/ITN|Hot/Online|15                             |
 |Yoroi             |Byron/ITN|Paper     |21 on paper + Spending password|
 |Daedalus          |Shelley  |Hot/Online|24                             |
-|Yoroi             |Shelley  |Hot/Online|24                             |
+|Yoroi             |Shelley  |Hot/Online|15 / 24                        |
 
 #### ウォレットの資金とアドレス {docsify-ignore}
 
