@@ -6,10 +6,6 @@ They might not promote their pools, but rest assured - they're quite stable, com
 
 Please do watch out for these and contribute to them to ensure that they dont reach a state where they have to fight for existence in terms of stake :smile:
 
-:root {
-  --table-head-background: #fff;
-}
-
 |Pool Ticker   |Operator          |Short Highlight                                  |
 |:-------------|------------------|-------------------------------------------------|
 |LOVE          |[Mike Fullman]    |Creator of infamous https://pooltool.io , which is a source of useful metrics for delegators and pool operators alike. Very well respected in the community, and a go to site for most when browsing pools. If there is a new idea floating around with node operations / metrics / analytics , more often than not you'd see him in the mix already working on it.|
