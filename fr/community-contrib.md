@@ -1,0 +1,32 @@
+L'écosystème est rempli de talents brillants et il est important que leur dévouement et le temps qu'ils y consacrent soient appréciés.
+
+En tant qu'utilisateur final, il est assez naturel que le gros des délégations aillent vers des pools très connus (chaînes Youtube, blogs, tweets, etc.), ne remarquant ainsi souvent pas les contributions comme celle-ci. En tant que communauté, il est important de prendre un moment pour s'assurer qu'en plus de toutes les entreprises axées sur le marketing, les contributeurs plus discrets soient également encouragés - car ils sont autant une bouée de sauvetage pour l'écosystème que les entités fondatrices  (CF, IOG et Emurgo) et fournissent ces outils en utilisant leur propre temps libre sans aucune rémunération pour les y inciter.
+
+Il se peut qu'ils ne fassent pas la promotion de leurs pools, mais rassurez-vous : ils sont assez stables, compétitifs et très bien équipés techniquement (de plus, ils ne gèrent pas un nombre démesuré de pools, ce qui est préjudiciable à la décentralisation, comme par exemple les pools 1PCT et OCEAN). En outre, ce sont des personnes que vous verrez également fortement impliquées dans les réseaux de test, explorant les dernières idées / informations et concepts avant la publication - et sont donc - généralement assez bien placées pour assurer une meilleure continuité à leurs pools, toujours au fait des derniers progrès au sein de l'écosystème.
+
+Prenez soin de ces derniers et faites attention à ce qu'ils n'arrivent pas une situation où ils doivent se battre pour la survie de leur pool :smile:
+
+|Pool Ticker   |Operateur          |Leur activité                                  |
+|:-------------|------------------|-------------------------------------------------|
+|LOVE          |[Mike Fullman]    |Créateur du fameux https://pooltool.io , qui est une source d'informations utiles pour les délégateurs et les opérateurs de pool. Très respecté dans la communauté, et un site que la plupart des gens consultent lorsqu'ils naviguent pour évaluer les pools. Dès qu'une nouvelle idée circule sur des opérations, des mesures ou des analyses, le plus souvent, vous le verrez déjà en train de travailler dessus.|
+|CSN1          |[Ashish]          |Créateur de https://cardanoscan.io , qui est l'un des nouveaux explorateurs de la blockchain et des pools, mais qui se développe rapidement pour devenir un explorateur complet. Ils ont développé un back-end complet à partir de zéro et constituent un excellent exemple de plateforme riche en fonctionnalités qui ne repose pas nécessairement sur des composants standard développés par I.O.G.|
+|CLIO          |[Markus Gufler]   |Membre de longue date et très respecté de la communauté, avec un large éventail de contributions (participation à un partenariat pour la création de Clio One Explorer, travail actif sur des solutions alternatives d'enregistrement de métadonnées, projet "Cardano on the Rocks" qui a connu un grand succès et qui était destiné au réseau ITN, diverses contributions via le site web des "guild-operators", etc. ). Actuellement, il héberge également le service "TopologyUpdater" utilisé par de nombreux opérateurs de pools pour se connecter anonymement à d'autres pools en utilisant divers paramètres telle que la localisation géographique.|
+|AHL           |[Ola Ahlman]      |L'un des principaux contributeurs aux désormais célèbres outils CNTools et gLiveView dans le cadre du site web des "guild-operators". C'est l'un des principaux outils qui a aidé à embarquer un grand nombre  d'opérateurs de pool à succès, en simplifiant le processus et en cherchant toujours des moyens de rendre les choses plus faciles pour la communauté des SPOs.|
+|UNDR          |[Pal Dorogi]      |Vieille carne qui existe depuis le début du projet. Une personne très bien informée qui essaie toujours de diffuser son savoir - que ce soit par le biais de petits utilitaires (par exemple, en créant des pools via des mnémoniques de portefeuille/Ledger) ou en fournissant des documentations très détaillées concernant les entrailles de la plate-forme. Il a contribué à aider d'autres personnes en fournissant des informations ou des moyens uniques qui ont ensuite été utilisés par d'autres personnes afin de  les intégrer dans leurs outils.|
+|SMAUG         |[Smaug]           |Créateur de https://pool.pm , site web qui permet aux opérateurs et aux délégateurs de suivre les délégations, les informations en temps réel pour les blocs créés, les transactions ainsi que les mouvements des gros détenteurs d'ada dans l'écosystème, et ce d'une manière très facile à utiliser et unique. Consultez ce site si vous ne l'avez pas encore fait.|
+|STAT          |[Dmitry Stashenko]|Créateur de https://adastat.net (un explorateur de pool très populaires pendant l'ITN, maintenant également disponible sur le réseau principal) et https://t.me/AdaStatBot (notifications de récompense par Telegram). La stabilité de son infrastructure et son attention aux détails pour son UX/UI sont bien connues.|
+|MDS           | [Denis Kalinin] | Créateur de [Medusa wallet](https://adawallet.io), premier portefeuille sécurisé *en garde partagée* entièrement créé par la communauté (c'est-à-dire que vos clés vous sont connues, mais également sauvegardées sous forme cryptée sur les serveurs de Medusa). Une interface très intuitive et conviviale construite comme Daedalus, compatible avec les portefeuilles Daedalus et Yoroi. Les caractéristiques du portefeuille sont comparables et concurrencent celles des portefeuilles officiels avec  l'authentification simple à deux facteurs, la possibilité de restaurer l'accès à l'aide du mot de passe et de la 2FA (au cas où les mnémoniques ne sont pas disponibles).|
+
+> Les critères pour les pools énumérés sont :
+> - Bien connu dans la communauté des SPOs/Dev
+> - Qui n'ont pas de délégation supérieure à 50M
+> - Ne pas avoir plus d'un pool
+
+[Mike Fullman]: https://t.me/papacarp
+[Ashish]: https://t.me/blStitch
+[Markus Gufler]: https://t.me/gufmar
+[Pal Dorogi]: https://t.me/iilap
+[Ola Ahlman]: https://t.me/olaahlman
+[Smaug]: https://t.me/SmaugPool
+[Dmitry Stashenko]: https://t.me/dmitry_stas
+[Denis Kalinin]: https://t.me/Fell_x27
