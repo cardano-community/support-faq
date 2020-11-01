@@ -2,6 +2,8 @@ Il n'y a pas un pool "bon pour tout le monde" sur lequel vous pouvez déléguer,
 
 > N'oubliez pas que vous - un délégataire - êtes indirectement l'un des éléments essentiels du protocole et que vos actions peuvent déterminer la décentralisation ainsi que l'adoption de la plate-forme. Que ce soit pour votre bénéfice ou celui du réseau, il est important que vous choisissiez avec soin les personnes à qui vous déléguerez.
 
+!> Il y a de gros contributeurs à l'écosystème qui ne font peut-être pas de publicité et n'obtiennent pas assez de délégations, vous pouvez en savoir plus sur eux [ici](community-contrib.md) si vous souhaitez les soutenir.
+
 Dans cette section, nous aborderons les différents aspects que les utilisateurs doivent prendre en considération lorsqu'ils choisissent les personnes qu'ils souhaitent soutenir. Si vous n'êtes pas sûrs de l'un des paramètres lors de la simple utilisation du portefeuille, veuillez tirer parti des plateformes communautaires construites pour vous aider dans la prise de décision. Ces plateformes sont :
 - [Pooltool](https://pooltool.io)
 - [ADAPools](https://adapools.org)
