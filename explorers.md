@@ -17,20 +17,26 @@ Below we can find a list of known Blockchain/Pool explorers:
 |[Cardano Explorer]|Partially    |Yes            |No            |Yes        |No        |[IOHK](https://iohk.io)|
 |[CardanoScan]     |Yes          |Yes            |Yes           |No         |No        |No|
 |[Pooltool]        |Yes          |Limited        |Yes           |Yes        |No        |No|
-|[ADApools]        |Yes          |Yes            |Yes           |Yes        |No        |No|
+|[ADApools]        |Yes          |Yes            |Yes           |Yes        |Yes       |No|
 |[ADAStat]         |Yes          |Yes            |Yes           |Soon       |Yes       |No|
-|[Pegasus]         |Yes          |Limited        |Yes           |No         |No        |No|
-|[ADAEx]           |Yes          |Yes            |No            |Yes        |Yes       |No|
-|[Seiza]           |Soon         |Yes            |Soon          |Soon       |No        |[Emurgo](https://emurgo.io)|
+|[ADAex]           |Yes          |Yes            |No            |Yes        |Yes       |No|
 |[BlockChair]      |No           |Yes            |No            |Yes        |No        |No|
 
 [Cardano Explorer]: https://explorer.cardano.org
-[Seiza]: https://seiza.com
-[ADAScan]: https://adascan.net
 [ADAEx]: https://adaex.org
 [CardanoScan]: https://cardanoscan.io
 [Pooltool]: https://pooltool.io
-[Pegasus]: https://pegasuspool.info/explorer
 [ADAStat]: https://adastat.net
 [BlockChair]: https://blockchair.com/cardano
 [ADApools]: https://adapools.org
+
+##### List of Mobile Explorers :id=list
+
+|Name              |Shelley-Ready|Blockchain Info|Stakepool info|Rich List  |Official|
+|------------------|-------------|---------------|--------------|-----------|---------
+|[ADApools Mobile] |Yes          |Limited        |Yes           |No       |No|
+|[Pegasus]         |Yes          |Limited        |Yes           |No        |No|
+
+[ADApools Mobile]: https://adapools.org/mobile
+[Pegasus]: https://pegasuspool.info/mobile
+
