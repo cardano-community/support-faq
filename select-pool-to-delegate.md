@@ -8,7 +8,7 @@ There is no 1-for-all pool that you can delegate with, otherwise - every one wou
 In this section we will discuss the different aspects that users should consider when selecting who they would like to support. If you're unsure about any of the parameters when simply using wallet, please leverage benefits of community platforms built to help you with the decision making. The platforms are:
 - [Pooltool](https://pooltool.io)
 - [ADAPools](https://adapools.org)
-- [Pegasus](https://pegasuspool.info/explorer)
+- [ADAStat](https://adastat.net)
 - [CardanoScan](http://cardanoscan.io)
 
 Most of these sites will allow you to filter using various parameters to help you with the decision making. Furthermore, note the points below:
