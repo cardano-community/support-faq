@@ -8,7 +8,7 @@
 このセクションでは、委任するときに考慮することについて説明します。単にウォレットの情報だけではパラメータがわからないときは、コミュニティが用意した次のようなプラットフォームを利用してください。
 - [Pooltool](https://pooltool.io)
 - [ADAPools](https://adapools.org)
-- [Pegasus](https://pegasuspool.info/explorer)
+- [ADAStat](https://adastat.net)
 - [CardanoScan](http://cardanoscan.io)
 
 これらのサイトのほとんどでは、意思決定に役立つさまざまなパラメータを使用してフィルタリングできます。 さらに、以下に注意してください。

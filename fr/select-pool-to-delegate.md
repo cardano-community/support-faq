@@ -7,7 +7,7 @@ Il n'y a pas un pool "bon pour tout le monde" sur lequel vous pouvez déléguer,
 Dans cette section, nous aborderons les différents aspects que les utilisateurs doivent prendre en considération lorsqu'ils choisissent les personnes qu'ils souhaitent soutenir. Si vous n'êtes pas sûrs de l'un des paramètres lors de la simple utilisation du portefeuille, veuillez tirer parti des plateformes communautaires construites pour vous aider dans la prise de décision. Ces plateformes sont :
 - [Pooltool](https://pooltool.io)
 - [ADAPools](https://adapools.org)
-- [Pegasus](https://pegasuspool.info/explorer)
+- [ADAStat](https://adastat.net)
 - [CardanoScan](http://cardanoscan.io)
 
 La plupart de ces sites vous permettront de filtrer en utilisant divers paramètres et vous aideront à prendre votre décision. En outre, notez les points ci-dessous :

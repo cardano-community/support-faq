@@ -6,7 +6,7 @@ No hay un pool "bueno para todo el mundo" con el que puedes delegar, de lo contr
 En esta sección discutiremos los diferentes aspectos que los usuarios deben de tomar en cuenta al momento de seleccionar el pool que ellos desean apoyar. Si no estás seguro sobre los parámetros utilizando solamente tu billetera, favor apóyate de las plataformas de la comunidad construidas para ayudarte con tu decisión. Estas plataformas son:
 - [Pooltool](https://pooltool.io)
 - [ADAPools](https://adapools.org)
-- [Pegasus](https://pegasuspool.info/explorer)
+- [ADAStat](https://adastat.net)
 - [CardanoScan](http://cardanoscan.io)
 
 La mayoría de estos sitios te permitirán filtrar usando varios parámetros para ayudarte con tu decisión. Además, nota los siguientes puntos:
