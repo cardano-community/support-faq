@@ -11,7 +11,9 @@
 - [Explorador](es/explorers.md)
 - [Recompensas - Preguntas Frecuentes](es/rewards.md)
 - [Escogiendo un Pool para Delegar](es/select-pool-to-delegate.md)
+- [Contribuciones de la Comunidad](es/community-contrib.md)
 - [Seguridad ante Estafas Comunes](es/no-to-scam.md)
+- [Contribuyentes](es/Contributors.md)
 
 <!--details>
 <summary>To - Do </summary>
