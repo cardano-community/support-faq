@@ -16,7 +16,6 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Infinito] |Light    |Yes                |Yes             |Yes          |Soon    |`No`                           |[Yes](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
 |[Exodus]   |Light    |Yes                |`No`            |Yes          |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 |[Guarda]   |Light    |Yes                |`No`            |Yes          |`No`    |`No`                           |`No`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
-|[Ethos]    |Light    |Yes                |`No`            |`No`         |`No`    |`No`                           |`No`|[Ethos]|Android, IPhone|
 
 [1]: Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
@@ -25,7 +24,6 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Medusa]: https://adawallet.io/
 [Atomic]: https://atomicwallet.io/
 [Guarda]: https://guarda.com
-[Ethos]: https://www.ethos.io/universal-wallet/
 [Exodus]: https://www.exodus.io/
 [Infinito]: https://www.infinitowallet.io
 [MoonStake]: https://moonstake.io/
