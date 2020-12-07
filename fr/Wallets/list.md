@@ -25,7 +25,6 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 [Medusa]: https://adawallet.io/
 [Atomic]: https://atomicwallet.io/
 [Guarda]: https://guarda.com
-[Magnum]: https://magnumwallet.co/
-[Ethos]: https://www.ethos.io/universal-wallet/
 [Exodus]: https://www.exodus.io/
 [Infinito]: https://www.infinitowallet.io
+[MoonStake]: https://moonstake.io/
