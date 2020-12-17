@@ -15,6 +15,7 @@ Please do watch out for these and contribute to them to ensure that they dont re
 
 
 Further more, while the state of the pools below at the time of writing is healthy, it would always be good to be on a watch and have them in your shortlist:
+
 |Pool Ticker   |Operator          |Short Highlight                                  |
 |:-------------|------------------|-------------------------------------------------|
 |CLIO          |[Markus Gufler]   |Long time well respected member from the community with a wide range of contributions (involved in partnership for creation of clio one explorer, actively working on alternative metadata registration solutions, a widely successful "Cardano on the Rocks" project that was targetted for ITN network, various contributions via `guild-operators` website, etc). Currently, also hosts `topologyUpdater` used by many Pool Operators to anonymously connect with other pools across geography using various parameters & combinations.|
