@@ -8,7 +8,7 @@ Nota que en caso de problemas, usualmente solamente consultas perteneciente a la
 |Nombre    |[Tipo][1]|Llaves solamente del usuario|¿Llaves compatibles?|Shelley Listo|Staking |Soporte de Billetera Hardware      |Open Source|Creador |Plataformas|
 |----------|---------|-------------------|--------|--------|--------|-------------------------------|-----------|--------|---------|
 |[Yoroi]   |Ligera   |Sí                 |Sí       |Sí       |Sí*     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Extensión Chromium, Android, IPhone|        
-|[Daedalus]|Completa     |Sí                |Sí       |Sí      |Sí     |Dentro de Poco                           |[Sí](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
+|[Daedalus]|Completa  |Sí                |Sí       |Sí      |Sí     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite] |Ligera    |Sí                |Sí       |Sí      |Sí     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
 |[Medusa]  |Ligera    |`No`               |Sí       |Sí      |Sí     |Dentro de Poco                           |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
 |[Atomic]  |Ligera    |Sí                |`No`      |Sí      |Dentro de Poco    |`No`                           |`No`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|

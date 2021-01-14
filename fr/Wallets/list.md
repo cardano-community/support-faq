@@ -9,7 +9,7 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 |Nom      |[Type][1]|Clés uniquement avec utilisateur |Clés compatible?|Staking |Prise en charge Hardware Wallet   |Open Source|Createurr |Platformes|
 |----------|---------|-------------------|----------------|--------|-------------------------------|-----------|--------|---------|
 |[Yoroi]   |Léger    |Oui                |Oui             |Oui     |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone|
-|[Daedalus]|Complet     |Oui                |Oui             |Oui     |Bientôt                       |[Oui](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
+|[Daedalus]|Complet  |Oui                |Oui             |Oui     |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite] |Léger    |Oui                |Oui             |Oui     |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
 |[Medusa]  |Léger    |`No`               |Oui             |Oui     |Soon                           |`Non`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
 |[Atomic]  |Léger    |Oui                |`No`            |Bientôt |`Non`                          |`Non`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
