@@ -1,6 +1,6 @@
-# 貢献者
+# Contributors
 
-ドキュメントを頻繁に提供および維持するのを手伝ってくれた素晴らしい以下の方々に特に感謝します。
+Un merci en particulier à toux ceux qui contribuent et tiennent à jour à la documentation en plusieurs langues :
 
 - [Psychomb - STKH1 pool](https://github.com/psychomb)
 - [Nicole - Cardano Ambassador](https://twitter.com/TheLegendofAda)

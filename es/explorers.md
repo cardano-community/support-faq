@@ -14,24 +14,29 @@ A continuación podemos encontrar una lista de los exploradores de Blockchain/Po
 
 |Nombre            |Shelley-Listo  |Info de Blockchain|Info de Stake Pool|Soporte API|Lista de Ricos|Oficial|
 |------------------|---------------|------------------|------------------|-----------|--------------|--------|
-|[Cardano Explorer]|Parcialmente   |Sí                |Dentro de Poco    |Sí         |No            |[IOHK](https://iohk.io)|
-|[Seiza]           |Dentro de Poco |Sí                |Dentro de Poco    |Dentro de Poco   |No      |[Emurgo](https://emurgo.io)|
-|[ADAScan]         |Dentro de Poco |Sí                |Dentro de Poco    |No         |Sí            |No|
-|[ADAEx]           |Sí             |Sí                |No                |Sí         |Sí            |No|
-|[ADApools.org]    |Sí             |Sí                |Sí                |Sí         |No            |No|
-|[CardanoScan]     |Sí             |Sí                |Sí                |No         |No            |No|
-|[Pooltool]        |Sí             |No                |Sí                |Sí         |No            |No|
-|[Pegasus]         |Sí             |Sí                |Sí                |No         |No            |No|
-|[ADAStat]         |Dentro de Poco |Dentro de Poco    |Dentro de Poco    |Dentro de Poco   |Dentro de Poco      |No|
-|[BlockChair]      |No             |Yes               |No                |Sí         |No            |No|
+|[Cardano Explorer]|Partial    |Sí            |No            |Sí        |No        |[IOHK](https://iohk.io)|
+|[CardanoScan]     |Sí          |Sí            |Sí           |No         |No        |No|
+|[Pooltool]        |Sí          |Limitada        |Sí           |Sí        |No        |No|
+|[ADApools]        |Sí          |Sí            |Sí           |Sí        |Sí       |No|
+|[ADAStat]         |Sí          |Sí            |Sí           |Dentr de poco       |Sí       |No|
+|[ADAex]           |Sí          |Sí            |No            |Sí        |Sí       |No|
+|[BlockChair]      |No           |Sí            |No            |Sí        |No        |No|
 
 [Cardano Explorer]: https://explorer.cardano.org
-[Seiza]: https://seiza.com
-[ADAScan]: https://adascan.net
 [ADAEx]: https://adaex.org
 [CardanoScan]: https://cardanoscan.io
 [Pooltool]: https://pooltool.io
-[Pegasus]: https://pegasuspool.info/explorer
 [ADAStat]: https://adastat.net
 [BlockChair]: https://blockchair.com/cardano
 [ADApools.org]: https://adapools.org
+
+##### Lista de Exploradores para el Móvil :id=list
+
+|Nombre              |Shelley-Listo|Info de Blockchain|Info de Stake Pool|Lista de Ricos  |Oficial|
+|------------------|-------------|---------------|--------------|-----------|---------
+|[ADApools Mobile] |Sí          |Limitada        |Sí           |No       |No|
+|[Pegasus]         |Sí          |Limitada        |Sí           |No        |No|
+
+[ADApools Mobile]: https://adapools.org/mobile
+[Pegasus]: https://pegasuspool.info/mobile
+

@@ -1,6 +1,6 @@
-# 貢献者
+# Contribuyentes
 
-ドキュメントを頻繁に提供および維持するのを手伝ってくれた素晴らしい以下の方々に特に感謝します。
+Un agradecimiento especial a estas grandes personas por la ayuda con sus contribuciones y por mantener la documentación actualizada de manera frecuente:
 
 - [Psychomb - STKH1 pool](https://github.com/psychomb)
 - [Nicole - Cardano Ambassador](https://twitter.com/TheLegendofAda)

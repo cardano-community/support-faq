@@ -11,7 +11,9 @@
 - [Explorateurs](fr/explorers.md)
 - [Récompenses - FAQ](fr/rewards.md)
 - [Choisir un pool pour déléguer](fr/select-pool-to-delegate.md)
+- [Contributions de la communauté](fr/community-contrib.md) 
 - [Protégez-vous des escrocs](fr/no-to-scam.md)
+- [Contributeurs](fr/Contributors.md)
 
 <!--details>
 <summary>To - Do </summary>
