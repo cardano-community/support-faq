@@ -14,7 +14,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Atomic]   |Light    |Yes                |`No`            |Yes          |Yes     |`No`                           |`No`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
 |[MoonStake]|Light    |Yes                |Yes             |Yes          |Yes     |`No`                           |`No`|[MoonStake]|Web, Android, IPhone|
 |[Infinito] |Light    |Yes                |Yes             |Yes          |Soon    |`No`                           |[Yes](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
-|[Exodus]   |Light    |Yes                |`No`            |Yes          |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+|[Exodus]   |Light    |Yes                |`No`            |Yes          |Yes    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 |[Guarda]   |Light    |Yes                |`No`            |Yes          |`No`    |`No`                           |`No`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
 
 [1]: Wallets/types.md#software-wallets
