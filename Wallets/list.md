@@ -12,10 +12,12 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[ADAlite]  |Light    |Yes                |Yes             |Yes          |Yes     |Ledger Nano S/X, Trezor Model T|[Yes](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
 |[Medusa]   |Light    |`No`               |Yes             |Yes          |Yes     |Soon                           |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
 |[Atomic]   |Light    |Yes                |`No`            |Yes          |Yes     |`No`                           |`No`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
-|[MoonStake]|Light    |Yes                |Yes             |Yes          |Yes     |`No`                           |`No`|[MoonStake]|Web, Android, IPhone|
+|[MoonStake]|Light    |Yes                |Yes             |Yes          |`Restricted`|`No`                           |`No`|[MoonStake]|Web, Android, IPhone|
 |[Infinito] |Light    |Yes                |Yes             |Yes          |Soon    |`No`                           |[Yes](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
-|[Exodus]   |Light    |Yes                |`No`            |Yes          |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+|[Exodus]   |Light    |Yes                |`No`            |Yes          |`Restricted`|`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 |[Guarda]   |Light    |Yes                |`No`            |Yes          |`No`    |`No`                           |`No`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
+
+!> * Restricted: These wallets do not allow a transparent staking experience, and stake user funds against their own/partner stakepools. This is not an ideal scenario for decentralisation.
 
 [1]: Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
