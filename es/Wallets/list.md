@@ -12,12 +12,12 @@ Nota que en caso de problemas, usualmente solamente consultas perteneciente a la
 |[ADAlite] |Ligera    |Sí                |Sí       |Sí      |Sí     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
 |[Medusa]  |Ligera    |`No`               |Sí       |Sí      |Sí     |Dentro de Poco                           |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
 |[Atomic]  |Ligera    |Sí                |`No`      |Sí      |Dentro de Poco    |`No`                           |`No`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
-|[MoonStake]|Ligera    |Sí                |Sí             |Sí          |Sí     |`No`                           |`No`|[MoonStake]|Web, Android, IPhone|
+|[MoonStake]|Ligera    |Sí                |Sí             |Sí          |`Restringido`     |`No`                           |`No`|[MoonStake]|Web, Android, IPhone|
 |[Infinito]|Ligera    |Sí                |Sí      |Sí      |Dentro de Poco |`No`                           |[Sí](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
-|[Exodus]  |Ligera    |Sí                |`No`      |Sí      |`No`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+|[Exodus]  |Ligera    |Sí                |`No`      |Sí      |`Restringido`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 |[Guarda]  |Ligera    |Sí                |`No`      |Sí      |`No`    |`No`                           |`No`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
 
-
+!> * Restringido: Estas billeteras no permiten una experiencia transparente al momento de hacer staking en ellas, y delegan de manera automática los fondos del usuario sus propios pools, eliminando la posibilidad que el usuario seleccione el pool al cual quiere delegar. Este *NO* es un escenario ideal para la descentralización.
 
 [1]: es/Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
