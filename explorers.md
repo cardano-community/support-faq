@@ -14,13 +14,13 @@ Below we can find a list of known Blockchain/Pool explorers:
 
 |Name              |Shelley-Ready|Blockchain Info|Stakepool info|API Support|Rich List |Official|
 |------------------|-------------|---------------|--------------|-----------|----------|--------|
-|[Cardano Explorer]|Partially    |Yes            |No            |Yes        |No        |[IOHK](https://iohk.io)|
-|[CardanoScan]     |Yes          |Yes            |Yes           |No         |No        |No|
-|[Pooltool]        |Yes          |Limited        |Yes           |Yes        |No        |No|
-|[ADApools]        |Yes          |Yes            |Yes           |Yes        |Yes       |No|
-|[ADAStat]         |Yes          |Yes            |Yes           |Soon       |Yes       |No|
-|[ADAex]           |Yes          |Yes            |No            |Yes        |Yes       |No|
-|[BlockChair]      |No           |Yes            |No            |Yes        |No        |No|
+|[CardanoScan]     |✅          |✅            |✅            |❌         |❌        |❌|
+|[ADApools]        |✅          |✅            |✅            |✅         |✅        |❌|
+|[ADAStat]         |✅          |✅            |✅            |❌         |✅        |❌|
+|[ADAex]           |✅          |✅            |❌            |✅         |✅        |❌|
+|[Pooltool]        |✅          |❌            |✅            |✅         |❌        |❌|
+|[Cardano Explorer]|✅          |✅            |❌            |✅         |❌        |[IOHK](https://iohk.io)|
+|[BlockChair]      |❌          |✅            |❌            |✅         |❌        |❌|
 
 [Cardano Explorer]: https://explorer.cardano.org
 [ADAEx]: https://adaex.org
@@ -34,9 +34,8 @@ Below we can find a list of known Blockchain/Pool explorers:
 
 |Name              |Shelley-Ready|Blockchain Info|Stakepool info|Rich List  |Official|
 |------------------|-------------|---------------|--------------|-----------|---------
-|[ADApools Mobile] |Yes          |Limited        |Yes           |No       |No|
-|[Pegasus]         |Yes          |Limited        |Yes           |No        |No|
+|[ADApools Mobile] |✅           |⭕            |✅           |❌       |❌|
+|[Pooltool]        |✅           |⭕            |✅           |❌        |❌|
 
 [ADApools Mobile]: https://adapools.org/mobile
-[Pegasus]: https://pegasuspool.info/mobile
-
+[Pooltool]: https://pegasuspool.info/mobile
