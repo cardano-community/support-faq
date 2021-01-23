@@ -1,3 +1,5 @@
+  
+  
 Below is a list of frequently asked questions within Cardano community channels across social media. If you see something not answered, please raise an issue/PR using the icon in top right corner :smile:
 
 #### I delegated to a pool in epoch `n` , when will I receive rewards? :id=reward-schedule
@@ -17,9 +19,9 @@ If you're changing to a different pool twice within an epoch, only the last chan
 If you change delegation from pool `P1` to `P2`, you still receive rewards from  to pool `P1` until [reward schedule](#reward-schedule) for `P2` starts.
 
 #### How do I monitor my rewards? Yoroi or Daedalus does not show epoch-wise rewards distribution :id=monitor-rewards
-Wallets are currently not able to show the rewards history due to missing API that should be available soon. Meanwhile, there are multiple ways to monitor your rewards, you can use add any of your wallet addresses (it doesnt matter which one, pick a random address from your Wallet > Receive tab) and track rewards history using any one of the below:
+Yoroi does show rewards history, now also available as part of Export to CSV. In case you are not able to show the rewards history in the format you'd like in wallets, there are multiple ways to monitor your rewards, you can use add any of your wallet addresses (it doesnt matter which one, pick a random address from your Wallet > Receive tab) and track rewards history using any one of the below:
 - via browser in [pooltool] or [cardanoscan]
-- get notifications via [Pegasus Mobile App](https://pegasuspool.info/) on your mobile
+- get notifications via [PoolTool Mobile App](https://pegasuspool.info/) on your mobile
 - get telegram notifications via [ADAstat](https://t.me/AdaStatBot)
 
 #### I did not receive my rewards in spite of waiting as per the schedule. What should I look for? :id=missing-rewards
