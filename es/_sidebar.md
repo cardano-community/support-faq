@@ -7,6 +7,8 @@
     - [Crear una Nueva Billetera (Shelley)](es/Wallets/Yoroi/create.md)
     - [Restaurar una Billetera Existente (Shelley)](es/Wallets/Yoroi/restore.md)
     - [Reclamar/Transferir desde Billeteras Byron/ITN](es/Wallets/Yoroi/transfer.md)
+    - [Staking in Yoroi](es/Wallets/Yoroi/staking.md)
+    - [Voting from Yoroi](es/Wallets/Yoroi/voting.md)
   - [Libro Mayor](es/ledger.md)
 - [Explorador](es/explorers.md)
 - [Recompensas - Preguntas Frecuentes](es/rewards.md)

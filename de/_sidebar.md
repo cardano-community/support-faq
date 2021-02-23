@@ -7,6 +7,8 @@
     - [Neue Wallet erstellen (Shelley) ](de/Wallets/Yoroi/create.md)
     - [Existierende Wallet wiederherstellen (Shelley) ](de/Wallets/Yoroi/restore.md)
     - [Claim/Transfer von Byron/ITN Wallets](de/Wallets/Yoroi/transfer.md)
+    - [Staking in Yoroi](de/Wallets/Yoroi/staking.md)
+    - [Voting from Yoroi](de/Wallets/Yoroi/voting.md)
   - [Ledger](de/ledger.md)
 - [Explorer](de/explorers.md)
 - [Rewards FAQ](de/rewards.md)
