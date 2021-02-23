@@ -75,6 +75,6 @@ Voting using Hardware wallet is actively under works, but unfortunately - atleas
 
 ##### Can I move my funds from ledger/trezor to Yoroi wallet to register and move it back?
 
-You can register an online wallet using minimal transaction fees, and then few minutes/hours before snapshot (`05-Mar-2021 23:23:00) - transfer your funds from hardware device to this hot wallet. After a confirmation that snapshot is taken, you can move funds back to your hardware wallet. This will ensure that your staking process remains unaffected.
+You can register an online wallet using minimal transaction fees, and then few minutes/hours before snapshot (`05-Mar-2021 23:23:00`) - transfer your funds from hardware device to this hot wallet. After a confirmation that snapshot is taken, you can move funds back to your hardware wallet. This will ensure that your staking process remains unaffected.
 
 For any queries not answered by above, please check a more detailed FAQ [here](https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE) and make sure to join the [Catalyst chat](https://t.me/ProjectCatalystChat).
