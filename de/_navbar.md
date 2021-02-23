@@ -1,9 +1,9 @@
 <!-- _navbar.md -->
 
-* [:de:](de/index.md)
-  * [:es:](es/index.md)
-  * [:fr:](fr/index.md)
-  * [:it:](it/index.md)
-  * [:jp:](jp/index.md)
-  * [:pt:](pt/index.md)
-  * [:us: :uk:](index.md)
+* [ 🇩🇪 ](de/index.md)  
+  * [ 🇪🇸 ](es/index.md)
+  * [ 🇫🇷 ](fr/index.md)
+  * [ 🇮🇹 ](it/index.md)
+  * [ 🇯🇵 ](jp/index.md)
+  * [ 🇵🇹 🇧🇷 ](pt/index.md)
+  * [ 🇺🇸 ](index.md)
