@@ -9,6 +9,7 @@ Dans cette section, nous aborderons les différents aspects que les utilisateurs
 - [ADAPools](https://adapools.org)
 - [ADAStat](https://adastat.net)
 - [CardanoScan](http://cardanoscan.io)
+- [PoolPeek](https://poolpeek.com/)
 
 La plupart de ces sites vous permettront de filtrer en utilisant divers paramètres et vous aideront à prendre votre décision. En outre, notez les points ci-dessous :
 

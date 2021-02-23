@@ -10,6 +10,7 @@ In diesem Abschnitt werden wir die verschiedenen Faktoren besprechen, die Nutzer
 - [ADAPools](https://adapools.org)
 - [ADAStat](https://adastat.net)
 - [CardanoScan](http://cardanoscan.io)
+- [PoolPeek](https://poolpeek.com/)
 
 Die meisten dieser Seiten ermöglichen es dir, anhand verschiedener Parameter zu filtern, um dir die Entscheidungsfindung zu vereinfachen. Beachte außerdem die folgenden Punkte:
 
