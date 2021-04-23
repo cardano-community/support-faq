@@ -1,9 +1,9 @@
 
-The following is a list of well-known wallets to support Cardano.
+Im Folgenden findet du eine Liste der bekannten Wallets, die Cardano unterstützen.
 
-Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
+Beachte, dass bei Problemen in der Regel nur Fragen zu offiziellen Wallets in Cardano-Gruppen über Telegram/Forum beantwortet werden können. Für Wallets von Drittanbietern musst du dich eventuell an die jeweiligen Support-Teams wenden.
 
-!> Its is important to know whether your wallet keys are owned by you (not shared without your knowledge), and that the keys used can be restored in official wallets
+!> Es ist wichtig, dass du weißt, ob deine Wallet-Schlüssel dir gehören (und nicht ohne dein Wissen weitergegeben werden), und dass die verwendeten Schlüssel in offiziellen Wallets wiederhergestellt werden können
 
 |Name       |[Type][1]|Keys only with user|Keys compatible?|Shelley-Ready|Staking |Hardware Wallet support        |Open Source|Creator |Platforms|
 |-----------|---------|-------------------|----------------|-------------|--------|-------------------------------|-----------|--------|---------|
@@ -17,7 +17,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Exodus]   |Light    |✅                |❌            |✅          |⭕     |❌                           |❌|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 |[Guarda]   |Light    |✅                |❌            |✅          |❌     |❌                           |❌|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
 
-!> ⭕: These wallets do not allow a transparent staking experience, user funds are staked against their own/partner stakepools. This is not an ideal use-case for decentralisation.
+!> ⭕: Diese Wallets ermöglichen kein transparentes Staking, die ADA der Nutzer werden in ihren eigenen Stakepools bzw. denen ihrer Partner eingesetzt. Dies ist schädlich für die Dezentralisierung des Netzwerks.
 
 [1]: Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io

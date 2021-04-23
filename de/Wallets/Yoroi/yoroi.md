@@ -1,48 +1,49 @@
-Yoroi is one of the official light wallets for Cardano developed by Emurgo , original based on Project Icarus developed by IOG (formerly known as IOHK). The wallet is available officially as a chromium extension (thus, usable in Chrome, Microsoft Edge, Brave, Yandex) or as mobile apps on Android and iOS.
 
-##### Official Website to download Yoroi
+Yoroi ist eine der offiziellen Light-Wallets für Cardano, die von Emurgo entwickelt wurde und ursprünglich auf dem von IOG (früher bekannt als IOHK) entwickelten Project Icarus basiert. Die Wallet ist offiziell als Chromium-Erweiterung (also nutzbar in Chrome, Microsoft Edge, Brave, Yandex) oder als mobile App auf Android und iOS verfügbar.
 
-In order to install Yoroi, always go to the official Yoroi website only, viz [https://yoroi-wallet.com](https://yoroi-wallet.com), do **not** click on links received by others - especially ones received in private messages or non-official groups.
-Once there, you can select the version you'd like to install.
+##### Offizielle Website um Yoroi herunterzuladen
+
+Lade die Yoroi App nur über die offizielle Website: [https://yoroi-wallet.com](https://yoroi-wallet.com), klicke **nicht** auf Links, die du von anderen bekommen hast - besonders nicht auf solche, die du in privaten Nachrichten oder nicht-offiziellen Gruppen erhalten hast.
+Dort kannst du dann die Version auswählen, die du installieren möchtest.
 
 ![Download Yoroi](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/download-yoroi.jpg ':size=30%')
 
-##### Installing Yoroi as Chrome extension
+##### Yoroi Chrome-Erweiterung installieren
 
-Note that the screenshots may vary slightly depending on the extension you elect. You can also follow same step to deploy Yoroi as extension in Yandex browser on android. Let's consider you clicked on Chrome mainnet, you will be redirected to Google Chrome Web store. Click Add to Chrome as per below:
+Beachte, dass die Screenshots je nach gewählter Erweiterung leicht variieren können. Du kannst auch den gleichen Schritt befolgen, um Yoroi als Erweiterung im Yandex-Browser auf Android zu installieren. Nehmen wir an, du hast auf Chrome Mainnet geklickt, dann wirst du zum Google Chrome Web Store weitergeleitet. Wähle zu Chrome hinzufügen, wie unten beschrieben:
 
 ![Yoroi on Chrome Web Store](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-chrome-webstore.jpg ':size=40%')
 
-You may receive a prompt to confirm to `Add Yoroi` depending on your browser, please confirm to do so:
+Abhängig von deinem Browser erhältst du möglicherweise noch eine zu bestätigende Aufforderung: `Yoroi hinzufügen`
 
 ![Yoroi install confirmation](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-install-chrome-confirm.jpg)
 
-Once installed, you would see an icon added to extensions area (with potentially a message saying its been added):
+Nach der Installation siehst du ein Symbol, das dem Erweiterungsbereich hinzugefügt wird (möglicherweise mit einer Meldung, dass es hinzugefügt wurde):
 
 ![Yoroi icon added to extensions](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-chrome-installed.jpg)
 
-Click on that icon to open Yoroi extension, select the Language:
+Klicke auf dieses Symbol, um die Yoroi-Erweiterung zu öffnen, und wähle die Sprache aus:
 
 ![Yoroi Language selection](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-language.jpg ':size=25%')
 
-Read through the terms of use, and tick `I agree with the terms of use` followed with Continue:
+Lese dir die Nutzungsbedingungen durch und setze ein Häkchen bei `Ich stimme den Nutzungsbedingungen zu`, gefolgt von `Weiter`:
 
 ![Yoroi Terms of Use](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-terms.jpg ':size=40%')
 
-Yoroi offers an option to easily share invoices with friends and business, using a feature called payment URLs which allow you to share a short URL ith memos. Select Allow to enable and follow prompts to Finish:
+Yoroi bietet eine Option, um Rechnungen einfach mit Freunden und Geschäftspartnern zu teilen, indem eine Funktion namens Zahlungs-URLs verwendet wird, die es dir ermöglicht, eine kurze URL mit Memos zu teilen. Wähle Zulassen zum Aktivieren und folge den Anweisungen zum Beenden:
 
 ![Yoroi Payment URLs](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-pymt-urls.jpg ':size=40%')
 
-This should land you to the home page of wallet, from where you should be ready to continue.
+Dadurch solltest du auf der Startseite der Wallet landen, von wo aus du fortfahren kannst.
 
 ![Yoroi Wallet Home](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-home.jpg ':size=40%')
 
-##### Does Yoroi need an upgrade?
+##### Braucht Yoroi ein Update?
 
-Yoroi is a chrome extension, and chrome extensions are automatically updated. Thus, no - you do not need to auto upgrade Yoroi.
+Yoroi ist eine Chrome-Erweiterung, und Chrome-Erweiterungen werden automatisch aktualisiert. Also, nein - du musst Yoroi nicht selbst aktualisieren.
 
-##### How do I uninstall Yoroi?
+##### Wie kann ich Yoroi deinstallieren?
 
-To uninstall Yoroi from extensions, simply right click on the extension and select `Remove from Chrome`.
+Um die Yoroi Erweiterung zu deinstallieren, klicke einfach mit der rechten Maustaste auf die Erweiterung und wähle `Erweiterung entfernen`.
 
 ![Uninstall Yoroi](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-uninstall.jpg)

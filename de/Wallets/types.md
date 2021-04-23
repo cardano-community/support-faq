@@ -1,50 +1,52 @@
 
-Now that you have familiarised with what wallet is, lets explore the types of wallets you can use. Please navigate as per below to explore specific type of wallet.
+Nun, da du dich damit vertraut gemacht hast, was eine Wallet ist, lass uns die Arten von Wallets erkunden, die du benutzen kannst. Bitte navigiere wie unten beschrieben, um einen bestimmten Wallet-Typ zu erkunden.
 
-To summarise from end user's point of view, there are primarily two types of wallet interfaces:
+Aus Sicht des Endnutzers gibt es hauptsächlich zwei Arten von Wallet-Schnittstellen:
 
 ### Software (Hot) Wallets
 
-A software wallet is a digital wallet interface where the cryptographic keys (encrypted) will be stored on the device you're using. Within software wallets, there are mainly two types of wallets as noted below.
+Nun, da du dich damit vertraut gemacht hast, was eine Wallet ist, lass uns die Arten von Wallets erkunden, die du benutzen kannst. Bitte navigiere wie unten beschrieben, um einen bestimmten Wallet-Typ zu erkunden.
+
+Aus Sicht des Endnutzers gibt es hauptsächlich zwei Arten von Wallet-Schnittstellen:
 
 <!-- tabs:start -->
 
-#### ** Full node wallet **
+#### ** Full Node Wallet **
 
-Example: Daedalus
+Beispiel: Daedalus
 
-A full node wallet runs a complete independent blockchain node and provides capability to operate your wallet by querying the node. An example of such a wallet is Daedalus. There are a few advantages of running such a node:
- - The entire blockchain history is available locally to your node, to be able to query as per your needs.
- - Your node will validate all blocks as they're created and synchronised to your device, thereby - reducing the trust required to operate on wallet.
- - Running a full node - also enhances availability of the blockchain in your geograpical region, providing better latency for block making nodes.
- - If there is a feature supported by node, but not yet by a wallet UI - you can directly connect to the node and access the feature.
+Eine Full-Node-Wallet betreibt einen komplett unabhängigen Blockchain-Knoten und bietet die Möglichkeit, die Wallet durch Abfragen des Knotens zu betreiben. Ein Beispiel für eine solche Wallet ist Daedalus. Es gibt einige Vorteile, einen solchen Knoten zu betreiben:
+ - Die gesamte Blockchain-Historie ist lokal auf Ihrem Knoten verfügbar, um sie nach Ihren Bedürfnissen abfragen zu können.
+ - Ihr Knoten wird alle Blöcke validieren, wenn sie erstellt und auf Ihr Gerät synchronisiert werden, wodurch - das für den Betrieb der Wallet erforderliche Vertrauen reduziert wird.
+ - Das Betreiben eines vollständigen Knotens - verbessert auch die Verfügbarkeit der Blockchain in Ihrer geografischen Region und bietet eine bessere Latenz für die Blockerstellungs-Knoten.
+ - Wenn es eine Funktion gibt, die vom Knoten unterstützt wird, aber noch nicht von einer Wallet-Benutzeroberfläche kannst du dich direkt mit dem Knoten verbinden und auf die Funktion zugreifen.
 
-Alongwith those advantages, running a node automatically means a few responsibilities - which may be seen as a discomfor from end user's perspective - especially if your only usage is making transactions:
- - Synching entire blockchain on your device needs time when setting up initially, which could be hours depending on network and disk throughput of the device.
- - There are storage, memory and network commitments required to run a wallet connected to full node.
- - Full node wallets may not be considered ideal for portable/handheld devices.
+Neben diesen Vorteilen bringt der automatische Betrieb eines Knotens auch einige Pflichten mit sich, die aus Sicht des Endnutzers als unangenehm empfunden werden können - vor allem, wenn man nur Transaktionen durchführt:
+ - Die Synchronisierung der gesamten Blockchain auf dem Gerät benötigt Zeit bei der Ersteinrichtung, die je nach Netzwerk- und Festplattendurchsatz des Geräts Stunden betragen kann.
+ - Es gibt Speicher-, Arbeitsspeicher- und Netzwerkverpflichtungen, die erforderlich sind, um eine mit einem Full Node verbundene Wallet zu betreiben.
+ - Full-Node-Wallets sind möglicherweise nicht ideal für mobile Geräte.
  
-#### ** Light wallet **
+#### ** Light Wallet **
 
-Example: Yoroi, ADALite
+Beispiel: Yoroi, ADALite
 
-A light wallet uses an interface that connects to a remote node for operations - thus, relieving you of the responsibility to operate a full blockchain node. They may be available as browser plugins/extensions, websites or mobile apps. Advantages of using light wallet:
-- You do not need to wait for entire blockchain to be synched on your device to start performing operations, as you connect to an already running up-to-date node via your wallet.
-- You remain in control of your keys. A common misperception with light wallets is that it is unsafe because your keys are sent over network. Most professional light wallets will ensure that your keys never leave your device, and are always in encrypted state even on your device. To this point, this shouldnt really be a differentiator for you to select between a full node wallet v/s light wallet, they're _both as safe as your device._
-- You do not need to worry about performing blockchain node upgrades, as this can be done on the server end.
-- Light wallets can be integrated easily on portable/handle devices.
-- They're typically very lightweight, and do not have high storage/memory or stable network requirements.
+Eine Light-Wallet verwendet eine Schnittstelle, die eine Verbindung zu einem entfernten Knoten für den Betrieb herstellt - und Sie somit von der Verantwortung entbindet, einen vollständigen Blockchain-Knoten zu betreiben. Diese können als Browser-Plugins/Erweiterungen, Websites oder mobile Apps verfügbar sein. Vorteile der Verwendung von Light-Wallets:
+- Es ist nicht nötig, darauf zu warten, dass die gesamte Blockchain auf dem Gerät synchronisiert wird, um Transaktionen durchführen zu können, da man sich über die Wallet mit einem bereits laufenden, aktuellen Knoten verbindet.- Du behälst die Kontrolle über deine Schlüssel. Eine häufige Fehlwahrnehmung bei Light Wallets ist, dass sie unsicher sind, weil Ihre Schlüssel über das Netzwerk gesendet werden. Die meisten professionellen Light Wallets stellen sicher, dass die Schlüssel das Gerät nie verlassen und sich auch auf Ihrem Gerät immer in verschlüsseltem Zustand befinden. Bis zu diesem Punkt sollte dies nicht wirklich ein Unterscheidungsmerkmal für dich sein, um zwischen einer Full Node Wallet und Light Wallet zu unterscheiden, sie sind_beide so sicher wie dein Gerät._
+- Du musst dich nicht um die Durchführung von Blockchain-Knoten-Upgrades kümmern, da dies auf der Server-Seite erfolgen kann.
+- Light Wallets können leicht auf mobilen Geräten integriert werden.
+- Sie sind in der Regel sehr schlank und haben keine hohen Anforderungen an Speicher oder ein stabiles Netzwerk.
 
-For official links about the comparison, kindly visit [this support article](https://iohk.zendesk.com/hc/en-us/articles/360026058573-Daedalus-wallet-compared-to-Yoroi-wallet) from IOHK.
+Für offizielle Links zum Vergleich schaue dir bitte [diesen Support-Artikel](https://iohk.zendesk.com/hc/en-us/articles/360026058573-Daedalus-wallet-compared-to-Yoroi-wallet) von IOHK an.
 
 <!-- tabs:end -->
 
-### Paper (Cold) Wallets
+### Papier (Cold) Wallets
 
-Paper wallets are essentially wallets created by software interfaces, but done in such a way that the keys for those paper wallets were never online. These usually provide seeds in two parts - a part printed on paper, and other part with words (in case of Daedalus) or password (in case of Yoroi) that guarantees that even if someone has access to the paper, they wont be able to access your keys. Points to remember:
-- The Software creating paper wallet will not have transferred funds to a generated wallet, it has to be a manual action.
-- If for whatever reason you decide to restore your paper wallet, your wallet will have been restored on a digital device which is online and would no longer be a "cold" wallet. Thus, it would be best in that case to create a new paper wallet from security point of view.
+Papier-Wallets sind im wesentlichen Wallets, die durch Software-Schnittstellen erstellt werden, aber so erstellt werden, dass die Schlüssel für diese Papier-Wallets nie online waren. Diese bieten in der Regel Seeds in zwei Teilen - ein Teil auf Papier gedruckt, und der andere Teil mit Worten (im Falle von Daedalus) oder einem Passwort (im Falle von Yoroi), das garantiert, dass selbst wenn jemand Zugang zu dem Papier hat, er nicht in der Lage sein wird, auf die Schlüssel zugreifen. Punkte, die zu beachten sind:
+- Die Software, die das Papier-Wallet erstellt, wird keine ADA auf die erzeugte Wallet übertragen, es muss eine manuelle Transaktion ausgeführt werden.
+- Wenn du dich, aus welchem Grund auch immer, dazu entscheidest, deine Papier-Wallet wiederherzustellen, wird deine Wallet auf einem digitalen Gerät, das online ist, wiederhergestellt und wäre damit keine "kalte" Wallet mehr. Daher wäre es in diesem Fall aus Sicherheitsgründen am besten, eine neue Papier-Wallet zu erstellen.
 
 ### Hardware (Cold) Wallets
 
-Visit [this](https://emurgo.io/en/blog/hardware-wallet-explanation-yoroi-keep-ada-safe) blog from Emurgo for a brief summary of how Hardware Wallets work with Yoroi
+Einen kurzen Überblick über die Funktionsweise von Hardware Wallets mit Yoroi findest du in [diesem](https://emurgo.io/en/blog/hardware-wallet-explanation-yoroi-keep-ada-safe) Blog von Emurgo.
+

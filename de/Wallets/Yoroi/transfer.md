@@ -1,57 +1,60 @@
-You can claim/transfer funds from a Byron or ITN wallet to a shelley wallet in Yoroi.
 
-!> The instructions below assume you've already [installed Yoroi](Wallets/Yoroi/install.md) *AND* you've either [created a shelley wallet](Wallets/Yoroi/create.md) or [restored a shelley wallet](Wallets/Yoroi/restore.md) already.
+Du kannst in Yoroi Guthaben von einer Byron- oder ITN-Wallet zu einer Shelley-Wallet übertragen. 
 
-Note that wallet v/s era v/s mnemonics metrics can be found [here](wallets.md#heirarchical-deterministic-hd-wallets)
+!> Die folgende Anleitung setzt voraus, dass du bereits [Yoroi installiert](Wallets/Yoroi/install.md) *und* entweder [eine Shelley-Wallet erstellt](Wallets/Yoroi/create.md) oder [eine Shelley-Wallet wiederhergestellt](Wallets/Yoroi/restore.md) hast.
 
-Click on the `Claim / Transfer` icon on the side bar, and select the era of wallet you're trying to claim as shown below:
+[Hier](wallets.md#heirarchical-deterministic-hd-wallets) findest du weitere Infos zu den mnemonische Metriken der verschiedenen Wallets. 
+
+Klicke auf das Symbol `Einfordern / Übertragen` in der Seitenleiste und wähle, die Ära der Wallet, die du einfordern möchtest, wie unten gezeigt:
 
 ![Claim / Transfer page](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-1.jpg ':size=40%')
 
-Ensure that you've 
 
-#### Byron-era wallet
+
+#### Byron-Ära Wallet
+
 
 <!-- tabs:start -->
 
 ##### ** Legacy Daedalus Wallet **
 
-This is for Daedalus (Hot wallet + Paper wallet + those who have access to master key) Byron users. Select the type of wallet you're trying to restore as per below:
+Dies ist für Nutzer von Daedalus Byron-Wallets (Hot Wallet + Papier-Wallet). Wähle den Typ der Wallet, die du wiederherstellen willst, wie unten beschrieben:
+
 
 ![Claim / Transfer Byron Daedalus Wallets](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-2.jpg ':size=25%')
 
 ##### ** Icarus/Yoroi Wallet **
 
-This is for Yoroi/ADALite extension + mobile Byron users. Select the type of wallet you're trying to restore:
+Dies ist für Nutzer der Yoroi/ADALite-Erweiterung + Mobile Byron. Wähle den Typ der Wallet, die du wiederherstellen möchtest:
 
 ![Claim / Transfer Byron Icarus/Yoroi Wallets](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-3.jpg ':size=25%')
 
-*Byron Ledger Users: Note that as of Yoroi extension version 3.2.2, Ledger integration is not supported yet, and entering the ledger recovery keys is **not recommended**. You can connect ledger to https://adalite.io (fully compatible with Yoroi wallets), if you cannot wait for this feature to be available.*
+*Byron Ledger Nutzer: Beachte, dass für die Yoroi-Erweiterungsversion 3.2.2 die Ledger-Integration noch nicht unterstützt wird und die Eingabe der Ledger-Wiederherstellungsschlüssel **nicht empfohlen** wird. Du kannst Ledger mit https://adalite.io (voll kompatibel mit Yoroi-Wallets) verbinden, wenn du nicht warten möchtest, bis diese Funktion zur Verfügung steht.*
 
 <!-- tabs:end -->
 
-#### Shelley-era Wallet (Rewards from Shelley Incentivised Testnet)
+#### Shelley-Ära Wallet (Belohnungen aus dem Shelley Incentivised Testnet)
 
-This option is to withdraw rewards from Yoroi wallets (for now) using 15-word recovery phrase or master key. This also allows you to withdraw ITN rewards if you had participated and have some rewards to recover. For ledger/trezor and 24-word seed based wallet users, you can withdraw your rewards from `Dashboard` tab within same wallet.
+Mit dieser Option kannst du (im Moment) Rewards aus Yoroi-Wallets abheben, indem du deine 15-Wort-Wiederherstellungs-Phrase oder einen Hauptschlüssel verwendest. Damit kannst du auch ITN-Rewards abheben, wenn du am ITN teilgenommen hast. Nutzer von Ledger/Trezor- und 24-Wörter-Seed-Wallets können ihre Rewards über die Registerkarte `Dashboard` in derselben Wallet abheben.
 
-To proceed with recovery, first ensure that your active wallet at the top says `Shelley-standard wallet` as per below:
+Um mit der Wiederherstellung fortzufahren, vergewissere dich zunächst, dass auf deiner aktiven Wallet oben `Shelley-Standard Wallet` steht, wie unten dargestellt:
 
 ![Claim Shelley Rewards](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-shelley-reward.jpg ':size=30%')
 
-It is recommended that you have `10 ADA` in the wallet you're claiming rewards to (even though actual fees required is probably going to be less than 1 ADA). Click Shelley-Era Wallet and then select the appropriate choice:
+Es wird empfohlen, dass du `10 ADA` in der Wallet hast, für die du Rewards beanspruchst (auch wenn die tatsächlich benötigten Gebühren wahrscheinlich weniger als 1 ADA betragen werden). Klicke auf Shelley-Era Wallet und wähle dann die entsprechende Option:
 
 ![Select type of reward to withdraw](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-shelley-reward-type.jpg ':size=25%')
 
-##### Getting access to encrypted Private key from chromium extensions
+##### Zugriff auf verschlüsselten privaten Schlüssel von Chromium-Erweiterungen erhalten
 
-If you do not have access to your mnemonics, you can also grab the private key of your Yoroi wallet. In order to access your private key, open Yoroi extension in your browser and go to `Developer Tools`. For Chrome, you can navigate as per below:
+Wenn du keinen Zugang zu deinen Wiederherstellungs-Phrasen hast, kannst du dir auch den privaten Schlüssel deiner Yoroi-Wallet holen. Um auf den privaten Schlüssel zuzugreifen, öffne die Yoroi-Erweiterung in deinem Browser und gehe zu `Entwicklerwerkzeuge`. Für Chrome, kannst du wie unten beschrieben vorgehen:
 
 ![Yoroi Chrome Dev Tools](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/chrome-dev-tools.jpg ':size=30%')
 
-You should see a new pane open up. Go to Application tab and navigate to Storage > IndexedDB > yoroi-schema > Key. You would see the ID for your wallets. Upon expanding, you should see your encrypted hash that you can copy (and then paste when prompted to paste for claiming Shelley rewards as per above):
+Es sollte sich ein neues Fenster öffnen. Gehe auf die Registerkarte Anwendung und navigiere zu Storage > IndexedDB > yoroi-schema > Key. Du solltest die ID für deine Wallets sehen. Beim Erweitern solltest du deinen verschlüsselten Hash sehen, den du kopieren kannst (und dann einfügen, wenn du aufgefordert wirst, ihn für die Beantragung von Shelley-Belohnungen wie oben beschrieben einzufügen):
 
 ![Yoroi get encrypted private key](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-get-priv-key.jpg ':size=30%')
 
-Note that the keys be encrypted using spending password you used before, and using the hash will also need you to enter your spending password.
+Beachte, dass die Schlüssel mit dem Ausgabe-Passwort verschlüsselt werden, das du vorher festgelegt hast. Beachte dass du bei der Verwendung des Hashes auch dein Ausgaben-Passwort eingeben musst.
 
-!> Your Shelley testnet (ITN) wallets **only** contained your rewards, not mainnet funds. Your mainnet funds remained independent of what happened on Shelley Incentivised Testnet - and if you did not take any actions to your Mainnet funds since 29th Nov 2019, you can still access your mainnet funds using [claim byron-era wallet](#byron-era-wallet) section above.
+!> Deine Shelley Testnet (ITN) Wallets enthalten **nur** deine ITN-Rewards, keine Mainnet-ADA. Deine Mainnet-ADA blieben unabhängig von dem, was im Shelley Incentivised Testnet passierte - und wenn du seit dem 29. November 2019 keine Aktionen an deinen Mainnet-ADA vorgenommen hast, kannst du immer noch darauf zugreifen, indem du den obigen Abschnitt [claim byron-era wallet](#byron-era-wallet) anwendest.

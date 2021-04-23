@@ -1,59 +1,59 @@
 
-!> The instructions below assume you've already [installed Yoroi](Wallets/Yoroi/install.md)
+!> Die folgenden Schritte setzen voraus, dass du Yoroi bereits [installiert](Wallets/Yoroi/yoroi.md#install) hast 
 
-You can restore a Yoroi wallet or a Paper wallet in Yoroi using your recovery phrase. Note that the steps below apply *ONLY* to shelley wallets. Legacy (Byron/ITN) wallets can be claimed via instructions on [this page](Wallets/Yoroi/transfer.md)
+Du kannst eine Yoroi Wallet oder eine Papier-Wallet mit der Wiederherstellungs-Phrase in Yoroi wiederherstellen. Beachte, dass die folgenden Schritte *NUR* für Shelley Wallets gelten. Legacy (Byron/ITN) Wallets können über die Anweisungen auf [dieser Seite](Wallets/Yoroi/transfer.md) beansprucht werden.
 
-Kindly check the screens below for the process:
+Beachte bitte die unten aufgeführten Abbildungen für den Vorgang:
 
-> If you've already created/restored a Shelley wallet and would like to restore another shelley wallet, please follow instructions [here](Wallets/Yoroi/create.md#adding-or-switching-between-wallets) to click on `Add New Wallet` and reach the page below
+> Wenn du bereits eine Shelley Wallet erstellt/wiederhergestellt hast und eine andere Shelley Wallet wiederherstellen möchtest, folge bitte den Anweisungen [hier](Wallets/Yoroi/create.md#adding-or-switching-between-wallets) unter `Neue Wallet hinzufügen`
 
-Select Restore wallet on the home screen as shown below:
+Wähle auf dem Startbildschirm die Option Wallet wiederherstellen, wie unten dargestellt:
 
 ![Home Page](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-home.jpg ':size=50%')
 
-Select currency as `Cardano`:
+Als Währung `Cardano` auswählen:
 
 ![Currency](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-select-currency.jpg ':size=30%')
 
-You will now be asked to select the type of wallet to restore:
+Du wirst nun aufgefordert, den Typ der wiederherzustellenden Wallet auszuwählen:
 
 ![Restore 1](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-restore-wallet-1.jpg ':size=30%')
 
-Select the appropriate option based on wallet you're restoring, and use the tab below for corresponding screenshots:
+Wähle die entsprechende Option basierend auf deiner Wallet, die du wiederherstellst:
 
 <!-- tabs:start -->
 
-#### ** Enter a 15-word recovery phrase **
+#### ** Eingabe einer Wiederherstellungs-Phrase mit 15 Wörtern **
 
-Yoroi and ADALite wallets provide a 15-word recovery phrase as default when creating a new `Hot` wallet. Use this option if you're trying to restore such a shelley wallet. 
-Currently, there are two types of Recovery phrase you can restore. For simplicity of usage, only stick to restoring `Shelley-era wallet` during restore. as noted at top of this document. The `Byron wallet` option is only present for transaction history (eg: taxation) purposes, should you need it.
+Yoroi und ADALite Wallets bieten eine 15-Wörter-Wiederherstellungs-Phrase als Standard, wenn eine neue `Hot` Wallet erstellt wird. Verwende diese Option, wenn du eine solche Wallet wiederherstellen möchten. 
+Derzeit gibt es zwei Arten von Wiederherstellungs-Phrasen, die du wiederherstellen kannst. Der Einfachheit halber solltest du bei der Wiederherstellung nur die `Shelley-era wallet` wiederherstellen. Wie oben in diesem Dokument angegeben. Die Option `Byron Wallet` ist nur für Zwecke der Transaktionshistorie (z.B.: Besteuerung) vorgesehen, falls du sie benötigst.
 
 ![Restore 15-word Shelley Wallet](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-restore-wallet-15-type.jpg ':size=30%')
 
-Provide a wallet name to identify your wallet, enter the 15-word recovery phrase, and select a new spending password that you will use for this wallet.
+Gebe einen Wallet-Namen an, um deine Wallet zu kennzeichnen, gib die 15-Wörter-Wiederherstellungs-Phrase ein und wähle ein neues Auszahlungs-Passwort, das du für diese Wallet verwenden wirst.
 
 ![Restore 15-word Shelley Wallet - details](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-restore-wallet-15-mnemonics.jpg ':size=30%')
 
-#### ** Enter a 24-word recovery phrase **
+#### ** Eingabe einer Wiederherstellungs-Phrase mit 24 Wörtern **
 
-Daedalus Mainnet by default provides you a 24-word recovery phrase when creating shelley wallets. Use this option if you're trying to restore such a wallet.
+Daedalus Mainnet bietet standardmäßig eine 24-Wörter-Wiederherstellungs-Phrase, wenn du Shelley-Wallets erstellst. Verwende diese Option, wenn du versuchst, eine solche Wallet wiederherzustellen.
 
-Provide a wallet name to identify your wallet, enter your 24-word recovery phrase, and select a new spending password that you will use for this wallet.
+Gebe einen Wallet-Namen an, um deine Wallet zu kennzeichnen, gib deine 24-Wörter-Wiederherstellungs-Phrase ein und wähle ein neues Ausgabe-Passwort, das du für diese Wallet verwenden wirst.
 
 ![Restore 24-word Shelley Wallet - details](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-restore-wallet-15-mnemonics.jpg ':size=30%')
 
-#### ** Paper Wallet **
+#### ** Papier-Wallet **
 
-Yoroi allows you to create paper wallets that are shelley-compatible. Use this option if you're trying to restore such a shelley wallet.
+Mit Yoroi kannst du Papier-Wallets erstellen, die Shelley-kompatibel sind. Verwendee diese Option, wenn du versuchst, eine solche Shelley Wallet wiederherzustellen.
 
-Provide a wallet name to identify your wallet, enter the 21-word recovery phrase ***from your paper wallet*** and the ***paper wallet password*** that you were asked to remember (note that both are essential , you accepted warnings when creating paper wallets - saying you're responsible to have *both* when restoring), and select a new spending password that you will use for this wallet.
+Gebe eine Wallet Bezeichnung an, um deine Wallet zu kennzeichnen, gebe die 21-Wörter-Wiederherstellungs-Phrase ***von deiner Papier-Wallet*** und das ***Papier-Wallet-Passwort*** ein, das du aufgefordert wurdest, dir zu merken (beachte, dass beide essentiell sind, du hast Warnhinweise beim Erstellen der Papier-Wallet akzeptiert - die besagen, dass du dafür verantwortlich bist, *beide* zu haben, wenn du wiederherstellen willst), und wähle ein neues Ausgabe-Passwort, das du für diese Wallet verwenden wirst.
 
 ![Restore 24-word Shelley Wallet - details](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-restore-paper-wallet.jpg ':size=30%')
 
 <!-- tabs:end -->
 
-You will see account checksum (like a car number plate for identification) and addresses for your wallet from each era/type for verification, click `Confirm`:
+Du siehst die Kontoprüfsumme (wie ein Autokennzeichen zur Identifizierung) und die Adressen für deine Wallet aus jeder Ära/jedem Typ zur Überprüfung, klicke auf `Bestätigen`:
 
 ![Verify wallet](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-restore-verify.jpg ':size=40%')
 
-Congratulations! You've succesfully restored your Shelley wallet !!
+Herzlichen Glückwunsch! Du hast deine Shelley Wallet erfolgreich wiederhergestellt !!
