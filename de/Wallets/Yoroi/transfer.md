@@ -1,3 +1,4 @@
+
 Du kannst in Yoroi Guthaben von einer Byron- oder ITN-Wallet zu einer Shelley-Wallet übertragen. 
 
 !> Die folgende Anleitung setzt voraus, dass du bereits [Yoroi installiert](Wallets/Yoroi/install.md) *und* entweder [eine Shelley-Wallet erstellt](Wallets/Yoroi/create.md) oder [eine Shelley-Wallet wiederhergestellt](Wallets/Yoroi/restore.md) hast.
@@ -12,11 +13,13 @@ Klicke auf das Symbol `Einfordern / Übertragen` in der Seitenleiste und wähle,
 
 #### Byron-Ära Wallet
 
+
 <!-- tabs:start -->
 
 ##### ** Legacy Daedalus Wallet **
 
 Dies ist für Nutzer von Daedalus Byron-Wallets (Hot Wallet + Papier-Wallet). Wähle den Typ der Wallet, die du wiederherstellen willst, wie unten beschrieben:
+
 
 ![Claim / Transfer Byron Daedalus Wallets](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-2.jpg ':size=25%')
 

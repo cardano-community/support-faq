@@ -10,6 +10,7 @@
 - [ADAPools](https://adapools.org)
 - [ADAStat](https://adastat.net)
 - [CardanoScan](http://cardanoscan.io)
+- [PoolPeek](https://poolpeek.com/)
 
 これらのサイトのほとんどは、あなたが意思決定を助けるために様々なパラメータを使用してフィルタリングすることができます。さらに、以下のポイントに注意してください。
 

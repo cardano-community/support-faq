@@ -49,3 +49,4 @@ Papier-Wallets sind im wesentlichen Wallets, die durch Software-Schnittstellen e
 ### Hardware (Cold) Wallets
 
 Einen kurzen Überblick über die Funktionsweise von Hardware Wallets mit Yoroi findest du in [diesem](https://emurgo.io/en/blog/hardware-wallet-explanation-yoroi-keep-ada-safe) Blog von Emurgo.
+

@@ -1,3 +1,4 @@
+
 Yoroi ist eine der offiziellen Light-Wallets für Cardano, die von Emurgo entwickelt wurde und ursprünglich auf dem von IOG (früher bekannt als IOHK) entwickelten Project Icarus basiert. Die Wallet ist offiziell als Chromium-Erweiterung (also nutzbar in Chrome, Microsoft Edge, Brave, Yandex) oder als mobile App auf Android und iOS verfügbar.
 
 ##### Offizielle Website um Yoroi herunterzuladen
