@@ -21,6 +21,7 @@ Para poder usar tu Ledger con clientes de billeteras Shelley, como AdaLite, debe
 Por favor ve los siguientes artículos de soporte de Ledger para actualizar tu billetera hardware de Ledger:
 
 #### Ledger Nano S
+
 https://support.ledger.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware
 
 Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes) para más información.
@@ -33,7 +34,8 @@ Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360014980580
 
 #### Cardano app
 
-Luego de haber actualizado el firmware en el dispositivo, procede con la instalación de la Cardano app más reciente (versión 2.0.3) de Ledger Live:  
+Luego de haber actualizado el firmware en el dispositivo, procede con la instalación de la Cardano app más reciente (versión 2.0.3) de Ledger Live:
+
 https://support.ledger.com/hc/en-us/articles/360020095874-Cardano-ADA-
 
 #### Staking frío usando Ledger en Cardano
