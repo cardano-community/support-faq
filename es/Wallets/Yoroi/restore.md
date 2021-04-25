@@ -23,7 +23,7 @@ Selecciona la opción apropiada en base a la billetera que restaurarás, y utili
 
 <!-- tabs:start -->
 
-#### ** Frase de Restauración de 15 palabras **
+#### **Frase de Restauración de 15 palabras**
 
 Las billeteras de Yoroi y ADALite proporcionan frases de restauración de 15 palabras de manera predeterminada cuando creas una nueva billetera `Caliente`. Usa esta opción si intentas restaurar este tipo de billetera en Shelley. 
 Actualmente, existen dos tipos de frases de restauración que puedes restaurar. Para simpicidad, apégate a restaurar solamente `Shelley-era wallet`, como es mencionado al inicio de este documento. La opción `Byron wallet` solamente está presente para fines de historial de transacción (eg: impuestos), en caso que los necesites.
@@ -34,7 +34,7 @@ Dale un nombre a tu billetera para ayudarte a identificarla, introduce la frase 
 
 ![Restore 15-word Shelley Wallet - details](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-restore-wallet-15-mnemonics.jpg ':size=30%')
 
-#### ** Frase de Restauración de 24 palabras **
+#### **Frase de Restauración de 24 palabras**
 
 La Mainnet de Daedalus te provee de manera predeterminada con una frase de restauración de 24 palabras cuando creas billeteras de Shelley. Usa esta opción si intentas restaurar este tipo de billeteras.
 
@@ -42,7 +42,7 @@ Dale un nombre a tu billetera para ayudarte a identificarla, introduce la frase 
 
 ![Restore 24-word Shelley Wallet - details](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-restore-wallet-15-mnemonics.jpg ':size=30%')
 
-#### ** Billetera de Papel (Paper Wallet) **
+#### **Billetera de Papel (Paper Wallet)**
 
 Yoroi te permite crear billeteras de papel compatibles con Shelley. Usa esta opción si intentas restaurar este tipo de billeteras en Shelley.
 
