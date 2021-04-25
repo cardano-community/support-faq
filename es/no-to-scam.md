@@ -24,6 +24,7 @@ Otra práctica frecuente de estafa en Telegram es cuando una cuenta trata de hac
 **Como alerta, tenga por seguro que ninguno de los admins/embajadores oficiales le enviarán un mensaje directo.**
 
 Este tipo de estafas son fáciles de identificar por cuenta propia si presta atención a los detalles:
+
 - Normalmente notará que no comparte grupos en común con el estafador. Los moderadores del canal oficial son diligentes y tratan de controlar a los impostores de manera activa. Pero hay cuentas proxy ocultas en los grupos las cuales comparten y permiten a los impostores mensajear a los usuarios.  
 ![Check Common groups](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-impersonator-check-1.jpg)
 - Pueden enmascarar los nombres de usuario para que sean similares (ej.: `rd1rt` en vez de `rdlrt`) o pueden ocultar el nombre de usuario y agregar `@rdlrt` como texto en su Biografía (Bio). Por favor tenga en cuenta estos métodos y verifique el nombre de usuario *como también* la Bio cuando envíe y reciba directos.  
