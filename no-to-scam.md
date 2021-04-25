@@ -1,3 +1,4 @@
+
 We commonly come across users losing their moneys to various giveaways or impersonators. Being in a decentralised cryptocurrency means you as an individual are your own bank, and only you are responsible for protecting your funds.
 If you fall for any of these and you giveaway funds or share your private keys, **nobody** can recover your funds. Do your due diligence when operating your crypto, just as you would when operating fiat currency notes.
 Also, if you come across such a scam, please forward the messages or group information to [Cardano Report To Admin](https://t.me/CardanoReportToAdmin) group on telegram.
@@ -32,7 +33,7 @@ These types of scams are pretty easy to identify yourself if you pay attention t
 ##### Being added to a random group/channel(s)
 
 Very often telegram users are added to a scam group that looks legit (see screenshot below). The content of the group may be promotional as above or try to push in a scam link within group of correct ones. If you're not sure if you jo
-ined that group, please cross-check the list of [community groups on telegram](https://t.me/Cardano/271989).
+ined that group, please cross-check the list of [official and community groups on telegram](https://t.me/CardanoAnnouncements/620)
 
 ![Random Impersonating groups](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/random-impersonating-groups.jpg)
 
