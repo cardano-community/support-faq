@@ -24,13 +24,13 @@ Por favor ve los siguientes artículos de soporte de Ledger para actualizar tu b
 
 <https://support.ledger.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware>
 
-Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes) para más información.
+Ve las [Notas de Lanzamiento](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes) para más información.
 
 #### Ledger Nano X
 
 <https://support.ledger.com/hc/en-us/articles/360013349800-Firmware-update-for-Ledger-Nano-X.com>
 
-Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360014980580) para más información.
+Ve las [Notas de Lanzamiento](https://support.ledger.com/hc/en-us/articles/360014980580) para más información.
 
 #### Cardano app
 
