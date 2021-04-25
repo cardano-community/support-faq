@@ -14,13 +14,13 @@ Asegúrate que tengas:
 
 <!-- tabs:start -->
 
-##### ** Billetera Daedalus Legacy **
+##### **Billetera Daedalus Legacy**
 
 Esta sección es para los usuarios de Byron Daedalus (Billetera caliente + billetera de papel + acceso a la llave maestra (master key). Selecciona el tipo de billetera que intentas restaurar como se indica acontinuación:
 
 ![Claim / Transfer Byron Daedalus Wallets](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-2.jpg ':size=25%')
 
-##### ** Billetera Icarus/Yoroi **
+##### **Billetera Icarus/Yoroi**
 
 Esta sección es para los usuarios de la extensión de Yoroi/ADALite + usuarios móviles de Byron. Selecciona el tipo de billetera que intentas restaurar:
 
