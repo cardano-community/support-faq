@@ -2,10 +2,12 @@
 Starting with Yoroi (chromium extension) 3.10.0 release, Yoroi now supports Voting Center from your wallet.
 
 To participate in a voting as an end user, remember there are 2 phases:
+
 - Registering your wallet to receive voting power based on funds in a registered wallet at the time of snapshot (date is shared beforehand for each voting round)
 - Actual voting which occurs after snapshot is taken and is done via mobile app.
 
 For the current voting round (**fund-3**):
+
 - Registration timeline is `17-Feb-2021 to 03-Mar-2021`
 - Snapshot will be taken on `03-Mar-2021 19:00:00 GMT`.
 - Minimum amount of ADA to register a wallet for voting is `2950 ADA`.
