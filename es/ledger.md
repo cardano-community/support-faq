@@ -11,7 +11,7 @@ Estos componentes de software incluyen:
 ##### Instala Ledger Live
 
 Si todavía no has instalado Ledger Live, por favor ve la siguiente guía para instalarlo para tu Sistema Operativo respectivo:  
-https://support.ledger.com/hc/en-us/articles/360006395553
+<https://support.ledger.com/hc/en-us/articles/360006395553>
 
 ##### Actualiza el Ledger Firmware
 
@@ -22,13 +22,13 @@ Por favor ve los siguientes artículos de soporte de Ledger para actualizar tu b
 
 #### Ledger Nano S
 
-https://support.ledger.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware
+<https://support.ledger.com/hc/en-us/articles/360002731113-Update-Ledger-Nano-S-firmware>
 
 Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes) para más información.
 
 #### Ledger Nano X
 
-https://support.ledger.com/hc/en-us/articles/360013349800-Firmware-update-for-Ledger-Nano-X.com
+<https://support.ledger.com/hc/en-us/articles/360013349800-Firmware-update-for-Ledger-Nano-X.com>
 
 Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360014980580) para más información.
 
@@ -36,8 +36,8 @@ Ve las [Release Notes](https://support.ledger.com/hc/en-us/articles/360014980580
 
 Luego de haber actualizado el firmware en el dispositivo, procede con la instalación de la Cardano app más reciente (versión 2.0.3) de Ledger Live:
 
-https://support.ledger.com/hc/en-us/articles/360020095874-Cardano-ADA-
+<https://support.ledger.com/hc/en-us/articles/360020095874-Cardano-ADA>-
 
 #### Staking frío usando Ledger en Cardano
 
-Actualmente, solo https://adalite.io soporta la integración nativa de Ledger, mientras que Yoroi y Daedalus agregarán el soporte en el futuro. Sigue las instrucciones [aquí](https://github.com/vacuumlabs/adalite/wiki) para hacer staking usando la plataforma de ADALite.
+Actualmente, solo <https://adalite.io> soporta la integración nativa de Ledger, mientras que Yoroi y Daedalus agregarán el soporte en el futuro. Sigue las instrucciones [aquí](https://github.com/vacuumlabs/adalite/wiki) para hacer staking usando la plataforma de ADALite.
