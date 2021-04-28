@@ -1,80 +1,84 @@
 
-Starting with Yoroi (chromium extension) 3.10.0 release, Yoroi now supports Voting Center from your wallet.
+A partir de su versión 3.10.0, Yoroi (extensión de chromium) soporta el Centro de Votación.
 
-To participate in a voting as an end user, remember there are 2 phases:
-- Registering your wallet to receive voting power based on funds in a registered wallet at the time of snapshot (date is shared beforehand for each voting round)
-- Actual voting which occurs after snapshot is taken and is done via mobile app.
+Para participar en una votación, recuerde que hay 2 fases:
 
-For the current voting round (**fund-3**):
-- Registration timeline is `17-Feb-2021 to 03-Mar-2021`
-- Snapshot will be taken on `03-Mar-2021 19:00:00 GMT`.
-- Minimum amount of ADA to register a wallet for voting is `2950 ADA`.
-- Hardware Wallets cannot participate for voting in this round
+- Registrar su billetera para recibir poder de voto basado en los fondos de esta en el momento de la instantánea (la fecha se informa con antelación a cada ronda de votación).
+- La votación en sí que se realiza a través de la aplicación móvil luego de que la instantánea es tomada. 
 
-#### Register for voting
+Para la actual ronda de votaciones (**Tercer Fondo Fund3**):
 
-In order to register a wallet for voting, kindly head to your wallet in Yoroi on chromium extension as below:
+- El plazo de inscripción es `17-Feb-2021 al 03-Mar-2021`
+- La instantánea será tomada el `03-Mar-2021 19:00:00 GMT`.
+- La cantidad mínima de ADA necesaria para registrar una billetera y votar `2950 ADA`.
+- En esta ronda de voto, las billeteras de hardware no pueden participar.
+
+#### Registrarse para votar
+
+A fin de registrar una billetera para votar, por favor abra su billetera en Yoroi -extensión de chromium- cromo como se indica a continuación:
+
 
 ![Yoroi Voting tab](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/voting1.png ':size=50%')
 
-You can install the Catalyst mobile app using the link shown on voting tab (links for [iOS](https://apps.apple.com/kg/app/catalyst-voting/id1517473397) and [Android](https://play.google.com/store/apps/details?id=io.iohk.vitvoting)).
+Puede instalar la aplicación móvil Catalyst utilizando el enlace que aparece en la pestaña de votaciones (enlace para [iOS](https://apps.apple.com/kg/app/catalyst-voting/id1517473397) y [Android](https://play.google.com/store/apps/details?id=io.iohk.vitvoting)).
 
 ![Android Catalyst install](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/mobilevoting1.png ':size=50%')
 
-On the mobile, open the Catalyst voting App and follow through the introduction wizard, and select "Complete Registration" in mobile app as indicated below and go through the wizard.
+En el móvil, abra la aplicación de votación Catalyst, siga el asistente de introducción, seleccione "Complete Registration" ("Completar registro") en la aplicación móvil como se indica a continuación y sigas los pasos con el asistente.
 
 ![Mobile App - Complete Registration](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/mobilevoting2.png ':size=50%')
 ![Voting wizard](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/mobilevoting3.png ':size=18%')
 
-Come back to the Yoroi Extension, and set up a pin code as below. Remember that you will be asked to use the same PIN on your mobile device. Keep this PIN safe with you.
+Vuelve a la Extensión Yoroi y configure un código PIN como se indica a continuación. Asegúrese de guardar bien este PIN pues recuerde que se le solicitará que lo introduzca en su dispositivo móvil.
 
 ![Set up PIN](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/voting2.png ':size=35%')
 
-Enter your spending password as prompted (note that you will be prompted twice). You can leave the amount to 0. This will make your registration (it is a transaction on blockchain and will cost you typically ~ 0.17 ADA) on blockchain so that wallet is eligible to be captured as part of snapshot.
+Introduzca su contraseña de gasto como se le solicita (tenga en cuenta que tendrá que se le pedirá dos veces). Puede dejar la cantidad establecida en 0. Esto hará su registro blockchain (el cuál es una transacción blockchain y por tanto le costará normalmente unos 0,17 ADA), para que la billetera sea elegible y sea capturada como parte de la instantánea.
 
 ![Set up PIN](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/voting4.png ':size=35%')
 
-You will now be presented a QR code on Yoroi extension. Scan this QR code using your catalyst app, as shown below:
-!> Please ensure to backup this QR code as a screenshot, this is the *ONLY* way to restore your mobile access in case you lose your voting app.
+Ahora se le presentará un código QR en la extensión Yoroi. Escanee este código QR con su aplicación Catalyst, como se muestra a continuación:
+
+>Por favor, asegúrese de hacer una copia de seguridad de este código QR en forma de una captura de pantalla, esta es la *Única* manera de restaurar su acceso móvil en caso de que pierda su aplicación de votación.
 
 ![QR Code - extension](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/voting5.png ':size=35%')  
 
 ![Scan QR Code - Catalyst](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/mobilevoting4.png ':size=30%')
 
-Enter the PIN on your catalyst app that was captured before to decode the QR code:
+Introduzca el PIN que fue capturado antes para descifrar el código QR, en su aplicación Catalyst:
 
 ![Enter PIN](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/mobilevoting5.png ':size=30%')
 
-This will land you back to home screen. Note that at this stage it is OK to have 0 against your voting power. The funds you would have on 5th March at the time of snapshot will decide your voting power.
+Esto le llevará de nuevo a la pantalla de inicio. Tenga en cuenta que en esta fase está bien tener 0 en su poder de voto. Los fondos que tenga el 5 de marzo en el momento de la instantánea decidirán su poder de voto.
 
 ![Completion](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/mobilevoting6.png ':size=30%')
 
-The message above indicates that you have successfully completed your registration. The next step is to wait for the voting period to commence.
+El mensaje anterior indica que ha completado con éxito su registro. El siguiente paso es esperar a que comience el periodo de votación.
 
-#### Frequently asked Questions :id=FAQ
+#### Preguntas Frecuentes :id=FAQ
 
-##### I finished the voting. Where can I find list of voting proposals?
+##### He terminado la votación. ¿Dónde puedo encontrar la lista de propuestas de votación?
 
-You will be able to vote from within your Catalyst app once the voting period begins. If you'd like to study other voting proposals meanwhile, you can 
+Una vez que comience el periodo de votación, podrá votar desde su aplicación Catalyst. Si desea estudiar otras propuestas de votación mientras tanto, puede
 
-##### The instructions here are for Yoroi, what if I use Daedalus?
+##### Las instrucciones aquí expuestas son para Yoroi, ¿qué pasa si uso Daedalus?
 
-Instructions for Daedalus integration is managed by IOG Zendesk support teams. The voting instructions can be found [here](https://iohk.zendesk.com/hc/en-us/articles/900004485866-Project-Catalyst-Fund3-voting-instructions) while their FAQ can be found [here](https://iohk.zendesk.com/hc/en-us/articles/900004448046-Catalyst-Fund3-FAQ).
+Lea las [instrucciones para la integración de Daedalus ](https://iohk.zendesk.com/hc/en-us/articles/900004485866-Project-Catalyst-Fund3-voting-instructions) -estas son gestionadas por los equipos de soporte de IOG Zendesk- y sus respectivas [Preguntas Frecuentes (FAQ)](https://iohk.zendesk.com/hc/en-us/articles/900004448046-Catalyst-Fund3-FAQ).
 
-##### Can I use Yoroi mobile for wallet registration?
+##### ¿Puedo utilizar el móvil Yoroi para registrar mi billetera?
 
-No, voting is limited to Chromium/Firefox extensions for now.
+No, actualmente la votación está limitada a las extensiones de Chromium/Firefox.
 
-##### Does participating to vote affect my staking rewards?
+##### ¿Participar en la votación afecta a mis recompensas obtenidas por staking?
 
-No, staking is not affected by whether you participate in voting process.
+No, el staking no se ve afectado por la participación en el proceso de votación.
 
-##### Can I use my hardware wallet?
+##### ¿Puedo utilizar mi billetera de hardware?
 
-Voting using Hardware wallet is actively under works, but unfortunately - atleast for this round, you cannot register a hardware wallet. Do checkout the query below
+Se trabaja activamente en la votación con carteras de hardware, pero desafortunadamente, al menos en esta ronda, no se puede registrar una cartera de hardware. Compruebe la siguiente consulta
 
-##### Can I move my funds from ledger/trezor to Yoroi wallet to register and move it back?
+##### ¿Puedo mover mis fondos de ledger/trezor a la cartera Yoroi para registrarlos y volver a moverlos?
 
-You can register an online wallet using minimal transaction fees, and then few minutes/hours before snapshot (`03-Mar-2021 19:00:00`) - transfer your funds from hardware device to this hot wallet. After a confirmation that snapshot is taken, you can move funds back to your hardware wallet. This will ensure that your staking process remains unaffected.
+Puede registrar una billetera en línea utilizando tarifas de transacción mínimas, y luego unos minutos/horas antes de la instantánea (`03-Mar-2021 19:00:00`) - transferir sus fondos desde el dispositivo de hardware a esta billetera caliente. Tras la confirmación de que se ha realizado la instantánea, puede volver a transferir los fondos a su monedero físico. Esto asegurará que su proceso de staking no se vea afectado.
 
-For any queries not answered by above, please check a more detailed FAQ [here](https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE) and make sure to join the [Catalyst chat](https://t.me/ProjectCatalystChat).
+Para cualquier pregunta que no haya sido respondida, consulte las [Preguntas Frecuentes](https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE) que son más detalladas y asegúrese de unirse al grupo del [Proyecto Catalyst](https://t.me/ProjectCatalystChat) en Telegram.
