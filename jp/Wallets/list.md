@@ -7,7 +7,7 @@
 
 |Name       |[Type][1]|鍵はユーザーのみ保有か？|鍵の互換性はあるか？|ステーキング |ハードウェアウォレットサポート        |オープンソース|作成者 |プラットフォーム|
 |-----------|---------|-------------------|----------------|-------|-------------------------------|-----------|--------|---------|
-|[Yoroi]    |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone|
+|[Yoroi]    |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone| 
 |[Daedalus] |Full     |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite]  |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
 |[Medusa]   |Light    |❌                |✅              |✅     |❌                           |❌|[Denis Kalinin](https://t.me/Fell_x27)|Web|
@@ -16,6 +16,8 @@
 |[Infinito] |Light    |✅                |✅              |⭕     |❌                           |[❌](https://github.com/infinityblockchainlabs)|[Infinito]|Android, Iphone|
 |[MoonStake]|Light    |❌                |❌              |⭕     |❌                           |❌|[MoonStake]|Web, Android, IPhone|
 |[Exodus]   |Light    |❌                |❌              |⭕     |❌                           |❌|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+
+!> ⭕: これらのウォレットでは、透明性あるステーキング体験ができません。ユーザーの資金は、ウォレットの運営者自身/パートナーのステークプールにステーキングされます。 これは、分散化にとって理想的な例ではありません。
 
 [1]: Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
