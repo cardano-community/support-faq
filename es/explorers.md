@@ -10,17 +10,17 @@ Algunos exploradores brindan información y herramientas adicionales, como sopor
 
 ##### Lista de Exploradores :id=list
 
-A continuación, podemos encontrar una lista de los exploradores de Blockchain/Pool conocidos:
+A continuación, podemos encontrar una lista de los exploradores Blockchain/Pool conocidos:
 
-|Nombre            |Shelley-Listo  |Info de Blockchain|Info de Stake Pool|Soporte API|Lista de Ricos|Oficial|
-|------------------|---------------|------------------|------------------|-----------|--------------|--------|
-|[Cardano Explorer]|Parcial    |Sí            |No            |Sí        |No        |[IOHK](https://iohk.io)|
-|[CardanoScan]     |Sí          |Sí            |Sí           |No         |No        |No|
-|[Pooltool]        |Sí          |Limitada        |Sí           |Sí        |No        |No|
-|[ADApools]        |Sí          |Sí            |Sí           |Sí        |Sí       |No|
-|[ADAStat]         |Sí          |Sí            |Sí           |Dentro de poco       |Sí       |No|
-|[ADAex]           |Sí          |Sí            |No            |Sí        |Sí       |No|
-|[BlockChair]      |No           |Sí            |No            |Sí        |No        |No|
+|Nombre            | En Shelley | Info Blockchain | Info Stakepool | Suporta API | Lista de Ricos | Oficial|
+|------------------|-----------|------------------|----------------|-------------|----------------|--------|
+|[CardanoScan]     |✅         |✅               |✅             |❌           |❌              |❌     |
+|[ADApools]        |✅         |✅               |✅             |✅           |✅              |❌     |
+|[ADAStat]         |✅         |✅               |✅             |❌           |✅              |❌     |
+|[ADAex]           |✅         |✅               |❌             |✅           |✅              |❌     |
+|[Pooltool]        |✅         |❌               |✅             |✅           |❌              |❌     |
+|[Cardano Explorer]|✅         |✅               |❌             |✅           |❌              |[IOHK](https://iohk.io)|
+|[BlockChair]      |❌         |✅               |❌             |✅           |❌              |❌     |
 
 [Cardano Explorer]: https://explorer.cardano.org
 [ADAEx]: https://adaex.org
@@ -28,14 +28,14 @@ A continuación, podemos encontrar una lista de los exploradores de Blockchain/P
 [Pooltool]: https://pooltool.io
 [ADAStat]: https://adastat.net
 [BlockChair]: https://blockchair.com/cardano
-[ADApools.org]: https://adapools.org
+[ADApools]: https://adapools.org
 
 ##### Lista de Exploradores para el Móvil :id=list
 
-|Nombre              |Shelley-Listo|Info de Blockchain|Info de Stake Pool|Lista de Ricos  |Oficial|
-|------------------|-------------|---------------|--------------|-----------|---------
-|[ADApools Mobile] |Sí          |Limitada        |Sí           |No       |No|
-|[Pegasus]         |Sí          |Limitada        |Sí           |No        |No|
+| Nombre           | En Shelley | Info Blockchain | Info de Stake Pool | Lista de Ricos  | Oficial |
+|------------------|------------|-----------------|--------------------|-----------------|---------|
+|[ADApools Mobile] |✅          |⭕              |✅                  |❌              |❌      |
+|[Pooltool]        |✅          |⭕              |✅                  |❌              |❌      |
 
 [ADApools Mobile]: https://adapools.org/mobile
 [Pegasus]: https://pegasuspool.info/mobile

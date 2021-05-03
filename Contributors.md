@@ -7,3 +7,4 @@ Special thanks go out to the wonderful peepz below for helping out to contribute
 - [Yuta - ZZZ pools](https://github.com/cardanoz)
 - [Matthijs - AEON pool](https://github.com/matthijs-aeon)
 - [OCG](https://github.com/oldcryptogeek)
+- [Nápoles](https://forum.cardano.org/u/napoles/summary)

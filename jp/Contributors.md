@@ -7,3 +7,4 @@
 - [Yuta - ZZZ pools](https://github.com/cardanoz)
 - [Matthijs - AEON pool](https://github.com/matthijs-aeon)
 - [OCG](https://github.com/oldcryptogeek)
+- [Nápoles](https://forum.cardano.org/u/napoles/summary)
