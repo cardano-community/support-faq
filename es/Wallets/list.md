@@ -5,19 +5,20 @@ Note que en caso de problemas, usualmente solo las consultas pertenecientes a la
 
 !> Es importante saber si las llaves de su billetera están solo bajo su propiedad, si nunca han sido transferidas por la red y son _compatibles_ con otras billeteras en la cadena.
 
-|Nombre    |[Tipo][1]|Llaves solamente del usuario|¿Llaves compatibles?|Soporte para Shelley|Staking |Soporte de Billetera Hardware      |Open Source|Creador |Plataformas|
-|----------|---------|-------------------|--------|--------|--------|-------------------------------|-----------|--------|---------|
-|[Yoroi]   |Ligera   |Sí                 |Sí       |Sí       |Sí*     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Extensión Chromium, Android, IPhone|        
-|[Daedalus]|Completa  |Sí                |Sí       |Sí      |Sí     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
-|[ADAlite] |Ligera    |Sí                |Sí       |Sí      |Sí     |Ledger Nano S/X, Trezor Model T|[Sí](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
-|[Medusa]  |Ligera    |`No`               |Sí       |Sí      |Sí     |Dentro de Poco                           |`No`|[Denis Kalinin](https://t.me/Fell_x27)|Web|
-|[Atomic]  |Ligera    |Sí                |`No`      |Sí      |Dentro de Poco    |`No`                           |`No`|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
-|[MoonStake]|Ligera    |Sí                |Sí             |Sí          |`Restringido`     |`No`                           |`No`|[MoonStake]|Web, Android, IPhone|
-|[Infinito]|Ligera    |Sí                |Sí      |Sí      |Dentro de Poco |`No`                           |[Sí](https://github.com/infinityblockchainlabs)|[Infinito]|No|Android, Iphone|
-|[Exodus]  |Ligera    |Sí                |`No`      |Sí      |`Restringido`    |`No`                           |`No`|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
-|[Guarda]  |Ligera    |Sí                |`No`      |Sí      |`No`    |`No`                           |`No`|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
+|Nombre    |[Tipo][1]|Solo el usuario posee las llaves |¿Llaves compatibles? |Staking |Soporte para Billetera Hardware |Open Source |Creador |Plataformas |
+|----------|---------|---------------------------------|---------------------|--------|--------------------------------|------------|--------|------------|
+|[Yoroi]    |Light    |✅                |✅          |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone| 
+|[Daedalus] |Full     |✅                |✅          |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
+|[ADAlite]  |Light    |✅                |✅          |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
+|[Medusa]   |Light    |❌                |✅          |✅     |❌          |❌      |[Denis Kalinin](https://t.me/Fell_x27) | Web |
+|[Atomic]   |Light    |✅                |❌          |✅     |❌          |❌      |[Atomic]                               |Windows, MacOS, Linux, Android, IPhone |
+|[Guarda]   |Light    |✅                |❌          |❌     |❌          |❌      |[Guarda]                               |Chromium extension, Web, Windows, Android, IPhone|
+|[Infinito] |Light    |✅                |✅          |⭕     |❌          |[❌](https://github.com/infinityblockchainlabs) |[Infinito]|Android, Iphone|
+|[MoonStake]|Light    |❌                |❌          |⭕     |❌          |❌|[MoonStake]  |Web, Android, IPhone           |
+|[Exodus]   |Light    |❌                |❌          |⭕     |❌          |❌|[Exodus]     |Windows, MacOS, Linux, Android, IPhone|
 
-!> * Restringido: Estas billeteras no permiten una experiencia transparente al momento de hacer staking en ellas, y delegan de manera automática los fondos del usuario en sus propios pools, eliminando la posibilidad de que el usuario seleccione el pool al cual quiere delegar. Este *NO* es un escenario ideal para la descentralización.
+
+!> ⭕: Restringido: Estas billeteras no permiten una experiencia transparente al momento de hacer staking en ellas, y delegan de manera automática los fondos del usuario en sus propios pools, eliminando la posibilidad de que el usuario seleccione el pool al cual quiere delegar. Este *NO* es un escenario ideal para la descentralización.
 
 [1]: es/Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
