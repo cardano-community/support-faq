@@ -46,7 +46,7 @@ Es recomendado que tenga `10 ADA` en la billetera a la cual enviará las recompe
 
 Si no tiene acceso a sus mnemotécnicos, puede obtener la llave privada de su billetera Yoroi. Para ello, abra la extensión de Yoroi en su explorador y diríjase a `Developer Tools` (Herramientas del desarrollador). Para Chrome, puede navegar como se muestra a continuación:
 
-![Yoroi Chrome Dev Tools](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/chrome-dev-tools.jpg ':size=30%')
+![Yoroi Chrome Dev Tools](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/chrome-dev-tools.jpg ':size=30%')
 
 Debería de ver un nuevo pánel. Ve a la pestaña `Application` (Aplicación) y navegue a `Storage > IndexedDB > yoroi-schema > Key` (Almacenamiento > BD Indexada > Esquema de Yoroi > Llave ). Verá las IDs de sus billeteras. Si expande las opciones, debería de ver su hash encriptado, el cual puede copiar (y luego pegar cuando se le pida al reclamar las recompensas de Shelley como mencionamos anteriormente):
 

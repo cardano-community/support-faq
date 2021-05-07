@@ -38,9 +38,10 @@ Frecuentemente, usuarios de Telegram son agregados a un grupo de estafa que pare
 
 Para prevenir ser agregado a tales grupos, asegúrese de que su configuración de usuario en Telegram sea actualizada de la siguiente manera:
 
-![Telegram Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-1.jpg)
-![Telegram Privacy Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-2.jpg)
-![Telegram Allow adding to groups Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/tg-privacy-settings-3.jpg)
+![Telegram Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/tg-privacy-settings-0.jpg)
+![Telegram Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/tg-privacy-settings-1.jpg)
+![Telegram Privacy Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/tg-privacy-settings-2.jpg)
+![Telegram Allow adding to groups Settings](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/tg-privacy-settings-3.jpg)
 
 ##### Recibiendo un Directo (DM) de un usuario desconocido
 
