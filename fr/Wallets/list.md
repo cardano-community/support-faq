@@ -7,16 +7,18 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 
 
 |Nom      |[Type][1]|Clés uniquement avec utilisateur |Clés compatible?|Staking |Prise en charge Hardware Wallet   |Open Source|Createurr |Platformes|
-|-----------|---------|-------------------|----------------|-------------|--------|-------------------------------|-----------|--------|
-|[Yoroi]    |Léger    |Oui                |Oui             |Oui          |Oui     |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|
-|[Daedalus] |Full     |Oui                |Oui             |Oui          |Oui     |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|
-|[ADAlite]  |Léger    |Oui                |Oui             |Oui          |Oui     |Ledger Nano S/X, Trezor Model T|[Oui](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|
-|[Medusa]   |Léger    |`Non`               |Oui             |Oui          |Oui     |Bientôt                           | `Non`                                              |[Denis Kalinin](https://t.me/Fell_x27)|
-|[Atomic]   |Léger    |Oui                | `Non`            |Oui          |Oui     | `Non`                           | `Non`                                              |[Atomic]|
-|[MoonStake]|Léger    |Oui                |Oui             |Oui          |Oui     |`Non`                           | `Non`                                              |[MoonStake]|
-|[Infinito] |Léger    |Oui                |Oui             |Oui          |Bientôt    | `Non`                           |[Oui](https://github.com/infinityblockchainlabs)|[Infinito]|
-|[Exodus]   |Léger    |Oui                | `Non`            |Oui          | `Non`                           | `Non`                           | `Non`                                              |[Exodus]|
-|[Guarda]   |Léger    |Oui                | `Non`            |Oui          | `Non`                           | `Non`                           | `Non`                                              |[Guarda]|
+|-----------|---------|-------------------|----------------|-------|-------------------------------|-----------|--------|---------|
+|[Yoroi]    |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone|
+|[Daedalus] |Full     |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
+|[ADAlite]  |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
+|[Medusa]   |Light    |❌                |✅              |✅     |❌                           |❌|[Denis Kalinin](https://t.me/Fell_x27)|Web|
+|[Atomic]   |Light    |✅                |❌              |✅     |❌                           |❌|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
+|[Guarda]   |Light    |✅                |❌              |❌     |❌                           |❌|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
+|[Infinito] |Light    |✅                |✅              |⭕     |❌                           |[❌](https://github.com/infinityblockchainlabs)|[Infinito]|Android, Iphone|
+|[MoonStake]|Light    |❌                |❌              |⭕     |❌                           |❌|[MoonStake]|Web, Android, IPhone|
+|[Exodus]   |Light    |❌                |❌              |⭕     |❌                           |❌|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+
+!> ⭕: Ces portefeuilles ne permettent pas une expérience de staking transparente, les fonds de l'utilisateur sont délégués sur leurs propres stake pools ou à ceux de partenaires. Ceci n'est pas idéal pour la décentralisation.
 
 [1]: Wallets/types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
