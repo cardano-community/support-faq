@@ -6,7 +6,7 @@ Note que la billetera versus la era versus mnemotécnico, las métricas pueden s
 
 Haga click en el ícono `Claim / Transfer` (Reclamar/Transferir) en la barra lateral, y seleccione la era de la billetera que intenta reclamar:
 
-![Claim / Transfer page](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-1.jpg ':size=40%')
+![Claim / Transfer page](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/yoroi-claim-1.jpg ':size=40%')
 
 Asegúrese que tenga:
 
@@ -18,13 +18,13 @@ Asegúrese que tenga:
 
 Esta sección es para los usuarios de Byron Daedalus (Billetera caliente + billetera de papel + acceso a la llave maestra (master key). Seleccione el tipo de billetera que intenta restaurar como se indica a continuación:
 
-![Claim / Transfer Byron Daedalus Wallets](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-2.jpg ':size=25%')
+![Claim / Transfer Byron Daedalus Wallets](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/yoroi-claim-2.jpg ':size=25%')
 
 ##### **Billetera Icarus/Yoroi**
 
 Esta sección es para los usuarios de la extensión de Yoroi/ADALite + usuarios móviles de Byron. Seleccione el tipo de billetera que intenta restaurar:
 
-![Claim / Transfer Byron Icarus/Yoroi Wallets](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-3.jpg ':size=25%')
+![Claim / Transfer Byron Icarus/Yoroi Wallets](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/yoroi-claim-3.jpg ':size=25%')
 
 *Usuarios de Byron Ledger: Nota que a partir de la versión 3.2.2 de la extensión de Yoroi, la integración Ledger todavía no es compatible, e introducir las llaves de restauración de Ledger ***no es recomendado***. Puede conectar su Ledger a <https://adalite.io> (completamente compatible con las billeteras de Yoroi), si no desea esperar a que esté presente esta característica.*
 
@@ -36,11 +36,10 @@ Esta opción es para reclamar las recompensas de las billeteras de Yoroi (por lo
 
 Para continuar con la frase de restauración, primeramente asegúrese de que la parte superior de su billetera activa diga `Shelley-standard wallet` (Billetera Estándar de Shelley) como se muestra a continuación:
 
-![Claim Shelley Rewards](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-shelley-reward.jpg ':size=30%')
+![Claim Shelley Rewards](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/yoroi-claim-shelley-reward.jpg ':size=30%')
 
 Es recomendado que tenga `10 ADA` en la billetera a la cual enviará las recompensas (aún cuando el costo actual requerido probablemente sea menor a 1 ADA). Haz click en `Shelley-Era Wallet` (Billetera de la era Shelley) y luego seleccione la opción adecuada:
 
-![Select type of reward to withdraw](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-claim-shelley-reward-type.jpg ':size=25%')
 
 ##### Obteniendo acceso desde la extensión chromium a su llave privada encriptada
 
@@ -50,7 +49,7 @@ Si no tiene acceso a sus mnemotécnicos, puede obtener la llave privada de su bi
 
 Debería de ver un nuevo pánel. Ve a la pestaña `Application` (Aplicación) y navegue a `Storage > IndexedDB > yoroi-schema > Key` (Almacenamiento > BD Indexada > Esquema de Yoroi > Llave ). Verá las IDs de sus billeteras. Si expande las opciones, debería de ver su hash encriptado, el cual puede copiar (y luego pegar cuando se le pida al reclamar las recompensas de Shelley como mencionamos anteriormente):
 
-![Yoroi get encrypted private key](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/yoroi-get-priv-key.jpg ':size=30%')
+![Yoroi get encrypted private key](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/yoroi-get-priv-key.jpg ':size=30%')
 
 Note que las llaves pueden ser encriptadas usando la contraseña que utilizó anteriormente, y utilizar el hash también le pedirá introducir su contraseña.
 
