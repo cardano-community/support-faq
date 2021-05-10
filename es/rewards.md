@@ -11,7 +11,7 @@ Para cualquier cambio en la delegación, las recompensas son reflejadas luego de
 Por lo tanto, si usted delega en el epoch `n`, sus recompensas serán depositadas a inicios del epoch `n+4` (técnicamente, sería a finales del epoch `n+3`).
 Puede ver la representación visual de lo explicado anteriormente a continuación (usando `n=213` en el ejemplo):
 
-  ![Rewards Schedule](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/images/rewards-schedule.jpg)
+  ![Rewards Schedule](https://raw.githubusercontent.com/cardano-community/support-faq/images/docs/img-es/rewards-schedule.jpg)
 
 #### ¿Nos perdemos de recompensas cuando cambiamos la delegación a otro pool? :id=change-delegation
 
