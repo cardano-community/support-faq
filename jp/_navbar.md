@@ -6,4 +6,5 @@
   * [ 🇫🇷 ](fr/index.md)
   * [ 🇮🇹 ](it/index.md)
   * [ 🇵🇹 🇧🇷 ](pt/index.md)
+  * [ 🇷 🇺  ](ru/index.md)
   * [ 🇺🇸 ](index.md)

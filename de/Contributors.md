@@ -8,3 +8,4 @@ Besonderer Dank geht an diese wunderbaren Personen, die regelmäßig zur Dokumen
 - [Matthijs - AEON pool](https://github.com/matthijs-aeon)
 - [OCG](https://github.com/oldcryptogeek)
 - [Nápoles](https://forum.cardano.org/u/napoles/summary)
+- [Dmitry](https://github.com/dmitrystas)
