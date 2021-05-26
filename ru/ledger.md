@@ -38,4 +38,4 @@ https://support.ledger.com/hc/en-us/articles/360020095874-Cardano-ADA-
 
 #### Холодный стейкинг с использованием Ledger в Cardano
 
-В настоящее время только https://adalite.io имеет поддержку Ledger, в то время как Yoroi и Daedalus скоро добавят поддержку. Прочтите инструкции [здесь](https://github.com/vacuumlabs/adalita/wiki) для делегирования с использованием платформы ADALite.
+В настоящее время только https://adalite.io имеет поддержку Ledger, в то время как Yoroi и Daedalus скоро добавят поддержку. Прочтите инструкции [здесь](https://github.com/vacuumlabs/adalite/wiki) для делегирования с использованием платформы ADALite.
