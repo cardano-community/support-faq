@@ -7,3 +7,4 @@
   * [ 🇮🇹 ](it/index.md)
   * [ 🇯🇵 ](jp/index.md)
   * [ 🇵🇹 🇧🇷 ](pt/index.md)
+  * [ 🇷🇺 ](ru/index.md)

@@ -1,6 +1,6 @@
-# Mitwirkende
+# Contributors
 
-Besonderer Dank geht an diese wunderbaren Personen, die regelmäßig zur Dokumentation beitragen und diese pflegen:
+Особые благодарности замечательным людям ниже за то, что они постоянно вносят свой вклад и поддерживают документацию:
 
 - [Psychomb - STKH1 pool](https://github.com/psychomb)
 - [Nicole - Cardano Ambassador](https://twitter.com/TheLegendofAda)
@@ -8,4 +8,4 @@ Besonderer Dank geht an diese wunderbaren Personen, die regelmäßig zur Dokumen
 - [Matthijs - AEON pool](https://github.com/matthijs-aeon)
 - [OCG](https://github.com/oldcryptogeek)
 - [Nápoles](https://forum.cardano.org/u/napoles/summary)
-- [Dmitry](https://github.com/dmitrystas)
+- [Dmitry Stashenko](https://github.com/dmitrystas)
