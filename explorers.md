@@ -21,6 +21,7 @@ Below we can find a list of known Blockchain/Pool explorers:
 |[Pooltool]        |✅          |❌            |✅            |✅         |❌        |❌|
 |[Cardano Explorer]|✅          |✅            |❌            |✅         |❌        |[IOHK](https://iohk.io)|
 |[BlockChair]      |❌          |✅            |❌            |✅         |❌        |❌|
+|[Pool.pm]         |✅          |✅            |✅            |❌         |❌        |❌|
 
 [Cardano Explorer]: https://explorer.cardano.org
 [ADAEx]: https://adaex.org
@@ -29,6 +30,7 @@ Below we can find a list of known Blockchain/Pool explorers:
 [ADAStat]: https://adastat.net
 [BlockChair]: https://blockchair.com/cardano
 [ADApools]: https://adapools.org
+[Pool.pm]: https://pool.pm/
 
 ##### List of Mobile Explorers :id=list
 
