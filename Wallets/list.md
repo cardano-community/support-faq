@@ -15,7 +15,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Guarda]   |Light    |✅                |❌              |❌     |❌                           |❌|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
 |[Infinito] |Light    |✅                |✅              |⭕     |❌                           |[❌](https://github.com/infinityblockchainlabs)|[Infinito]|Android, Iphone|
 |[MoonStake]|Light    |❌                |❌              |⭕     |❌                           |❌|[MoonStake]|Web, Android, IPhone|
-|[Exodus]   |Light    |❌                |❌              |⭕     |❌                           |❌|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+|[Exodus]   |Light    |✅                |❌              |⭕     |❌                           |❌|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 
 !> ⭕: These wallets do not allow a transparent staking experience, user funds are staked against their own/partner stakepools. This is not an ideal use-case for decentralisation.
 
