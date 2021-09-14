@@ -10,7 +10,7 @@ Note que en caso de problemas, usualmente solo las consultas pertenecientes a la
 |[Yoroi]    |Light    |✅                |✅          |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone| 
 |[Daedalus] |Full     |✅                |✅          |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite]  |Light    |✅                |✅          |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
-|[ccwallet] |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[Tastenkunst](https://tastenkunst.com/)|Web|
+|[ccwallet] |Light    |✅                |✅          |✅     |Ledger Nano S/X, Trezor Model T|❌|[Tastenkunst](https://tastenkunst.com/)|Web|
 |[Medusa]   |Light    |❌                |✅          |✅     |❌          |❌      |[Denis Kalinin](https://t.me/Fell_x27) | Web |
 |[Atomic]   |Light    |✅                |❌          |✅     |❌          |❌      |[Atomic]                               |Windows, MacOS, Linux, Android, IPhone |
 |[Guarda]   |Light    |✅                |❌          |❌     |❌          |❌      |[Guarda]                               |Chromium extension, Web, Windows, Android, IPhone|
