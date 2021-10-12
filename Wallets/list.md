@@ -11,12 +11,13 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Daedalus] |Full     |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite]  |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
 |[ccwallet] |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[Tastenkunst](https://tastenkunst.com/)|Web|
-|[Medusa]   |Light    |❌                |✅              |✅     |❌                           |❌|[Denis Kalinin](https://t.me/Fell_x27)|Web|
-|[Atomic]   |Light    |✅                |❌              |✅     |❌                           |❌|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
-|[Guarda]   |Light    |✅                |❌              |❌     |❌                           |❌|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
-|[Infinito] |Light    |✅                |✅              |⭕     |❌                           |[❌](https://github.com/infinityblockchainlabs)|[Infinito]|Android, Iphone|
-|[MoonStake]|Light    |❌                |❌              |⭕     |❌                           |❌|[MoonStake]|Web, Android, IPhone|
-|[Exodus]   |Light    |❌                |❌              |⭕     |❌                           |❌|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
+|[Medusa]   |Light    |❌                |✅              |✅     |❌                             |❌|[Denis Kalinin](https://t.me/Fell_x27)|Web|
+|[Atomic]   |Light    |✅                |❌              |✅     |❌                             |❌|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
+|[Nami]     |Light    |✅                |✅              |⭕     |❌                             |[✅](https://github.com/Berry-Pool/nami-wallet)|[Berry SPO](https://berrypool.io)|Chromium Extension|
+|[Guarda]   |Light    |✅                |❌              |⭕     |❌                             |❌|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
+|[Infinito] |Light    |✅                |✅              |⭕     |❌                             |[❌](https://github.com/infinityblockchainlabs)|[Infinito]|Android, Iphone|
+|[MoonStake]|Light    |❌                |❌              |⭕     |❌                             |❌|[MoonStake]|Web, Android, IPhone|
+|[Exodus]   |Light    |❌                |❌              |⭕     |❌                             |❌|[Exodus]|Windows, MacOS, Linux, Android, IPhone|
 
 !> ⭕: These wallets do not allow a transparent staking experience, user funds are staked against their own/partner stakepools. This is not an ideal use-case for decentralisation.
 
@@ -24,6 +25,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Daedalus]: https://daedaluswallet.io
 [Yoroi]: https://yoroi-wallet.com
 [ADAlite]: https://www.adalite.io
+[Nami]: https://namiwallet.io
 [ccwallet]: https://ccwallet.io
 [Medusa]: https://adawallet.io/
 [Atomic]: https://atomicwallet.io/
