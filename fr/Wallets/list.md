@@ -11,7 +11,8 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 |[Yoroi]    |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone|
 |[Daedalus] |Full     |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite]  |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
-|[ccwallet] |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[Tastenkunst](https://tastenkunst.com/)|Web|
+|[Typhon]   |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[Strica](https://strica.io/#our-work)|Web, Chromium Extension|
+|[ccvault]  |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[Tastenkunst](https://tastenkunst.com/)|Web|
 |[Medusa]   |Light    |❌                |✅              |✅     |❌                           |❌|[Denis Kalinin](https://t.me/Fell_x27)|Web|
 |[Atomic]   |Light    |✅                |❌              |✅     |❌                           |❌|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
 |[Nami]     |Light    |✅                |✅              |⭕     |❌                             |[✅](https://github.com/Berry-Pool/nami-wallet)|[Berry SPO](https://berrypool.io)|Chromium Extension|
@@ -26,8 +27,9 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 [Daedalus]: https://daedaluswallet.io
 [Yoroi]: https://yoroi-wallet.com
 [ADAlite]: https://www.adalite.io
+[Typhon]: https://typhonwallet.io
 [Nami]: https://namiwallet.io
-[ccwallet]: https://ccwallet.io
+[ccvault]: https://ccvault.io
 [Medusa]: https://adawallet.io/
 [Atomic]: https://atomicwallet.io/
 [Guarda]: https://guarda.com
