@@ -14,7 +14,7 @@
 |[ccvault]  |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[Tastenkunst](https://tastenkunst.com/)|Web|
 |[Medusa]   |Light    |❌                |✅              |✅     |❌                           |❌|[Denis Kalinin](https://t.me/Fell_x27)|Web|
 |[Atomic]   |Light    |✅                |❌              |✅     |❌                           |❌|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
-|[Nami]     |Light    |✅                |✅              |⭕     |❌                             |[✅](https://github.com/Berry-Pool/nami-wallet)|[Berry SPO](https://berrypool.io)|Chromium Extension|
+|[Nami]     |Light    |✅                |✅              |⭕     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/Berry-Pool/nami-wallet)|[Berry SPO](https://berrypool.io)|Chromium Extension|
 |[Guarda]   |Light    |✅                |❌              |⭕     |❌                           |❌|[Guarda]|Chromium extension, Web, Windows, Android, IPhone|
 |[Infinito] |Light    |✅                |✅              |⭕     |❌                           |[❌](https://github.com/infinityblockchainlabs)|[Infinito]|Android, Iphone|
 |[MoonStake]|Light    |❌                |❌              |⭕     |❌                           |❌|[MoonStake]|Web, Android, IPhone|
