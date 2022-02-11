@@ -10,8 +10,9 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Yoroi]    |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/emurgo/yoroi-frontend)|[Emurgo](https://emurgo.io)|Chromium Extension, Android, IPhone| 
 |[Daedalus] |Full     |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/input-output-hk/daedalus)|[IOG](https://iohk.io)|Windows, MacOS, Linux|
 |[ADAlite]  |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/vacuumlabs/adalite)|[VacuumLabs](https://www.vacuumlabs.com/)|Web|
-|[Typhon]   |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[Strica](https://strica.io/#our-work)|Web, Chromium Extension|
+|[Typhon]   |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|[Partial](https://github.com/StricaHQ)|[Strica](https://strica.io/#our-work)|Web, Chromium Extension|
 |[ccvault]  |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[Tastenkunst](https://tastenkunst.com/)|Web|
+|[Flint]    |Light    |✅                |✅              |✅     |Ledger Nano S/X, Trezor Model T|❌|[dcSpark](https://dcspark.io)|Web|
 |[Medusa]   |Light    |❌                |✅              |✅     |❌                             |❌|[Denis Kalinin](https://t.me/Fell_x27)|Web|
 |[Atomic]   |Light    |✅                |❌              |✅     |❌                             |❌|[Atomic]|Windows, MacOS, Linux, Android, IPhone|
 |[Nami]     |Light    |✅                |✅              |⭕     |Ledger Nano S/X, Trezor Model T|[✅](https://github.com/Berry-Pool/nami-wallet)|[Berry SPO](https://berrypool.io)|Chromium Extension|
