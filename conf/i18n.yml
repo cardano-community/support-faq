@@ -1,0 +1,183 @@
+site_name: Support FAQ
+site_url: https://cardano-community.github.io/support-faq
+repo_name: cardano-community/support-faq
+repo_url: https://github.com/cardano-community/support-faq
+copyright: Copyright &copy; 2019-2022 Cardano Community
+docs_dir: '../docs'
+site_dir: '../site'
+theme:
+  name: material
+  features:
+    - search.highlight
+    - search.share
+    - navigation.indexes
+  custom_dir: '../overrides/'
+  logo: '/support-faq/logo-dark.svg'
+  favicon: /support-faq/favicon.ico
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+extra_css:
+  - /support-faq/custom.css
+extra:
+  analytics:
+    provider: google
+    property: G-MLM58HW7RF
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cardano-community
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: ⚓︎
+      toc_depth: 4
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  #- pymdownx.superfences:
+  #    custom_fences:
+  #      - name: mermaid
+  #        class: mermaid
+  #        format: !!python/name:mermaid2.fence_mermaid
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Tree
+nav:
+  - About: index.md
+  - Wallets:
+    - Basics: Wallets/wallets.md
+    - Types of Wallets: Wallets/types.md
+    - List of Wallets: Wallets/list.md
+  - Explorers: explorers.md
+  - Rewards FAQ: rewards.md
+  - Selecting Pool for delegation: select-pool-to-delegate.md
+  - Community Contributions: community-contrib.md
+  - Safety against common Scams: no-to-scam.md
+  - Contributors: Contributors.md
+
+# Plugins
+plugins:
+  - search
+  - i18n:
+      default_language: en
+      material_alternate: true
+      languages:
+        en: English
+        de: Deutsch
+        es: Espanol
+        fr: French
+        ja: Japanese
+        ru: Russian
+      nav_translations:
+        de:
+          Types of Wallets: Wallet Typen
+          List of Wallets: Liste der Wallets
+          Community Contributions: Community Mitwirkende
+          Safety against common Scams: Schutz gegen gängige Betrugsmethoden
+        es:
+          About: Acerca de
+          Wallets: Billeteras
+          Basics: Lo Básico
+          Types of Wallets: Tipos de Billeteras
+          List of Wallets: Lista de Billeteras
+          Explorers: Exploradores
+          Rewards FAQ: Recompensas - Preguntas Frecuentes
+          Selecting Pool for delegation: Escogiendo un Pool para Delegar
+          Community Contributions: Contribuciones de la Comunidad
+          Safety against common Scams: Seguridad ante Estafas Comunes
+          Contributors: Contribuyentes
+        fr:
+          About: Avant-propos
+          Wallets: Portefeuillesp
+          Basics: Les bases
+          Types of Wallets: Types de Portefeuilles
+          List of Wallets: Liste des Portefeuilles
+          Explorers: Explorateurs
+          Rewards FAQ: Récompenses - FAQ
+          Selecting Pool for delegation: Choisir un pool pour déléguer
+          Community Contributions: Contributions de la communauté
+          Safety against common Scams: Protégez-vous des escrocs
+          Contributors: Contributeurs
+        ja:
+          About: 概要
+          Wallets: ウォレット
+          #Basics: 
+          Types of Wallets: ウォレットの種類
+          List of Wallets: ウォレットの一覧
+          Explorers: エクスプローラ
+          Rewards FAQ: 報酬に関する FAQ
+          Selecting Pool for delegation: 委任するプールの選択
+          Community Contributions: コミュニティの貢献者達
+          Safety against common Scams: 一般的な詐欺とその対策
+          Contributors: 貢献者
+        ru:
+          About: О странице
+          Wallets: Кошельки
+          #Basics: 
+          Types of Wallets: Типы кошельков
+          List of Wallets: Список кошельков
+          Ledger: Леджер
+          Explorers: Эксплореры
+          Rewards FAQ: FAQ о наградах
+          Selecting Pool for delegation: Выбор пула для делегирования
+          Community Contributions: Контрибьюторы сообщества
+          Safety against common Scams: Безопасность и распространенный скам
+          Contributors: Контрибьюторы
+  - macros
+  - render_swagger
+  #- mermaid2:
+  #    version: latest
+  #    arguments:
+  #      theme: forest
+  #      themeVariables:
+  #        lineColor: green
+  #        actorBkg: "#4CAE4F"
+  #        actorLineColor: "#4CAE4F"
+  #        signalColor: "#4CAE4F"
+  #        signalTextColor: "#de649e"
+  #        noteBorderColor: "#000000"
+  #        loopTextColor: "#FFFFFF"
+  - minify:
+      minify_html: false
+      minify_js: true
