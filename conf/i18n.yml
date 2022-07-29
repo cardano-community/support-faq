@@ -39,6 +39,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/cardano-community
+  generator: false
 
 # Extensions
 markdown_extensions:
