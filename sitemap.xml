@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>https://cardano-community.github.io/support-faq/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/"/>
@@ -14,7 +14,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/Contributors/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/Contributors/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/Contributors/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/community-contrib/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/community-contrib/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/community-contrib/"/>
@@ -38,7 +38,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/explorers/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/explorers/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/explorers/"/>
@@ -50,7 +50,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/no-to-scam/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/no-to-scam/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/no-to-scam/"/>
@@ -62,7 +62,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/rewards/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/rewards/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/rewards/"/>
@@ -74,7 +74,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/select-pool-to-delegate/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/select-pool-to-delegate/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/select-pool-to-delegate/"/>
@@ -86,7 +86,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/Wallets/list/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/Wallets/list/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/Wallets/list/"/>
@@ -98,7 +98,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/Wallets/types/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/Wallets/types/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/Wallets/types/"/>
@@ -110,7 +110,7 @@
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/Wallets/wallets/</loc>
-         <lastmod>2022-06-10</lastmod>
+         <lastmod>2022-07-29</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/Wallets/wallets/"/>
          <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/Wallets/wallets/"/>
