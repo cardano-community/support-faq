@@ -14,19 +14,20 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 |[Yoroi]    |Light    |10         |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |[:ballot_box_with_check:](https://github.com/emurgo/yoroi-frontend)|
 |[Typhon]   |Light    |9          |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |[Partial](https://github.com/StricaHQ)|
 |[ADAlite]  |Light    |9          |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |( :x:,:x:,:ballot_box_with_check: )                     |[:ballot_box_with_check:](https://github.com/vacuumlabs/adalite)|
-|[Nami]     |Light    |9          |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |( :x:,:ballot_box_with_check:,:x: )                     |[:ballot_box_with_check:](https://github.com/Berry-Pool/nami-wallet)|
-|[Flint]    |Light    |8          |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |:x:                    |
+|[NuFi]     |Light    |8          |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |:x:                    |
 |[Daedalus] |Full     |8          |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |( :ballot_box_with_check:,:x:,:x: )                     |[:ballot_box_with_check:](https://github.com/input-output-hk/daedalus)|
+|[Nami]     |Light    |7          |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |( :x:,:ballot_box_with_check:,:x: )                     |[:ballot_box_with_check:](https://github.com/Berry-Pool/nami-wallet)|
+|[Flint]    |Light    |7          |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |:x:                    |
 |[Gero]     |Light    |7          |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |( :x:,:ballot_box_with_check:,:x: )                     |:x:                    |
 |[Medusav1] |Light    |4          |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
 |[Atomic]   |Light    |4          |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |:x:                    |
 |[Exodus]   |Light    |2          |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
-|[Infinito] |Light    |1          |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|( :x:,:x:,:x: )                                         |:x:                    |
 
 [1]: types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
 [Yoroi]: https://yoroi-wallet.com
 [ADAlite]: https://www.adalite.io
+[NuFi]: https://nu.fi
 [Typhon]: https://typhonwallet.io
 [Eternl]: https://eternl.io
 [Flint]: https://flint-wallet.com
@@ -35,4 +36,3 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 [Atomic]: https://atomicwallet.io/
 [Gero]: https://gerowallet.io
 [Exodus]: https://www.exodus.io/
-[Infinito]: https://www.infinitowallet.io
