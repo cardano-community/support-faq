@@ -40,4 +40,4 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Atomic]: https://atomicwallet.io/
 [Gero]: https://gerowallet.io
 [Exodus]: https://www.exodus.io/
-[LodeWallet]: https://www.lodewallet.io
+[LodeWallet]: https://lodewallet.io
