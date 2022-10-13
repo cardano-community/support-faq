@@ -1,53 +1,75 @@
+Delegation allows holders of ada to transfer their right to participate in the proof of stake protocol to stake pools. Stake pools are run by stake pool operators (SPOs) and a person delegating to a stake pool is called delegator, member, or participant. A stake pool consists of a block producer (BP) and any number of relays - each of these are called a node. The blockchain is made up of consecutive blocks and stake is power to make blocks.
 
-There is no 1-for-all pool that you can delegate with, otherwise - every one would be delegating to same pool and there wouldnt be a point of decentralisation :) . While many users are attracted to the pool with lowest fee margins, it is usually the least important factor to distinguish between stake pools. Below are a few factors that might be important to take into consideration.
+If one pool or person is given too much stake power they can control consensus, engage in double-spending attacks, create forks, censor blocks, and damage or even destroy the system. Your delegation choice, who you give your power to, is very important at limiting a single entity from creating too many blocks.
 
-!!! danger ""
+“There should never be a conflict of interest between maximizing rewards and ‘doing the right thing’”
 
-    Remember, you - a delegator - are indirectly one of the core components of the protocol and your actions may determine the decentralisation as well as adoption of the platform. Whether it is for your benefit, or benefit of the network - it is important that you select carefully who you will be delegating to.
+The staking mechanism was designed so that you can optimally secure the network by trying to maximize your rewards and being greedy with your delegation choice. Stake pools can offer very different return rates.
 
-!!! tip ""
+“How attractive a pool is to delegators depends on four interacting elements: pledge (the higher, the better); operating costs (the lower, the better); operator margin (the lower, the better); performance (the higher, the better).”
 
-    There are heavy contributors to the ecosystem that may not be advertising and do not incur enough delegations, you can read more about them [here](community-contrib.md) if you'd like to support them.
+It is important that you understand each of these elements and how they can effect your rewards.
 
-In this section we will discuss the different aspects that users should consider when selecting who they would like to support. If you're unsure about any of the parameters when simply using wallet, please leverage benefits of community platforms built to help you with the decision making. The platforms are:
+The first thing you should consider when looking for a pool is pledge. Pledge is the amount of stake the SPO has in their own pool.
 
-  * [Pooltool](https://pooltool.io)
-  * [ADAPools](https://adapools.org)
-  * [ADAStat](https://adastat.net)
-  * [CardanoScan](http://cardanoscan.io)
-  * [PoolPeek](https://poolpeek.com/)
+“Think of pledge as a ‘commitment’ to the network.”
 
-Most of these sites will allow you to filter using various parameters to help you with the decision making. Furthermore, note the points below:
+An operator with very little pledge that controls a lot of stake is highly leveraged.
 
-#### The Pool Operator  
-  When staking with a pool, the first and foremost think you'd want to know about is the pool operator and his/her presence in the community. When things go south, you should be able to get in touch with the owners/operators of the pool. Most of the pools out there will have their social links available either via the website associated with the pool, or via extended metadata information. While we cannot judge everyone who wishes to not disclose their identities, you can be certain that ones who have been around for a while will not be putting their reputation at risk.  
+“The lower the leverage of a blockchain system, the higher its degree of decentralization.”
 
-#### Number of pools run by operator  
-  There are a few operators running multiple pools with attractive marketing of low fees and very low pledge. While they're completely within their rights to do so - as allowed by the protocol, it is something controversial - and the aesthetics of such a pool is questionable (as there is an option to increase individual pool's fee instead of adding new pools). What such pools are doing (perhaps unintentionally) is a start of [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack#:~:text=In%20a%20Sybil%20attack%2C%20the,diagnosed%20with%20dissociative%20identity%20disorder) on the protocol. The protocol is designed to have incentives against this behaviour, but it only works on *basic rationale of delegator* being careful to not to make such pools too powerful. Perfect examples of such behaviour are 1PCT and OCE pools. From decentralisation point of view, you'd want to *stay away from those running multiple pools in general*.
+Pledge is part of the mechanism that prevents one person from operating many pools (pool-splitting) by making pool reward rates increase with pledge. If an operator wants to split one pool into many, they have to dilute their pledge between all the new pools, causing all of the pools to receive lower rewards than if the pledge were consolidated into one pool. Pledge is the only pool parameter that increases rewards and, paired with saturation, aids in decentralizing the network.
 
-#### Update channels  
-  More often than not, Pool Operators will add ways to subscribe to their channels (be it telegram groups or twitter feed or website). It is important to join these channels for things like change of pledge amount or fees. Not doing so may leave a feeling of being blindsided when seeing a change of pool parameters. If you cannot find a way to reach the operator, you might want to question your decision.  
+It is prohibitively expensive for one person to open many high pledged pools and relatively cheap for one person to open many low pledged pools. This is what makes it almost impossible for a single individual to gather a majority of stake by opening many high rewarding pools, it’s simply too expensive. This principal is the backbone of Cardano’s security model.
 
-#### Saturation Point
-  In order to not centralise all stake delegation to a single pool, after reaching a certain delegation criteria (calculated by `Total Supply in Circulation`/`nOpt`) where nOpt is currently 500, a pool will no longer be getting higher rewards for more delegation (currently this amounts to ~ `64M`). Thus, the reward portion of individual delegator will start reducing further as more stake is delegated to such a pool.  
-  While in theory, rewards against a pool are optimal at saturation point, delegating to a pool close to saturation could always mean you're close to being over saturated (and will have to keep a constant eye on the delegation). Instead, having it against a comparatively smaller pool also means that your rewards are not necessarily impacted by much, but you help the network further by not participating against oversaturated (or potentially soon to be over saturated) pools. Depending on amount of stake you're going to delegate , you would ideally want to be stake with a pool whose Live Stake is somewhere between 5% to 70% of saturation point.
+Every 500k pledge increase means delegators will receive ≈ 0.008% APY MORE rewards
 
-#### Fees  
-  While standing a basic stakepool isnt really difficult, managing a pool operator with good security, availability, maintainance, and visibility requires incurs time as well as financial expenses. The protocol , thus, allows pool to specify their fees and allows it to do so based on a number of parameters. Note that this fee is *only taken from rewards* the network calculates against the pool, before distributing rewards further to delegators. As a delegator, below is a gist of things to know about when looking at pool fees:
+Next consider pool fees, both margin and fixed. The fixed fee is subtracted from the total pool rewards for an epoch. Then the margin is applied. Then the remainder is paid to delegators proportional to their stake.
 
-#### Pool Pledge
-  Pledge is basically the promise from the owners of a pool to maintain in their owner keys of the pool (thus , their own "skin-in-the-game"). Higher amount of pledge is rewarded by higher amount of rewards. However, note that at the current protocol parameters, the overall difference for rewards is not hugely affected by a pool pledging 100K vs pool pledging 1M (eg: for base assumptions, delegating 100K towards 100K pledged pool might earn you 5159 v/s 1M pledged pool might earn you 5161 ADA annually. However, delegating with 10M pledged pool for same assumptions might earn you 5223 ADA for the same scenario over a year. You can play with pledge parameter and their effects using the IOHK staking calculator [here](https://cardano.org/calculator/)
+Ex. 340 ADA fixed and 1% margin
+(total_pool_rewards - 340) * 0.99 = total_delegate_rewards
 
-#### Pool Fixed costs
-  This is the minimum rewards a pool will earn before rewards against blocks made by a specific pool is distributed to its delegators by the protocol. Current protocol parameters dictate a minimum of 340 ADA as a fixed minimum cost. The fee is enforced to prevent a race to 0 fee pools that are not really sustainable for protocol in future. Note that this the fixed cost from entire reward pot against all delegators delegating to pool.
-  
-#### Pool Margin (%)
-  This is the percentage of rewards that a pool will be able to make from the total rewards pot. As compared to the reward pot that a pool generates (eg: 10000 ADA), the delegator's margin (eg: 2.5% of total rewards from pool) is not hugely affected by the Pool's margin being 1% (i.e. 230.9 ADA) v/s 4% (224.9 ADA) does not really affect delegator's rewards by a very big margin, unless that delegator forms a substantial amount of stake for that pool. The rewards are affected by lottery of slot allotment and pool's performance a lot more than the difference of margin. It is strongly recommended to *NOT* run towards a 0% pool *IF* it does not meet the rest of the points discussed above.  
-  
-#### Performance  
-  This is an estimate of pool's performance based on how much stake protocol *thinks* a pool would have made versus how much pool actually did. Every block is rewarded by protocol (until saturation point), thus a delegator would want to stick with a pool that has greater than 85-90% of performance. Note that we cannot conclusively say 100% here because the actual blocks made by pools will also depend on how much blocks were actually assigned to a pool. There is a bit of randomness involved here for blocks to be assigned, which is proportional (like a roulette reserving higher number of slots corresponding) to stake.
+Margin can range from 0% - 100%; a 0% margin pool collects no additional fee over the fixed fee, and a 100% margin pool pays no rewards to its delegators.
 
-#### Wallet Ranking  
-  Wallet ranking in Daedalus does *NOT* take into account a few factors (luck associated with slot assignments to pools, even if proportional to stake, decentralisation factor making a further impact to randomisation), as well as not counting for the amount of stake user would like to add. While this should not be followed blindly, it would be a good reference point in long term for delegators to see how desirable the pool is as per the original specifications of the wallets.  
+Every 1% margin increase means delegators will receive ≈ 0.037% APY LESS rewards.
 
-Hope the above helps you pick up a pool of your choice. If you would like to see any additions to this list, please raise an issue/PR against this repo using the icon on top right corner of the page.
+“By pledging more, the pool operator can ask for a higher operator margin while still being attractive to delegators.”
+
+As a rule of thumb, 2.3 million pledge and 1% margin cancel each other out.
+
+Fixed fee effects delegate rewards proportional to pool size. If the pool has little total stake then each delegate pays more of the fee from their cut of the rewards. The minimum fixed fee is 340 ADA/epoch.
+
+Saturation is the level at which a pool becomes too large. A pool is saturated at 100% and at that point is offering its best returns. Rewards drop pretty drastically when a pool becomes oversaturated.
+
+Next consider performance. Actual performance, the ratio of blocks assigned to blocks forged, will always be somewhere less than 100%. A certain number of blocks are expected to be missed as orphans and from *factors out of the control of the operator, but generally the pool should be forging all of its assigned blocks. Performance is most difficult to judge because only the attentive SPO knows actual performance and few make this public. Those that do voluntarily report actual performance to pooltool.
+
+*Early iterations of Cardano-node contained bugs that would cause pools to miss blocks for various reasons. Pools that have been around since Shelley launch will naturally have lower overall performance than pools that started more recently. Not all of these bugs have been corrected yet.
+
+Certain websites track a pool’s luck, which is the ratio of blocks forged to blocks expected. This metric is only really useful for finding pools that are drastically underperforming. You can guarantee that a pool with greater than 100% luck has been scheduled more blocks than expected but it does not mean they have outperformed other pools. Conversely, a pool with less than 100% luck might have just been assigned fewer blocks than expected or may be underperforming by missing scheduled blocks.
+
+You can find pool parameters (pledge, margin, fixed fee, saturation, etc.) on pooltool.io or cardanoscan.io.
+
+Besides looking at reward rates you should also judge a pool by its infrastructure. At a minimum, a pool should have a block producer and two relays. Relays speak with other pool’s relays and are responsible for transmitting blocks and transactions through the network. The more relays a pool has the better. The pool should have some redundancy in place that responds automatically to failures within the system. For example, if the block producer node blows up, there should be another node quickly taking its place. All of the nodes should be distributed and not under the same roof.
+
+Finally, do some research into the pool operator. Are they asking questions about how to run a pool or are they answering questions? Do they run many different pools? If so, why so many and why not consolidate pledge for delegate benefit? Do they contribute to the overall community or ecosystem in some way? Is the pool run by an individual or a team? Do they completely understand how the protocol and reward model works? Can you reach out to them with questions?
+
+Be cautious accepting delegation suggestions or advice from any SPO. SPOs and delegators have different financial incentive within the system. Delegators want high rewards from their stake. SPOs want to run as many pools as they can at the highest acceptable fee. This always comes at the expense of the delegators’ rewards. SPOs will suggest that you delegate to their pool, but it’s unlikely that their pool offers the highest return on stake.
+
+Here are some, but not all, examples of fraudulent pool behavior that should be avoided:
+Pools that…
+impersonate other pools or businesses without any affiliation,
+promise higher rewards than their pool can offer,
+promise additional tokens or any other future value in exchange for your rewards,
+modify their parameters just before and and after epoch switch to avoid detection
+
+You should use a notification service like pooltool or cardanoscan bot on telegram to notify you of any parameter changes, like pledge or fees, or if your pool becomes oversaturated.
+
+It cost almost 0.18 ADA every time you switch pools. If you only have a few thousand ADA you should try to minimize your pool changes. Your transaction fees can quickly eat up your rewards.
+
+You do not need to withdraw your rewards. Rewards and any new ADA in your wallet are automatically part of your staking balance.
+
+Below is a tool built by a member of the Cardano community that plugs pool parameters into the reward equation to generate expected reward rate. It is useful to compare pools against each other.
+https://dynamicstrategies.io/crewardcalculator
+https://hydra.iohk.io/build/790053/download/1/delegation_design_spec.pdf
+https://iohk.io/en/blog/posts/2020/05/12/how-pledging-encourages-a-healthy-decentralized-cardano-ecosystem/
+https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/
