@@ -1,123 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cardano-community.github.io/support-faq/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Contributors.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Contributors.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Contributors.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Contributors.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/Contributors/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/Contributors/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/Contributors/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/Contributors/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/Contributors/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/Contributors/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/Contributors/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Contributors.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/community-contrib.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/community-contrib.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/community-contrib.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/community-contrib.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/community-contrib/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/community-contrib/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/community-contrib/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/community-contrib/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/community-contrib/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/community-contrib/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/community-contrib/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/community-contrib.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/explorers.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/explorers.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/explorers.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/explorers.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/explorers/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/explorers/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/explorers/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/explorers/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/explorers/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/explorers/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/explorers/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/explorers.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/index.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/index.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/index.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/index.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/index.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/no-to-scam.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/no-to-scam.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/no-to-scam.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/no-to-scam.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/no-to-scam/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/no-to-scam/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/no-to-scam/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/no-to-scam/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/no-to-scam/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/no-to-scam/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/no-to-scam/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/no-to-scam.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/rewards.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/rewards.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/rewards.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/rewards.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/rewards/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/rewards/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/rewards/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/rewards/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/rewards/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/rewards/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/rewards/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/rewards.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/select-pool-to-delegate.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/select-pool-to-delegate.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/select-pool-to-delegate.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/select-pool-to-delegate.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/select-pool-to-delegate/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/select-pool-to-delegate/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/select-pool-to-delegate/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/select-pool-to-delegate/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/select-pool-to-delegate/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/select-pool-to-delegate/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/select-pool-to-delegate/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/select-pool-to-delegate.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/list.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/list.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/list.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/list.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/Wallets/list/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/Wallets/list/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/Wallets/list/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/Wallets/list/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/Wallets/list/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/Wallets/list/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/Wallets/list/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/list.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/types.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/types.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/types.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/types.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/Wallets/types/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/Wallets/types/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/Wallets/types/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/Wallets/types/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/Wallets/types/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/Wallets/types/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/Wallets/types/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/types.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/wallets.de/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/wallets.es/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/wallets.fr/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/wallets.ja/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://cardano-community.github.io/support-faq/Wallets/wallets/</loc>
-         <lastmod>2022-10-13</lastmod>
+         <lastmod>2022-12-09</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://cardano-community.github.io/support-faq/en/Wallets/wallets/"/>
-         <xhtml:link rel="alternate" hreflang="de" href="https://cardano-community.github.io/support-faq/de/Wallets/wallets/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="https://cardano-community.github.io/support-faq/es/Wallets/wallets/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://cardano-community.github.io/support-faq/fr/Wallets/wallets/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="https://cardano-community.github.io/support-faq/ja/Wallets/wallets/"/>
-         <xhtml:link rel="alternate" hreflang="ru" href="https://cardano-community.github.io/support-faq/ru/Wallets/wallets/"/>
-         
+    </url>
+    <url>
+         <loc>https://cardano-community.github.io/support-faq/Wallets/wallets.ru/</loc>
+         <lastmod>2022-12-09</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
