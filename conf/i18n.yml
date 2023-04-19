@@ -2,12 +2,14 @@ site_name: Support FAQ
 site_url: https://cardano-community.github.io/support-faq
 repo_name: cardano-community/support-faq
 repo_url: https://github.com/cardano-community/support-faq
+edit_uri: edit/master/docs/
 copyright: Copyright &copy; 2019-2023 Cardano Community
 docs_dir: '../docs'
 site_dir: '../site'
 theme:
   name: material
   features:
+    - content.action.edit
     - search.highlight
     - search.share
     #- navigation.instant
