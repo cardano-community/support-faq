@@ -27,7 +27,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[LodeWallet] |Light    |7     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:x: )                     |:x:                    |
 |[Coin Wallet]|Light    |6     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |[:ballot_box_with_check:](https://github.com/CoinSpace/CoinSpace)|
 |[Medusav1]   |Light    |6     |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:x:                    |( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
-|[Atomic]     |Light    |6     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |:x:                    |
+|⚠️⚠️⚠️[^1] [Atomic]     |Light    |6     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |:x:                    |
 |[Trust]      |Light    |3     |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
 |[Exodus]     |Light    |2     |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
 
@@ -49,6 +49,8 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Coin Wallet]: https://coin.space
 [Lace]: https://lace.io
 [Trust]: https://trustwallet.com
+
+[^1]: Atomic Wallet is currently having security issues: [https://twitter.com/AtomicWallet/status/1664946301815910400](https://twitter.com/AtomicWallet/status/1664946301815910400)
 
 ### Brief info on fields above
 
