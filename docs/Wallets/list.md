@@ -1,5 +1,5 @@
 
-The following is a list of well-known wallets to support Cardano.
+Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], [Flint], [Yoroi], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Trust] and [Exodus].
 
 Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
 
@@ -20,14 +20,13 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Yoroi]      |Light    |11    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |[:ballot_box_with_check:](https://github.com/emurgo/yoroi-frontend)|
 |[Lace]       |Light    |11     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:                    |:x:                    |:x:                      |:x:                    |( :x:,:ballot_box_with_check:,:x: )                     |[:ballot_box_with_check:](https://github.com/input-output-hk/lace)|
 |[ADAlite]    |Light    |10    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:x:                    |( :x:,:x:,:ballot_box_with_check: )                     |[:ballot_box_with_check:](https://github.com/vacuumlabs/adalite)|
-|[Nami]       |Light    |10    |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                      |:x:                    |( :x:,:ballot_box_with_check:,:x: )                     |[:ballot_box_with_check:](https://github.com/Berry-Pool/nami-wallet)|
 |[NuFi]       |Light    |9     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:x:                    |( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |:x:                    |
-|[Daedalus]   |Full     |9     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                      |:x:                    |( :ballot_box_with_check:,:x:,:x: )                     |[:ballot_box_with_check:](https://github.com/input-output-hk/daedalus)|
 |[Gero]       |Light    |9     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:x: )                     |:x:                    |
+|[ADAWallet]  |Light    |8     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:x:                    |( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
+|[Daedalus]   |Full     |8     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:x:                    |( :ballot_box_with_check:,:x:,:x: )                     |[:ballot_box_with_check:](https://github.com/input-output-hk/daedalus)|
 |[LodeWallet] |Light    |7     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:x: )                     |:x:                    |
 |[Coin Wallet]|Light    |6     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |[:ballot_box_with_check:](https://github.com/CoinSpace/CoinSpace)|
-|[Medusav1]   |Light    |6     |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:x:                    |( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
-|⚠️⚠️⚠️[^1] [Atomic]     |Light    |6     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |:x:                    |
+|[Atomic]     |Light    |6     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |:x:                    |
 |[Trust]      |Light    |4     |:ballot_box_with_check:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
 |[Exodus]     |Light    |2     |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
 
@@ -40,8 +39,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Typhon]: https://typhonwallet.io
 [Eternl]: https://eternl.io
 [Flint]: https://flint-wallet.com
-[Medusav1]: https://adawallet.io/
-[Nami]: https://namiwallet.io
+[ADAWallet]: https://adawallet.io/
 [Atomic]: https://atomicwallet.io/
 [Gero]: https://gerowallet.io
 [Exodus]: https://www.exodus.io/
@@ -49,8 +47,6 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Coin Wallet]: https://coin.space
 [Lace]: https://lace.io
 [Trust]: https://trustwallet.com
-
-[^1]: Atomic Wallet is currently having security issues: [https://twitter.com/AtomicWallet/status/1664946301815910400](https://twitter.com/AtomicWallet/status/1664946301815910400)
 
 ### Brief info on fields above
 
