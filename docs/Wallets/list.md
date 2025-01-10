@@ -1,8 +1,8 @@
 
-Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], , [Yoroi], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Trust] and [Exodus].
+Well-known and actively maintained wallets supporting the Cardano Blockchain are [Begin], [Eternl], [Typhon], , [Yoroi], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Trust] and [Exodus].
 
 Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
-
+[]
 !!! Tip
 
     - Its is important to ensure that you're in sole control of your wallet keys, and that the keys used can be restored via alternate wallet providers if a particular one is non-functional. Hence, put extra attention to `Non-Custodial` and `Compatibility` fields.
@@ -15,6 +15,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 |Name         |[Type][1]|Score |Non-Custodial          |Compatibility          |Stake Control          |Transparent Support    |Voting                 |Hardware Wallet        |Native Assets          |dApp Integration       |Stability              |Testnets Support       |Custom Backend Support |Single/Multi Address Mode|Mobile App             |Desktop (app,extension,web)                             |Open Source            |
 |-------------|---------|------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|-----------------------|--------------------------------------------------------|-----------------------|
 |[Eternl]     |Light    |14    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:  |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |:x:                    |
+|[Begin]     |Light    |13    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:  |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |[Partial](https://github.com/orgs/BeginWallet)|
 |[Typhon]     |Light    |13    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:  |:x:                    |( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |[Partial](https://github.com/StricaHQ)|
 |[Yoroi]      |Light    |11    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |[:ballot_box_with_check:](https://github.com/emurgo/yoroi-frontend)|
 |[Lace]       |Light    |11     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:                    |:x:                    |:x:                      |:x:                    |( :x:,:ballot_box_with_check:,:x: )                     |[:ballot_box_with_check:](https://github.com/input-output-hk/lace)|
@@ -31,6 +32,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 
 
 [1]: types.md#software-wallets
+[Begin]: https://begin.is
 [Daedalus]: https://daedaluswallet.io
 [Yoroi]: https://yoroi-wallet.com
 [ADAlite]: https://www.adalite.io
