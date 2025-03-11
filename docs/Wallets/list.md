@@ -1,5 +1,5 @@
 
-Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], , [Yoroi], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Trust] and [Exodus].
+Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], [Vespr], [Yoroi], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Trust] and [Exodus].
 
 Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
 
@@ -16,6 +16,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 |-------------|---------|------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|-----------------------|--------------------------------------------------------|-----------------------|
 |[Eternl]     |Light    |14    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:  |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |:x:                    |
 |[Typhon]     |Light    |13    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:  |:x:                    |( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |[Partial](https://github.com/StricaHQ)|
+|[Vespr]      |Light    |13    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:  |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:x:                     ) |:x:                    |
 |[Yoroi]      |Light    |11    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) |[:ballot_box_with_check:](https://github.com/emurgo/yoroi-frontend)|
 |[Lace]       |Light    |11     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:                    |:x:                    |:x:                      |:x:                    |( :x:,:ballot_box_with_check:,:x: )                     |[:ballot_box_with_check:](https://github.com/input-output-hk/lace)|
 |[ADAlite]    |Light    |10    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:x:                    |( :x:,:x:,:ballot_box_with_check: )                     |[:ballot_box_with_check:](https://github.com/vacuumlabs/adalite)|
@@ -45,6 +46,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Coin Wallet]: https://coin.space
 [Lace]: https://lace.io
 [Trust]: https://trustwallet.com
+[Vespr]: https://vespr.xyz
 
 ### Brief info on fields above
 
