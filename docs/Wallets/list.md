@@ -1,5 +1,5 @@
 
-Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], [Vespr], [Yoroi], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Trust] and [Exodus].
+Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], [Vespr], [Yoroi], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Gem Wallet], [Trust] and [Exodus].
 
 Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
 
@@ -27,9 +27,9 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[LodeWallet] |Light    |7     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:ballot_box_with_check:,:x: )                     |:x:                    |
 |[Coin Wallet]|Light    |6     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |[:ballot_box_with_check:](https://github.com/CoinSpace/CoinSpace)|
 |[Atomic]     |Light    |6     |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) |:x:                    |
+|[Gem Wallet]     |Light    |6     |:ballot_box_with_check:                    |:x:                    |:x:                    |:ballot_box_with_check:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:                    |:x:                    |:ballot_box_with_check:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:x: )                     |:ballot_box_with_check:                    |
 |[Trust]      |Light    |4     |:ballot_box_with_check:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
 |[Exodus]     |Light    |2     |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
-
 
 [1]: types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
@@ -47,6 +47,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Lace]: https://lace.io
 [Trust]: https://trustwallet.com
 [Vespr]: https://vespr.xyz
+[Gem Wallet]: https://gemwallet.com
 
 ### Brief info on fields above
 
