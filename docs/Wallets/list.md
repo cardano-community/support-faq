@@ -31,7 +31,6 @@ Note that in case of issues, usually only queries relating to official wallets c
 |[Trust]      |Light    |4     |:ballot_box_with_check:                    |:x:                    |:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
 |[Exodus]     |Light    |2     |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                      |:ballot_box_with_check:|( :x:,:x:,:ballot_box_with_check: )                     |:x:                    |
 
-
 [1]: types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
 [Yoroi]: https://yoroi-wallet.com
