@@ -34,7 +34,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 
 [1]: types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
-[Yoroi]: https://yoroi-wallet.com
+[Yoroi]: https://yoroiwallet.com
 [ADAlite]: https://www.adalite.io
 [NuFi]: https://nu.fi
 [Typhon]: https://typhonwallet.io
