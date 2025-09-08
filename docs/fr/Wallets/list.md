@@ -26,7 +26,7 @@ Notez qu'en cas de problème, seules les questions relatives aux portefeuilles o
 
 [1]: types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
-[Yoroi]: https://yoroi-wallet.com
+[Yoroi]: https://yoroiwallet.com
 [ADAlite]: https://www.adalite.io
 [NuFi]: https://nu.fi
 [Typhon]: https://typhonwallet.io
