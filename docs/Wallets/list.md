@@ -1,5 +1,5 @@
 
-Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], [Vespr], [Yoroi], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Gem Wallet], [Trust] and [Exodus].
+Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], [Vespr], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Gem Wallet], [Trust], [Exodus] and [SecondFi].
 
 Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
 
@@ -18,8 +18,8 @@ Note that in case of issues, usually only queries relating to official wallets c
 | [Lace]        | Light     | 14    | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check:   | :ballot_box_with_check: | ( :x:,:ballot_box_with_check:,:x: )                     | [:ballot_box_with_check:](https://github.com/input-output-hk/lace)     |
 | [Typhon]      | Light     | 13    | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check:   | :x:                     | ( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) | [Partial](https://github.com/StricaHQ)                                 |
 | [Vespr]       | Light     | 13    | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check:   | :ballot_box_with_check: | ( :x:,:ballot_box_with_check:,:x: )                     | :x:                                                                    |
-| [Yoroi]       | Light     | 11    | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :x:                     | :x:                       | :ballot_box_with_check: | ( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) | [:ballot_box_with_check:](https://github.com/emurgo/yoroi-frontend)    |
 | [ADAlite]     | Light     | 10    | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                       | :x:                     | ( :x:,:x:,:ballot_box_with_check: )                     | [:ballot_box_with_check:](https://github.com/vacuumlabs/adalite)       |
+| [SecondFi]       | Light     | 10    | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :x:                     | :x:                       | :ballot_box_with_check: | ( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) | :x:    |
 | [NuFi]        | Light     | 9     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:                     | :x:                       | :x:                     | ( :x:,:ballot_box_with_check:,:ballot_box_with_check: ) | :x:                                                                    |
 | [Gero]        | Light     | 9     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                       | :ballot_box_with_check: | ( :x:,:ballot_box_with_check:,:x: )                     | :x:                                                                    |
 | [ADAWallet]   | Light     | 8     | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                       | :x:                     | ( :x:,:x:,:ballot_box_with_check: )                     | :x:                                                                    |
@@ -33,7 +33,6 @@ Note that in case of issues, usually only queries relating to official wallets c
 
 [1]: types.md#software-wallets
 [Daedalus]: https://daedaluswallet.io
-[Yoroi]: https://yoroiwallet.com
 [ADAlite]: https://www.adalite.io
 [NuFi]: https://nu.fi
 [Typhon]: https://typhonwallet.io
@@ -48,6 +47,8 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Trust]: https://trustwallet.com
 [Vespr]: https://vespr.xyz
 [Gem Wallet]: https://gemwallet.com
+[SecondFi]: https://secondfi.io
+
 
 ### Brief info on fields above
 
