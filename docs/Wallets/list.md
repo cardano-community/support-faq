@@ -1,5 +1,5 @@
 
-Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], [Vespr], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Gem Wallet], [Trust], [Exodus] and [SecondFi].
+Well-known and actively maintained wallets supporting the Cardano Blockchain are [Eternl], [Typhon], [Vespr], [Lace], [ADAlite], [NuFi], [Daedalus], [Gero], [LodeWallet], [Coin Wallet], [ADAWallet], [Atomic], [Gem Wallet], [Trust], [Exodus], [SecondFi] and [Vultisig].
 
 Note that in case of issues, usually only queries relating to official wallets can be answered in Cardano groups across telegram/forum. You may need to consult with specific wallet support teams for third party wallets.
 
@@ -28,6 +28,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 | [Coin Wallet] | Light     | 6     | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                       | :ballot_box_with_check: | ( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) | [:ballot_box_with_check:](https://github.com/CoinSpace/CoinSpace)      |
 | [Atomic]      | Light     | 6     | :ballot_box_with_check: | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                     | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                       | :ballot_box_with_check: | ( :ballot_box_with_check:,:x:,:ballot_box_with_check: ) | :x:                                                                    |
 | [Gem Wallet]  | Light     | 6     | :ballot_box_with_check: | :x:                     | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                     | :x:                     | :ballot_box_with_check: | :x:                     | :ballot_box_with_check: | :x:                       | :ballot_box_with_check: | ( :x:,:x:,:x: )                                         | :ballot_box_with_check:                                                |
+| [Vultisig]    | Light     | 5     | :ballot_box_with_check: | :x:                     | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                     | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                       | :ballot_box_with_check: | ( :ballot_box_with_check:,:x:,:x: )                     | [Partial](https://github.com/vultisig)                                 |
 | [Trust]       | Light     | 4     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                     | :x:                     | :ballot_box_with_check: | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                       | :ballot_box_with_check: | ( :x:,:x:,:ballot_box_with_check: )                     | :x:                                                                    |
 | [Exodus]      | Light     | 2     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                     | :x:                       | :ballot_box_with_check: | ( :x:,:x:,:ballot_box_with_check: )                     | :x:                                                                    |
 
@@ -48,6 +49,7 @@ Note that in case of issues, usually only queries relating to official wallets c
 [Vespr]: https://vespr.xyz
 [Gem Wallet]: https://gemwallet.com
 [SecondFi]: https://secondfi.io
+[Vultisig]: https://vultisig.com
 
 
 ### Brief info on fields above
