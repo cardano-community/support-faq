@@ -19,6 +19,7 @@ Nachfolgend findest du eine Liste der bekannten Blockchain-/Pool-Explorer:
 |[ADAStat]         |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
 |[cExplorer]       |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|
 |[ADAex]           |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|
+|[Super Cardano]   |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |
 |[Pool.pm]         |:ballot_box_with_check:|:x:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |
 |[Pooltool]        |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |
 |[Cardano Explorer]|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |
@@ -29,6 +30,7 @@ Nachfolgend findest du eine Liste der bekannten Blockchain-/Pool-Explorer:
 [ADAStat]: https://adastat.net
 [cExplorer]: https://cexplorer.io
 [ADAEx]: https://adaex.org
+[Super Cardano]: https://supercardano.com
 [Pool.pm]: https://pool.pm
 [Pooltool]: https://pooltool.io
 [Cardano Explorer]: https://explorer.cardano.org
