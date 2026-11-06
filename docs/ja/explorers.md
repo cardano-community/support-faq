@@ -14,22 +14,18 @@
 
 |Name              |Stakepool Info         |Basics Chain Query     |Scripts Support        |Native Assets          |Metadata               |Analytics              |API Support            |Rich List              |
 |------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-|[ADApools]        |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
 |[CardanoScan]     |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:ballot_box_with_check:|
 |[ADAStat]         |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|
 |[cExplorer]       |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|
-|[ADAex]           |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:ballot_box_with_check:|
 |[Super Cardano]   |:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |
 |[Pool.pm]         |:ballot_box_with_check:|:x:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |
 |[Pooltool]        |:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |
 |[Cardano Explorer]|:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |
 |[BlockChair]      |:ballot_box_with_check:|:ballot_box_with_check:|:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |:x:                    |
 
-[ADApools]: https://adapools.org
 [CardanoScan]: https://cardanoscan.io
 [ADAStat]: https://adastat.net
 [cExplorer]: https://cexplorer.io
-[ADAEx]: https://adaex.org
 [Super Cardano]: https://supercardano.com
 [Pool.pm]: https://pool.pm
 [Pooltool]: https://pooltool.io
